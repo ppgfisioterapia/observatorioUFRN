@@ -198,13 +198,13 @@ navbar:
       menu:
         - text: "E-mail"
           icon: "fa-envelope"
-          href: [mailto:ppgcreab@facisa.ufrn.br]
+          href: [mailto:pos.fisioterapia.ufrn@gmail.com]
         - text: "Site institucional"
           icon: "fa-globe"
-          href: [https://posgraduacao.ufrn.br/ppgcreab]
+          href: [https://posgraduacao.ufrn.br/ppgfst]
         - text: "Instagram"
           icon: "fa-instagram"
-          href: [https://www.instagram.com/ppgcreab_ufrn/]
+          href: [https://www.instagram.com/ppgfis.ufrn/]
   right:
     - text: ""
       icon: "fa-github"
