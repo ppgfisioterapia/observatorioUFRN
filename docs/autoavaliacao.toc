@@ -1,4 +1,4 @@
-\babel@toc {portuguese}{}\relax 
+\babel@toc {brazilian}{}\relax 
 \contentsline {section}{\textbf {Metodologia}}{5}{Doc-Start}%
 \contentsline {section}{\textbf {Resultados}}{6}{Doc-Start}%
 \contentsline {subsection}{\textbf {Dados completos}}{6}{Doc-Start}%
