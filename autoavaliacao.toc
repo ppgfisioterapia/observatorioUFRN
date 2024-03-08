@@ -1,76 +1,76 @@
 \babel@toc {brazilian}{}\relax 
-\contentsline {section}{\textbf {Metodologia}}{5}{Doc-Start}%
-\contentsline {section}{\textbf {Resultados}}{6}{Doc-Start}%
-\contentsline {subsection}{\textbf {Dados completos}}{6}{Doc-Start}%
-\contentsline {subsection}{\textbf {Dados perdidos}}{6}{Doc-Start}%
-\contentsline {subsection}{\textbf {Documentos CAPES}}{6}{Doc-Start}%
-\contentsline {section}{\textbf {1. Programa}}{7}{section*.1}%
-\contentsline {subsection}{\textbf {1.1.1 Estrutura Acadêmica do Programa}}{7}{subsection*.2}%
-\contentsline {paragraph}{\textbf {Objetivos}}{7}{paragraph*.3}%
-\contentsline {paragraph}{\textbf {Perfil do egresso}}{7}{paragraph*.4}%
-\contentsline {paragraph}{\textbf {AC}}{7}{paragraph*.5}%
-\contentsline {paragraph}{\textbf {LP}}{7}{paragraph*.6}%
-\contentsline {paragraph}{\textbf {PP}}{7}{paragraph*.7}%
-\contentsline {paragraph}{\textbf {Docentes}}{7}{paragraph*.8}%
-\contentsline {paragraph}{\textbf {Pós-Docs}}{7}{paragraph*.9}%
-\contentsline {paragraph}{\textbf {Síntese}}{7}{paragraph*.10}%
-\contentsline {subsection}{\textbf {1.1.2}}{7}{subsection*.11}%
-\contentsline {subsubsection}{\textbf {Proposta Curricular do Programa}}{7}{subsubsection*.12}%
-\contentsline {paragraph}{\emph {Qualitativa}}{7}{paragraph*.13}%
-\contentsline {paragraph}{\emph {Quantitativa}}{7}{paragraph*.14}%
-\contentsline {subsection}{\textbf {1.1.3}}{7}{subsection*.15}%
-\contentsline {subsubsection}{\textbf {Infraestrutura}}{7}{subsubsection*.16}%
-\contentsline {subsection}{\textbf {1.2.1}}{8}{subsection*.17}%
-\contentsline {subsubsection}{\textbf {Dimensão do corpo Docente Permanente}}{8}{subsubsection*.18}%
-\contentsline {subsection}{\textbf {1.2.2}}{8}{subsection*.19}%
-\contentsline {subsubsection}{\textbf {Coerência acadêmica do Corpo Docente à proposta do PPG}}{8}{subsubsection*.20}%
-\contentsline {subsection}{\textbf {1.2.3}}{8}{subsection*.21}%
-\contentsline {subsubsection}{\textbf {Estabilidade do corpo docente permanente}}{8}{subsubsection*.22}%
-\contentsline {subsection}{\textbf {1.2.4}}{8}{subsection*.23}%
-\contentsline {subsubsection}{\textbf {Percentual de docentes permanentes com dedicação exclusiva ao PPG}}{8}{subsubsection*.24}%
-\contentsline {subsection}{\textbf {1.2.5}}{8}{subsection*.25}%
-\contentsline {subsubsection}{\textbf {Capacidade de captação de recursos}}{8}{subsubsection*.26}%
-\contentsline {subsection}{\textbf {1.3.1}}{8}{subsection*.27}%
-\contentsline {subsubsection}{\textbf {Adequação da proposta ao Plano Institucional da IES}}{8}{subsubsection*.28}%
-\contentsline {subsection}{\textbf {1.3.2}}{8}{subsection*.29}%
-\contentsline {subsubsection}{\textbf {Adequação do planejamento}}{8}{subsubsection*.30}%
-\contentsline {subsection}{\textbf {1.4.1}}{8}{subsection*.31}%
-\contentsline {subsubsection}{\textbf {Adequação dos processos e procedimentos utilizados para a autoavaliação do Programa}}{8}{subsubsection*.32}%
-\contentsline {section}{\textbf {2. Formação}}{9}{section*.33}%
-\contentsline {subsection}{\textbf {2.1.1}}{9}{subsection*.34}%
-\contentsline {subsubsection}{\textbf {Coerência do produto final}}{9}{subsubsection*.35}%
-\contentsline {subsection}{\textbf {2.1.2}}{9}{subsection*.36}%
-\contentsline {subsubsection}{\textbf {Qualidade do produto final}}{9}{subsubsection*.37}%
-\contentsline {subsection}{\textbf {2.2.1}}{9}{subsection*.38}%
-\contentsline {subsubsection}{\textbf {Produção do corpo discente em eventos científicos}}{9}{subsubsection*.39}%
-\contentsline {subsection}{\textbf {2.2.2}}{9}{subsection*.40}%
-\contentsline {subsubsection}{\textbf {Produção bibliográfica dos discentes/egressos -- Acadêmico}}{9}{subsubsection*.41}%
-\contentsline {subsection}{\textbf {2.3.1}}{9}{subsection*.42}%
-\contentsline {subsubsection}{\textbf {Atuação dos Egressos}}{9}{subsubsection*.43}%
-\contentsline {subsection}{\textbf {2.3.2}}{9}{subsection*.44}%
-\contentsline {subsubsection}{\textbf {Egressos de destaque na sociedade}}{9}{subsubsection*.45}%
-\contentsline {subsection}{\textbf {2.4.1}}{9}{subsection*.46}%
-\contentsline {subsubsection}{\textbf {Produção bibliográfica total do Programa -- Acadêmico}}{9}{subsubsection*.47}%
-\contentsline {subsection}{\textbf {2.5.1}}{10}{subsection*.48}%
-\contentsline {subsubsection}{\textbf {Atividades de ensino nas disciplinas do PPG}}{10}{subsubsection*.49}%
-\contentsline {subsection}{\textbf {2.5.2}}{10}{subsection*.50}%
-\contentsline {subsubsection}{\textbf {Responsabilidade por PP/PTT}}{10}{subsubsection*.51}%
-\contentsline {subsection}{\textbf {2.5.3}}{10}{subsection*.52}%
-\contentsline {subsubsection}{\textbf {Orientação no PPG}}{10}{subsubsection*.53}%
-\contentsline {subsection}{\textbf {2.5.4}}{10}{subsection*.54}%
-\contentsline {subsubsection}{\textbf {Titulação no PPG}}{10}{subsubsection*.55}%
-\contentsline {subsection}{\textbf {2.5.5}}{10}{subsection*.56}%
-\contentsline {subsubsection}{\textbf {Orientação na graduação}}{10}{subsubsection*.57}%
-\contentsline {section}{\textbf {3. Impacto na sociedade}}{11}{section*.58}%
-\contentsline {subsection}{\textbf {3.1.1}}{11}{subsection*.59}%
-\contentsline {subsubsection}{\textbf {Produção bibliográfica indicada dos DP -- Acadêmico}}{11}{subsubsection*.60}%
-\contentsline {subsection}{\textbf {3.1.2}}{11}{subsection*.61}%
-\contentsline {subsubsection}{\textbf {Produção do Programa}}{11}{subsubsection*.62}%
-\contentsline {subsection}{\textbf {3.2.1}}{11}{subsection*.63}%
-\contentsline {subsubsection}{\textbf {Avaliação quantitativa dos impactos do PPG}}{11}{subsubsection*.64}%
-\contentsline {subsection}{\textbf {3.2.2}}{12}{subsection*.65}%
-\contentsline {subsubsection}{\textbf {Avaliação qualitativa dos impactos do PPG}}{12}{subsubsection*.66}%
-\contentsline {subsection}{\textbf {3.3.1}}{12}{subsection*.67}%
-\contentsline {subsubsection}{\textbf {Visibilidade}}{12}{subsubsection*.68}%
-\contentsline {subsection}{\textbf {3.3.2}}{13}{subsection*.69}%
-\contentsline {subsubsection}{\textbf {Internacionalização e Inserção}}{13}{subsubsection*.70}%
+\contentsline {section}{\textbf {Metodologia}}{1}{Doc-Start}%
+\contentsline {section}{\textbf {Resultados}}{2}{Doc-Start}%
+\contentsline {subsection}{\textbf {Dados completos}}{2}{Doc-Start}%
+\contentsline {subsection}{\textbf {Dados perdidos}}{2}{Doc-Start}%
+\contentsline {subsection}{\textbf {Documentos CAPES}}{2}{Doc-Start}%
+\contentsline {section}{\textbf {1. Programa}}{3}{section*.1}%
+\contentsline {subsection}{\textbf {1.1.1 Estrutura Acadêmica do Programa}}{3}{subsection*.2}%
+\contentsline {paragraph}{\textbf {Objetivos}}{3}{paragraph*.3}%
+\contentsline {paragraph}{\textbf {Perfil do egresso}}{3}{paragraph*.4}%
+\contentsline {paragraph}{\textbf {AC}}{3}{paragraph*.5}%
+\contentsline {paragraph}{\textbf {LP}}{3}{paragraph*.6}%
+\contentsline {paragraph}{\textbf {PP}}{3}{paragraph*.7}%
+\contentsline {paragraph}{\textbf {Docentes}}{3}{paragraph*.8}%
+\contentsline {paragraph}{\textbf {Pós-Docs}}{3}{paragraph*.9}%
+\contentsline {paragraph}{\textbf {Síntese}}{3}{paragraph*.10}%
+\contentsline {subsection}{\textbf {1.1.2}}{3}{subsection*.11}%
+\contentsline {subsubsection}{\textbf {Proposta Curricular do Programa}}{3}{subsubsection*.12}%
+\contentsline {paragraph}{\emph {Qualitativa}}{3}{paragraph*.13}%
+\contentsline {paragraph}{\emph {Quantitativa}}{3}{paragraph*.14}%
+\contentsline {subsection}{\textbf {1.1.3}}{3}{subsection*.15}%
+\contentsline {subsubsection}{\textbf {Infraestrutura}}{3}{subsubsection*.16}%
+\contentsline {subsection}{\textbf {1.2.1}}{4}{subsection*.17}%
+\contentsline {subsubsection}{\textbf {Dimensão do corpo Docente Permanente}}{4}{subsubsection*.18}%
+\contentsline {subsection}{\textbf {1.2.2}}{4}{subsection*.19}%
+\contentsline {subsubsection}{\textbf {Coerência acadêmica do Corpo Docente à proposta do PPG}}{4}{subsubsection*.20}%
+\contentsline {subsection}{\textbf {1.2.3}}{4}{subsection*.21}%
+\contentsline {subsubsection}{\textbf {Estabilidade do corpo docente permanente}}{4}{subsubsection*.22}%
+\contentsline {subsection}{\textbf {1.2.4}}{4}{subsection*.23}%
+\contentsline {subsubsection}{\textbf {Percentual de docentes permanentes com dedicação exclusiva ao PPG}}{4}{subsubsection*.24}%
+\contentsline {subsection}{\textbf {1.2.5}}{4}{subsection*.25}%
+\contentsline {subsubsection}{\textbf {Capacidade de captação de recursos}}{4}{subsubsection*.26}%
+\contentsline {subsection}{\textbf {1.3.1}}{4}{subsection*.27}%
+\contentsline {subsubsection}{\textbf {Adequação da proposta ao Plano Institucional da IES}}{4}{subsubsection*.28}%
+\contentsline {subsection}{\textbf {1.3.2}}{4}{subsection*.29}%
+\contentsline {subsubsection}{\textbf {Adequação do planejamento}}{4}{subsubsection*.30}%
+\contentsline {subsection}{\textbf {1.4.1}}{4}{subsection*.31}%
+\contentsline {subsubsection}{\textbf {Adequação dos processos e procedimentos utilizados para a autoavaliação do Programa}}{4}{subsubsection*.32}%
+\contentsline {section}{\textbf {2. Formação}}{5}{section*.33}%
+\contentsline {subsection}{\textbf {2.1.1}}{5}{subsection*.34}%
+\contentsline {subsubsection}{\textbf {Coerência do produto final}}{5}{subsubsection*.35}%
+\contentsline {subsection}{\textbf {2.1.2}}{5}{subsection*.36}%
+\contentsline {subsubsection}{\textbf {Qualidade do produto final}}{5}{subsubsection*.37}%
+\contentsline {subsection}{\textbf {2.2.1}}{5}{subsection*.38}%
+\contentsline {subsubsection}{\textbf {Produção do corpo discente em eventos científicos}}{5}{subsubsection*.39}%
+\contentsline {subsection}{\textbf {2.2.2}}{5}{subsection*.40}%
+\contentsline {subsubsection}{\textbf {Produção bibliográfica dos discentes/egressos -- Acadêmico}}{5}{subsubsection*.41}%
+\contentsline {subsection}{\textbf {2.3.1}}{5}{subsection*.42}%
+\contentsline {subsubsection}{\textbf {Atuação dos Egressos}}{5}{subsubsection*.43}%
+\contentsline {subsection}{\textbf {2.3.2}}{5}{subsection*.44}%
+\contentsline {subsubsection}{\textbf {Egressos de destaque na sociedade}}{5}{subsubsection*.45}%
+\contentsline {subsection}{\textbf {2.4.1}}{5}{subsection*.46}%
+\contentsline {subsubsection}{\textbf {Produção bibliográfica total do Programa -- Acadêmico}}{5}{subsubsection*.47}%
+\contentsline {subsection}{\textbf {2.5.1}}{6}{subsection*.48}%
+\contentsline {subsubsection}{\textbf {Atividades de ensino nas disciplinas do PPG}}{6}{subsubsection*.49}%
+\contentsline {subsection}{\textbf {2.5.2}}{6}{subsection*.50}%
+\contentsline {subsubsection}{\textbf {Responsabilidade por PP/PTT}}{6}{subsubsection*.51}%
+\contentsline {subsection}{\textbf {2.5.3}}{6}{subsection*.52}%
+\contentsline {subsubsection}{\textbf {Orientação no PPG}}{6}{subsubsection*.53}%
+\contentsline {subsection}{\textbf {2.5.4}}{6}{subsection*.54}%
+\contentsline {subsubsection}{\textbf {Titulação no PPG}}{6}{subsubsection*.55}%
+\contentsline {subsection}{\textbf {2.5.5}}{6}{subsection*.56}%
+\contentsline {subsubsection}{\textbf {Orientação na graduação}}{6}{subsubsection*.57}%
+\contentsline {section}{\textbf {3. Impacto na sociedade}}{7}{section*.58}%
+\contentsline {subsection}{\textbf {3.1.1}}{7}{subsection*.59}%
+\contentsline {subsubsection}{\textbf {Produção bibliográfica indicada dos DP -- Acadêmico}}{7}{subsubsection*.60}%
+\contentsline {subsection}{\textbf {3.1.2}}{7}{subsection*.61}%
+\contentsline {subsubsection}{\textbf {Produção do Programa}}{7}{subsubsection*.62}%
+\contentsline {subsection}{\textbf {3.2.1}}{7}{subsection*.63}%
+\contentsline {subsubsection}{\textbf {Avaliação quantitativa dos impactos do PPG}}{7}{subsubsection*.64}%
+\contentsline {subsection}{\textbf {3.2.2}}{8}{subsection*.65}%
+\contentsline {subsubsection}{\textbf {Avaliação qualitativa dos impactos do PPG}}{8}{subsubsection*.66}%
+\contentsline {subsection}{\textbf {3.3.1}}{8}{subsection*.67}%
+\contentsline {subsubsection}{\textbf {Visibilidade}}{8}{subsubsection*.68}%
+\contentsline {subsection}{\textbf {3.3.2}}{9}{subsection*.69}%
+\contentsline {subsubsection}{\textbf {Internacionalização e Inserção}}{9}{subsubsection*.70}%
