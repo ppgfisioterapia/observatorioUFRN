@@ -20,10 +20,10 @@
 \contentsline {paragraph}{\emph {Quantitativa}}{3}{paragraph*.14}%
 \contentsline {subsection}{\textbf {1.1.3}}{3}{subsection*.15}%
 \contentsline {subsubsection}{\textbf {Infraestrutura}}{3}{subsubsection*.16}%
-\contentsline {subsection}{\textbf {1.2.1}}{4}{subsection*.17}%
-\contentsline {subsubsection}{\textbf {Dimensão do corpo Docente Permanente}}{4}{subsubsection*.18}%
-\contentsline {subsection}{\textbf {1.2.2}}{4}{subsection*.19}%
-\contentsline {subsubsection}{\textbf {Coerência acadêmica do Corpo Docente à proposta do PPG}}{4}{subsubsection*.20}%
+\contentsline {subsection}{\textbf {1.2.1}}{3}{subsection*.17}%
+\contentsline {subsubsection}{\textbf {Dimensão do corpo Docente Permanente}}{3}{subsubsection*.18}%
+\contentsline {subsection}{\textbf {1.2.2}}{3}{subsection*.19}%
+\contentsline {subsubsection}{\textbf {Coerência acadêmica do Corpo Docente à proposta do PPG}}{3}{subsubsection*.20}%
 \contentsline {subsection}{\textbf {1.2.3}}{4}{subsection*.21}%
 \contentsline {subsubsection}{\textbf {Estabilidade do corpo docente permanente}}{4}{subsubsection*.22}%
 \contentsline {subsection}{\textbf {1.2.4}}{4}{subsection*.23}%
@@ -72,5 +72,5 @@
 \contentsline {subsubsection}{\textbf {Avaliação qualitativa dos impactos do PPG}}{8}{subsubsection*.66}%
 \contentsline {subsection}{\textbf {3.3.1}}{8}{subsection*.67}%
 \contentsline {subsubsection}{\textbf {Visibilidade}}{8}{subsubsection*.68}%
-\contentsline {subsection}{\textbf {3.3.2}}{9}{subsection*.69}%
-\contentsline {subsubsection}{\textbf {Internacionalização e Inserção}}{9}{subsubsection*.70}%
+\contentsline {subsection}{\textbf {3.3.2}}{8}{subsection*.69}%
+\contentsline {subsubsection}{\textbf {Internacionalização e Inserção}}{8}{subsubsection*.70}%
