@@ -1,4 +1,4 @@
-This is XeTeX, Version 3.141592653-2.6-0.999996 (TeX Live 2024) (preloaded format=xelatex 2024.5.2)  4 MAY 2024 22:10
+This is XeTeX, Version 3.141592653-2.6-0.999996 (TeX Live 2024) (preloaded format=xelatex 2024.5.2)  6 MAY 2024 11:23
 entering extended mode
  restricted \write18 enabled.
  %&-line parsing enabled.
@@ -119,9 +119,9 @@ Package: xparse 2024-03-14 L3 Experimental document command parser
 y
 Package: l3keys2e 2024-03-14 LaTeX2e option processing using LaTeX3 keys
 ) (/usr/local/texlive/2024/texmf-dist/tex/latex/fontspec/fontspec.sty
-Package: fontspec 2024/04/27 v2.9b Font selection for XeLaTeX and LuaLaTeX
+Package: fontspec 2024/05/03 v2.9c Font selection for XeLaTeX and LuaLaTeX
 (/usr/local/texlive/2024/texmf-dist/tex/latex/fontspec/fontspec-xetex.sty
-Package: fontspec-xetex 2024/04/27 v2.9b Font selection for XeLaTeX and LuaLaTe
+Package: fontspec-xetex 2024/05/03 v2.9c Font selection for XeLaTeX and LuaLaTe
 X
 \l__fontspec_script_int=\count275
 \l__fontspec_language_int=\count276
@@ -1326,27 +1326,24 @@ File: mt-msb.cfg 2005/06/01 v1.0 microtype config. file: AMS symbols (b) (RS)
 \tf@toc=\write4
 \openout4 = `autoavaliacao.toc'.
 
-(./autoavaliacao.lot [3])
-\tf@lot=\write5
-\openout5 = `autoavaliacao.lot'.
+[3] [4
 
-[4] [1
+] [1
 
 
-
-] [2] [3] [4] [5] [6]
+] [2] [3] [4] [5]
 Overfull \hbox (2.23643pt too wide) in paragraph at lines 370--370
  []\T1/lmr/m/n/10 Implementação 
  []
 
 
-Overfull \hbox (10.97133pt too wide) in paragraph at lines 370--370
- \T1/lmr/m/n/10 Confidence"(Abc- 
+Overfull \hbox (5.69383pt too wide) in paragraph at lines 370--370
+ \T1/lmr/m/n/10 confidence"(abc- 
  []
 
 
-Overfull \hbox (10.97133pt too wide) in paragraph at lines 370--370
- \T1/lmr/m/n/10 Confidence"(Abc- 
+Overfull \hbox (5.69383pt too wide) in paragraph at lines 370--370
+ \T1/lmr/m/n/10 confidence"(abc- 
  []
 
 
@@ -1370,29 +1367,25 @@ Overfull \hbox (11.04185pt too wide) in paragraph at lines 370--370
  []
 
 
-Underfull \vbox (badness 10000) has occurred while \output is active []
+Overfull \vbox (5697.5452pt too high) has occurred while \output is active []
 
-[7]
-Overfull \vbox (6193.76749pt too high) has occurred while \output is active []
+[6] [7]
+Overfull \vbox (249.26527pt too high) has occurred while \output is active []
 
-[8] [9]
-Underfull \vbox (badness 10000) has occurred while \output is active []
-
-[10]
-Overfull \vbox (479.54314pt too high) has occurred while \output is active []
-
-[11] [12] [13]
-Overfull \hbox (57.46425pt too wide) in alignment at lines 429--471
- [] [] [] [] [] 
+[8] [9] [10]
+Overfull \hbox (57.46425pt too wide) in paragraph at lines 427--469
+ [][] 
  []
 
-[14] [15] [16] [17] [18] [19] [20] [21] [22] [23] [24] [25] [26] [27] [28] [29]
-[30] [31] [32] [33] [34] [35] [36] [37]
-Overfull \hbox (62.18623pt too wide) in alignment at lines 690--731
- [] [] [] [] [] 
+[11] [12] [13] [14] [15] [16] [17] [18] [19] [20] [21] [22] [23] [24] [25] [26]
+[27] [28] [29] [30] [31] [32] [33] [34] [35]
+Overfull \hbox (62.18623pt too wide) in paragraph at lines 700--741
+ [][] 
  []
 
-[38] [39] [40] [41] [42] (./autoavaliacao.aux)
+[36] [37] [38] [39] [40] [41] [42
+
+] (./autoavaliacao.aux)
  ***********
 LaTeX2e <2023-11-01> patch level 1
 L3 programming layer <2024-04-11>
@@ -1402,12 +1395,12 @@ LaTeX Font Warning: Some font shapes were not available, defaults substituted.
 
  ) 
 Here is how much of TeX's memory you used:
- 37450 strings out of 474706
- 724458 string characters out of 5756289
- 2049403 words of memory out of 5000000
- 59090 multiletter control sequences out of 15000+600000
- 601838 words of font info for 73 fonts, out of 8000000 for 9000
+ 37419 strings out of 474706
+ 724014 string characters out of 5756289
+ 2038403 words of memory out of 5000000
+ 59063 multiletter control sequences out of 15000+600000
+ 597567 words of font info for 72 fonts, out of 8000000 for 9000
  1348 hyphenation exceptions out of 8191
- 94i,19n,120p,1202b,514s stack positions out of 10000i,1000n,20000p,200000b,200000s
+ 94i,19n,120p,1202b,499s stack positions out of 10000i,1000n,20000p,200000b,200000s
 
 Output written on autoavaliacao.pdf (46 pages).
