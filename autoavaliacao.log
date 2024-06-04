@@ -1,4 +1,4 @@
-This is XeTeX, Version 3.141592653-2.6-0.999996 (TeX Live 2024) (preloaded format=xelatex 2024.5.29)  4 JUN 2024 09:44
+This is XeTeX, Version 3.141592653-2.6-0.999996 (TeX Live 2024) (preloaded format=xelatex 2024.5.29)  4 JUN 2024 20:05
 entering extended mode
  restricted \write18 enabled.
  %&-line parsing enabled.
@@ -1326,37 +1326,57 @@ File: mt-msb.cfg 2005/06/01 v1.0 microtype config. file: AMS symbols (b) (RS)
 
 
 ] [2] [3] [4] [5] [6] [7]
-Overfull \hbox (6.2292pt too wide) in paragraph at lines 424--424
+Overfull \hbox (9.01091pt too wide) in paragraph at lines 424--424
+ []\T1/lmr/m/n/10 Implementação 
+ []
+
+
+Overfull \hbox (17.7458pt too wide) in paragraph at lines 424--424
  \T1/lmr/m/n/10 Confidence"(Abc- 
  []
 
 
-Overfull \hbox (6.2292pt too wide) in paragraph at lines 424--424
+Overfull \hbox (17.7458pt too wide) in paragraph at lines 424--424
  \T1/lmr/m/n/10 Confidence"(Abc- 
  []
 
 
-Overfull \hbox (4.74455pt too wide) in paragraph at lines 424--424
+Overfull \hbox (16.26115pt too wide) in paragraph at lines 424--424
  []\T1/lmr/m/n/10 Neuromodulação 
  []
 
 
-Overfull \hbox (4.91197pt too wide) in paragraph at lines 424--424
+Overfull \hbox (5.37236pt too wide) in paragraph at lines 424--424
+ []\T1/lmr/m/n/10 Tendinopatias: 
+ []
+
+
+Overfull \hbox (5.04787pt too wide) in paragraph at lines 424--424
+ []\T1/lmr/m/n/10 Aprendizagem 
+ []
+
+
+Overfull \hbox (5.04787pt too wide) in paragraph at lines 424--424
+ []\T1/lmr/m/n/10 Aprendizagem 
+ []
+
+
+Overfull \hbox (16.42857pt too wide) in paragraph at lines 424--424
  []\T1/lmr/m/n/10 Desenvolvimento 
  []
 
 
-Overfull \hbox (4.91197pt too wide) in paragraph at lines 424--424
+Overfull \hbox (16.42857pt too wide) in paragraph at lines 424--424
  []\T1/lmr/m/n/10 Desenvolvimento 
  []
 
 
-Overfull \hbox (6.29973pt too wide) in paragraph at lines 424--424
+Overfull \hbox (17.81633pt too wide) in paragraph at lines 424--424
  []\T1/lmr/m/n/10 Desenvolvimento, 
  []
 
 
-Overfull \vbox (5619.14801pt too high) has occurred while \output is active []
+Overfull \vbox (6896.9813pt too high) has occurred while \output is active []
 
 [8] [9]
 Overfull \vbox (160.81252pt too high) has occurred while \output is active []
@@ -1815,7 +1835,7 @@ LaTeX Font Warning: Some font shapes were not available, defaults substituted.
 Here is how much of TeX's memory you used:
  37417 strings out of 474649
  723801 string characters out of 5755059
- 2046556 words of memory out of 5000000
+ 2055556 words of memory out of 5000000
  59119 multiletter control sequences out of 15000+600000
  594537 words of font info for 71 fonts, out of 8000000 for 9000
  1348 hyphenation exceptions out of 8191
