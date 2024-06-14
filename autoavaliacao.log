@@ -1,10 +1,10 @@
-This is XeTeX, Version 3.141592653-2.6-0.999996 (TeX Live 2024) (preloaded format=xelatex 2024.6.9)  11 JUN 2024 23:42
+This is XeTeX, Version 3.141592653-2.6-0.999996 (TeX Live 2024) (preloaded format=xelatex 2024.6.14)  14 JUN 2024 19:49
 entering extended mode
  restricted \write18 enabled.
  %&-line parsing enabled.
 **autoavaliacao.tex
 (./autoavaliacao.tex
-LaTeX2e <2024-06-01>
+LaTeX2e <2024-06-01> patch level 1
 L3 programming layer <2024-05-27>
 (/usr/local/texlive/2024/texmf-dist/tex/latex/base/book.cls
 Document Class: book 2024/02/08 v1.4n Standard LaTeX document class
@@ -1396,14 +1396,14 @@ Overfull \hbox (17.81633pt too wide) in paragraph at lines 424--424
  []
 
 
-Overfull \vbox (6910.40392pt too high) has occurred while \output is active []
+Overfull \vbox (6896.9813pt too high) has occurred while \output is active []
 
 
 
 [8]
 
 [9]
-Overfull \vbox (174.23514pt too high) has occurred while \output is active []
+Overfull \vbox (160.81252pt too high) has occurred while \output is active []
 
 
 
@@ -1843,7 +1843,7 @@ Overfull \hbox (6.50003pt too wide) in paragraph at lines 638--638
  []
 
 
-Overfull \vbox (8099.025pt too high) has occurred while \output is active []
+Overfull \vbox (8085.60237pt too high) has occurred while \output is active []
 
 
 
@@ -1921,7 +1921,7 @@ Overfull \hbox (55.62259pt too wide) in paragraph at lines 916--956
 
 [47] (./autoavaliacao.aux)
  ***********
-LaTeX2e <2024-06-01>
+LaTeX2e <2024-06-01> patch level 1
 L3 programming layer <2024-05-27>
  ***********
 
@@ -1929,10 +1929,10 @@ LaTeX Font Warning: Some font shapes were not available, defaults substituted.
 
  ) 
 Here is how much of TeX's memory you used:
- 37297 strings out of 474256
- 721845 string characters out of 5742728
- 2055543 words of memory out of 5000000
- 59392 multiletter control sequences out of 15000+600000
+ 37295 strings out of 474256
+ 721825 string characters out of 5742727
+ 2055557 words of memory out of 5000000
+ 59390 multiletter control sequences out of 15000+600000
  594537 words of font info for 71 fonts, out of 8000000 for 9000
  1348 hyphenation exceptions out of 8191
  94i,19n,122p,1202b,507s stack positions out of 10000i,1000n,20000p,200000b,200000s
