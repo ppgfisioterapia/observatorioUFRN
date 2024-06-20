@@ -35,22 +35,6 @@
 <script src="site_libs/navigation-1.1/tabsets.js"></script>
 <link href="site_libs/highlightjs-9.12.0/textmate.css" rel="stylesheet" />
 <script src="site_libs/highlightjs-9.12.0/highlight.js"></script>
-<link href="site_libs/htmltools-fill-0.5.8.1/fill.css" rel="stylesheet" />
-<script src="site_libs/htmlwidgets-1.6.4/htmlwidgets.js"></script>
-<link href="site_libs/datatables-css-0.0.0/datatables-crosstalk.css" rel="stylesheet" />
-<script src="site_libs/datatables-binding-0.33/datatables.js"></script>
-<link href="site_libs/dt-core-1.13.6/css/jquery.dataTables.min.css" rel="stylesheet" />
-<link href="site_libs/dt-core-1.13.6/css/jquery.dataTables.extra.css" rel="stylesheet" />
-<script src="site_libs/dt-core-1.13.6/js/jquery.dataTables.min.js"></script>
-<script src="site_libs/pdfmake-1.13.6/pdfmake.js"></script>
-<script src="site_libs/pdfmake-1.13.6/vfs_fonts.js"></script>
-<link href="site_libs/dt-ext-buttons-1.13.6/css/buttons.dataTables.min.css" rel="stylesheet" />
-<script src="site_libs/dt-ext-buttons-1.13.6/js/dataTables.buttons.min.js"></script>
-<script src="site_libs/dt-ext-buttons-1.13.6/js/buttons.html5.min.js"></script>
-<script src="site_libs/dt-ext-buttons-1.13.6/js/buttons.colVis.min.js"></script>
-<script src="site_libs/dt-ext-buttons-1.13.6/js/buttons.print.min.js"></script>
-<link href="site_libs/crosstalk-1.2.1/css/crosstalk.min.css" rel="stylesheet" />
-<script src="site_libs/crosstalk-1.2.1/js/crosstalk.min.js"></script>
 <link href="site_libs/font-awesome-6.4.2/css/all.min.css" rel="stylesheet" />
 <link href="site_libs/font-awesome-6.4.2/css/v4-shims.min.css" rel="stylesheet" />
 <link rel="shortcut icon" href="favicon_io/android-chrome-192x192.png" sizes="192x192" type="image/png">
@@ -508,9 +492,6 @@ div.tocify {
       <a href="bibliografica.html#artigo-periodico">Artigo em periódico</a>
     </li>
     <li>
-      <a href="bibliografica.html#retratacao">Retratação</a>
-    </li>
-    <li>
       <a href="bibliografica.html#livro">Livro</a>
     </li>
     <li>
@@ -790,11 +771,11 @@ $(document).ready(function() {
 <!--script for sharing-->
 <p align="right">
 <a
-href="https://twitter.com/share?url="><svg preserveAspectRatio="none" aria-hidden="true" role="img" viewBox="0 0 448 512" style="height:2em;width:2em;vertical-align:-0.125em;margin-left:0.2em;margin-right:0.2em;font-size:inherit;fill:currentColor;overflow:visible;position:relative;"><path d="M64 32C28.7 32 0 60.7 0 96V416c0 35.3 28.7 64 64 64H384c35.3 0 64-28.7 64-64V96c0-35.3-28.7-64-64-64H64zM351.3 199.3v0c0 86.7-66 186.6-186.6 186.6c-37.2 0-71.7-10.8-100.7-29.4c5.3 .6 10.4 .8 15.8 .8c30.7 0 58.9-10.4 81.4-28c-28.8-.6-53-19.5-61.3-45.5c10.1 1.5 19.2 1.5 29.6-1.2c-30-6.1-52.5-32.5-52.5-64.4v-.8c8.7 4.9 18.9 7.9 29.6 8.3c-9-6-16.4-14.1-21.5-23.6s-7.8-20.2-7.7-31c0-12.2 3.2-23.4 8.9-33.1c32.3 39.8 80.8 65.8 135.2 68.6c-9.3-44.5 24-80.6 64-80.6c18.9 0 35.9 7.9 47.9 20.7c14.8-2.8 29-8.3 41.6-15.8c-4.9 15.2-15.2 28-28.8 36.1c13.2-1.4 26-5.1 37.8-10.2c-8.9 13.1-20.1 24.7-32.9 34c.2 2.8 .2 5.7 .2 8.5z"/></svg></a>
+href="https://twitter.com/share?url=https://github.com/FerreiraAS"><svg preserveAspectRatio="none" aria-hidden="true" role="img" viewBox="0 0 448 512" style="height:2em;width:2em;vertical-align:-0.125em;margin-left:0.2em;margin-right:0.2em;font-size:inherit;fill:currentColor;overflow:visible;position:relative;"><path d="M64 32C28.7 32 0 60.7 0 96V416c0 35.3 28.7 64 64 64H384c35.3 0 64-28.7 64-64V96c0-35.3-28.7-64-64-64H64zM351.3 199.3v0c0 86.7-66 186.6-186.6 186.6c-37.2 0-71.7-10.8-100.7-29.4c5.3 .6 10.4 .8 15.8 .8c30.7 0 58.9-10.4 81.4-28c-28.8-.6-53-19.5-61.3-45.5c10.1 1.5 19.2 1.5 29.6-1.2c-30-6.1-52.5-32.5-52.5-64.4v-.8c8.7 4.9 18.9 7.9 29.6 8.3c-9-6-16.4-14.1-21.5-23.6s-7.8-20.2-7.7-31c0-12.2 3.2-23.4 8.9-33.1c32.3 39.8 80.8 65.8 135.2 68.6c-9.3-44.5 24-80.6 64-80.6c18.9 0 35.9 7.9 47.9 20.7c14.8-2.8 29-8.3 41.6-15.8c-4.9 15.2-15.2 28-28.8 36.1c13.2-1.4 26-5.1 37.8-10.2c-8.9 13.1-20.1 24.7-32.9 34c.2 2.8 .2 5.7 .2 8.5z"/></svg></a>
 <a
-href="https://www.facebook.com/sharer.php?u="><svg preserveAspectRatio="none" aria-hidden="true" role="img" viewBox="0 0 448 512" style="height:2em;width:2em;vertical-align:-0.125em;margin-left:0.2em;margin-right:0.2em;font-size:inherit;fill:currentColor;overflow:visible;position:relative;"><path d="M400 32H48A48 48 0 0 0 0 80v352a48 48 0 0 0 48 48h137.25V327.69h-63V256h63v-54.64c0-62.15 37-96.48 93.67-96.48 27.14 0 55.52 4.84 55.52 4.84v61h-31.27c-30.81 0-40.42 19.12-40.42 38.73V256h68.78l-11 71.69h-57.78V480H400a48 48 0 0 0 48-48V80a48 48 0 0 0-48-48z"/></svg></a>
+href="https://www.facebook.com/sharer.php?u=https://github.com/FerreiraAS"><svg preserveAspectRatio="none" aria-hidden="true" role="img" viewBox="0 0 448 512" style="height:2em;width:2em;vertical-align:-0.125em;margin-left:0.2em;margin-right:0.2em;font-size:inherit;fill:currentColor;overflow:visible;position:relative;"><path d="M400 32H48A48 48 0 0 0 0 80v352a48 48 0 0 0 48 48h137.25V327.69h-63V256h63v-54.64c0-62.15 37-96.48 93.67-96.48 27.14 0 55.52 4.84 55.52 4.84v61h-31.27c-30.81 0-40.42 19.12-40.42 38.73V256h68.78l-11 71.69h-57.78V480H400a48 48 0 0 0 48-48V80a48 48 0 0 0-48-48z"/></svg></a>
 <a
-href="https://www.linkedin.com/shareArticle?mini=true&amp;url="><svg preserveAspectRatio="none" aria-hidden="true" role="img" viewBox="0 0 448 512" style="height:2em;width:2em;vertical-align:-0.125em;margin-left:0.2em;margin-right:0.2em;font-size:inherit;fill:currentColor;overflow:visible;position:relative;"><path d="M416 32H31.9C14.3 32 0 46.5 0 64.3v383.4C0 465.5 14.3 480 31.9 480H416c17.6 0 32-14.5 32-32.3V64.3c0-17.8-14.4-32.3-32-32.3zM135.4 416H69V202.2h66.5V416zm-33.2-243c-21.3 0-38.5-17.3-38.5-38.5S80.9 96 102.2 96c21.2 0 38.5 17.3 38.5 38.5 0 21.3-17.2 38.5-38.5 38.5zm282.1 243h-66.4V312c0-24.8-.5-56.7-34.5-56.7-34.6 0-39.9 27-39.9 54.9V416h-66.4V202.2h63.7v29.2h.9c8.9-16.8 30.6-34.5 62.9-34.5 67.2 0 79.7 44.3 79.7 101.9V416z"/></svg></a>
+href="https://www.linkedin.com/shareArticle?mini=true&amp;url=https://github.com/FerreiraAS"><svg preserveAspectRatio="none" aria-hidden="true" role="img" viewBox="0 0 448 512" style="height:2em;width:2em;vertical-align:-0.125em;margin-left:0.2em;margin-right:0.2em;font-size:inherit;fill:currentColor;overflow:visible;position:relative;"><path d="M416 32H31.9C14.3 32 0 46.5 0 64.3v383.4C0 465.5 14.3 480 31.9 480H416c17.6 0 32-14.5 32-32.3V64.3c0-17.8-14.4-32.3-32-32.3zM135.4 416H69V202.2h66.5V416zm-33.2-243c-21.3 0-38.5-17.3-38.5-38.5S80.9 96 102.2 96c21.2 0 38.5 17.3 38.5 38.5 0 21.3-17.2 38.5-38.5 38.5zm282.1 243h-66.4V312c0-24.8-.5-56.7-34.5-56.7-34.6 0-39.9 27-39.9 54.9V416h-66.4V202.2h63.7v29.2h.9c8.9-16.8 30.6-34.5 62.9-34.5 67.2 0 79.7 44.3 79.7 101.9V416z"/></svg></a>
 </p>
 <!--script for generating ALTMETRIC badges-->
 <script type='text/javascript' src='https://d1bxh8uas1mnw7.cloudfront.net/assets/embed.js'></script>
@@ -820,8 +801,6 @@ href="https://www.linkedin.com/shareArticle?mini=true&amp;url="><svg preserveAsp
 <h2 class="tabset"><strong>Produções: Visibilidade</strong></h2>
 <!--script for generating HORIZONTAL LINE-->
 <hr style="height:2px;border-width:0;color:black;background-color:black">
-<div class="datatables html-widget html-fill-item" id="htmlwidget-07b0e676d9caccfff9ad" style="width:100%;height:auto;"></div>
-<script type="application/json" data-for="htmlwidget-07b0e676d9caccfff9ad">{"x":{"filter":"none","vertical":false,"extensions":["Buttons"],"caption":"<caption>14/06/2024<\/caption>","data":[["22","16","3","15","36","19","18","26","30","37","47","14","17","20","24","4","29","23","41","12"],["Cavalcanti JD, Fregonezi GAF, Sarmento AJ, et al. Electrical activity and fatigue of respiratory and locomotor muscles in obstructive respiratory diseases during field walking test. Cè E, ed. PLOS ONE. 2022;17(4):e0266365. doi:10.1371/journal.pone.0266365\n","Pozzi F, Sousa CO, Plummer HA, et al. Development of shoulder pain with job-related repetitive load: mechanisms of tendon pathology and anxiety. Journal of Shoulder and Elbow Surgery. 2022;31(2):225-234. doi:10.1016/j.jse.2021.09.007\n","Borges LR, Fernandes AB, Oliveira dos Passos J, Rego IAO, Campos TF. Action observation for upper limb rehabilitation after stroke. Cochrane Database of Systematic Reviews. 2022;2022(8). doi:10.1002/14651858.cd011887.pub3\n","Silva Barros BR da, Cavalcanti IBS, Silva Júnior N da, Sousa C de O. Correlation between upper limb function and clinical measures of shoulder and trunk mobility and strength in overhead athletes with shoulder pain. Physical Therapy in Sport. 2022;55:12-20. doi:10.1016/j.ptsp.2022.02.001\n","Lima M do CC de, Perracini MR, Guerra RO, Borim F da SA, Yassuda MS, Neri AL. Precisão da medida de mobilidade no espaço de vida para discriminar fragilidade e sarcopenia em idosos. Revista Brasileira de Geriatria e Gerontologia. 2022;25(5). doi:10.1590/1981-22562022025.210219.pt\n","Pondofe K, Fregonezi GAF, Brito O, Dourado Júnior ME, Torres-Castro R, Resqueti VR. Effects of an optimised approach to home-based respiratory care in individuals with amyotrophic lateral sclerosis: a study protocol for a randomised controlled trial. BMJ Open. 2021;11(4):e042780. doi:10.1136/bmjopen-2020-042780\n","Lista-Paz A, Bouza Cousillas L, Jácome C, et al. Effect of respiratory muscle training in asthma: A systematic review and meta-analysis. Annals of Physical and Rehabilitation Medicine. 2023;66(3):101691. doi:10.1016/j.rehab.2022.101691\n","Regalado ICR, Lindquist AR, Cardoso R, et al. Knowledge translation in rehabilitation settings in low, lower-middle and upper-middle-income countries: a scoping review. Disability and Rehabilitation. 2022;45(2):376-390. doi:10.1080/09638288.2022.2030415\n","Marcelino AA, Fregonezi GA, Lira M das G, de Cordoba Lanza F, Dantas Lima ÍN, Resqueti VR. New reference values for maximum respiratory pressures in healthy Brazilian children following guidelines recommendations: A regional study. Neto MG, ed. PLOS ONE. 2022;17(12):e0279473. doi:10.1371/journal.pone.0279473\n","Cardoso NL, de Sá JF, do Nascimento LFE, et al. Psychometric properties of the sit-to-stand test for patients with pulmonary hypertension: A systematic review protocol. Özden F, ed. PLOS ONE. 2022;17(10):e0275646. doi:10.1371/journal.pone.0275646\n","Bernardes Neto SCG, Torres-Castro R, Lima Í, Resqueti VR, Fregonezi GAF. Weaning from mechanical ventilation in people with neuromuscular disease: a systematic review. BMJ Open. 2021;11(9):e047449. doi:10.1136/bmjopen-2020-047449\n","Palomo-Carrión R, De Araújo Ferreira Jesus CC, Santana CAS, et al. Co-Design of an Intervention to Increase the Participation in Leisure Activities Including Adolescents with Cerebral Palsy with GMFCS Levels IV and V: A Study Protocol. Journal of Clinical Medicine. 2022;12(1):182. doi:10.3390/jcm12010182\n","de Queiros VS, dos Santos ÍK, Almeida-Neto PF, et al. Effect of resistance training with blood flow restriction on muscle damage markers in adults: A systematic review. Kingsley JD, ed. PLOS ONE. 2021;16(6):e0253521. doi:10.1371/journal.pone.0253521\n","Vieira ER, Cavalcanti FA da C, Civitella F, et al. Effects of Exercise and Diet on Body Composition and Physical Function in Older Hispanics with Type 2 Diabetes. International Journal of Environmental Research and Public Health. 2021;18(15):8019. doi:10.3390/ijerph18158019\n","Fernandes J, Gomes C dos S, Guerra RO, et al. Frailty syndrome and risk of cardiovascular disease: Analysis from the International Mobility in Aging Study. Archives of Gerontology and Geriatrics. 2021;92:104279. doi:10.1016/j.archger.2020.104279\n","Holanda LJ, Fernandes APM, de Amorim JA, et al. Adaptive Algorithms as Control Strategies of Smart Upper Limb Orthosis: A Protocol for a Systematic Scoping Review. Frontiers in Neuroscience. 2021;15. doi:10.3389/fnins.2021.660141\n","de Queiros VS, de França IM, Trybulski R, et al. Myoelectric Activity and Fatigue in Low-Load Resistance Exercise With Different Pressure of Blood Flow Restriction: A Systematic Review and Meta-Analysis. Frontiers in Physiology. 2021;12. doi:10.3389/fphys.2021.786752\n","Freitas RV de M, de Freitas DLD, de Oliveira IRD, et al. Fourier-Transform Infrared Spectroscopy as a Screening Tool for Osteosarcopenia in Community-Dwelling Older Women. Le Couteur D, ed. The Journals of Gerontology: Series A. 2023;78(9):1543-1549. doi:10.1093/gerona/glad081\n","da Silva TG, Morais CLM, Santos MCD, et al. Spectrochemical analysis of blood combined with chemometric techniques for detecting osteosarcopenia. Scientific Reports. 2023;13(1). doi:10.1038/s41598-023-36834-6\n","Medeiros da Fonsêca JD, Aliverti A, Benício K, et al. Breathing pattern and muscle activity using different inspiratory resistance devices in children with mouth breathing syndrome. ERJ Open Research. 2022;8(2):00480-02021. doi:10.1183/23120541.00480-2021\n"]],"container":"<table class=\"display\">\n  <thead>\n    <tr>\n      <th>ID<\/th>\n      <th>Reference<\/th>\n    <\/tr>\n  <\/thead>\n<\/table>","options":{"colReorder":false,"pageLength":0,"scrolX":false,"dom":"B","searchHighlight":false,"buttons":[{"extend":"copy","text":"Copiar","filename":"Produção de destaque - Atenção e visibilidade"},{"extend":"csv","text":"CSV","filename":"Produção de destaque - Atenção e visibilidade"},{"extend":"pdf","text":"PDF","title":"Produção de destaque - Atenção e visibilidade","filename":"Produção de destaque - Atenção e visibilidade"}],"headerCallback":"function(thead, display){\n$(thead).remove();\n}","columnDefs":[{"name":"ID","targets":0},{"name":"Reference","targets":1}],"order":[],"autoWidth":false,"orderClasses":false,"lengthMenu":[0,10,25,50,100]},"selection":{"mode":"multiple","selected":null,"target":"row","selectable":null}},"evals":["options.headerCallback"],"jsHooks":[]}</script>
 <!-- -->
 <p><strong>Produtos (n = 20) e Impactos (Altmetric<sup>1</sup>,
 Dimensions<sup>2</sup>, PlumX<sup>3</sup>, CiteScore<sup>4</sup>,
@@ -1825,8 +1804,6 @@ href="https://doaj.org"><strong>DOAJ</strong></a><br><br><br><a style="float:rig
 <h2 class="tabset"><strong>Produções: Prestígio</strong></h2>
 <!--script for generating HORIZONTAL LINE-->
 <hr style="height:2px;border-width:0;color:black;background-color:black">
-<div class="datatables html-widget html-fill-item" id="htmlwidget-3eb8f7b3673303a183cd" style="width:100%;height:auto;"></div>
-<script type="application/json" data-for="htmlwidget-3eb8f7b3673303a183cd">{"x":{"filter":"none","vertical":false,"extensions":["Buttons"],"caption":"<caption>14/06/2024<\/caption>","data":[["57","42","23","31","3","40","21","2","18","4","24","8","13","11","16","29","56","22","30","36"],["Pondofe K, Marcelino AA, Ribeiro TS, et al. Effects of respiratory physiotherapy in patients with amyotrophic lateral sclerosis: protocol for a systematic review of randomised controlled trials. BMJ Open. 2022;12(5):e061624. doi:10.1136/bmjopen-2022-061624\n","Moran CA, Alves VL, Pereira SA, Costa MF. Technical Innovation for Visual Assessment of Preterm Newborns in a Neonatal Intensive Care Unit: Exploratory Study. Smania N, ed. Rehabilitation Research and Practice. 2021;2021:1-7. doi:10.1155/2021/9837505\n","Freitas RV de M, de Freitas DLD, de Oliveira IRD, et al. Fourier-Transform Infrared Spectroscopy as a Screening Tool for Osteosarcopenia in Community-Dwelling Older Women. Le Couteur D, ed. The Journals of Gerontology: Series A. 2023;78(9):1543-1549. doi:10.1093/gerona/glad081\n","de Sousa JCS, de Carvalho AVD, Monte de Prada L de C, et al. Nutritional Factors Associated with Late-Onset Sepsis in Very Low Birth Weight Newborns. Nutrients. 2021;14(1):196. doi:10.3390/nu14010196\n","Borges LR, Fernandes AB, Oliveira dos Passos J, Rego IAO, Campos TF. Action observation for upper limb rehabilitation after stroke. Cochrane Database of Systematic Reviews. 2022;2022(8). doi:10.1002/14651858.cd011887.pub3\n","Souza AA de, Silva ST da, Pondofe K de M, et al. Remote versus face-to-face home-based exercise programme in people with amyotrophic lateral sclerosis: protocol for a randomised clinical trial. BMJ Open. 2022;12(5):e056323. doi:10.1136/bmjopen-2021-056323\n","Bonifácio de Assis ED, Martins WKN, de Carvalho CD, et al. Effects of rTMS and tDCS on neuropathic pain after brachial plexus injury: a randomized placebo-controlled pilot study. Scientific Reports. 2022;12(1). doi:10.1038/s41598-022-05254-3\n","BEZERRA PT, SANTIAGO LM, SILVA IA, et al. Action observation and motor imagery have no effect on balance and freezing of gait in Parkinson’s disease: a randomized controlled trial. European Journal of Physical and Rehabilitation Medicine. 2022;58(5). doi:10.23736/s1973-9087.22.07313-0\n","Lista-Paz A, Bouza Cousillas L, Jácome C, et al. Effect of respiratory muscle training in asthma: A systematic review and meta-analysis. Annals of Physical and Rehabilitation Medicine. 2023;66(3):101691. doi:10.1016/j.rehab.2022.101691\n","Holanda LJ, Fernandes APM, de Amorim JA, et al. Adaptive Algorithms as Control Strategies of Smart Upper Limb Orthosis: A Protocol for a Systematic Scoping Review. Frontiers in Neuroscience. 2021;15. doi:10.3389/fnins.2021.660141\n","Fernandes J, Gomes C dos S, Guerra RO, et al. Frailty syndrome and risk of cardiovascular disease: Analysis from the International Mobility in Aging Study. Archives of Gerontology and Geriatrics. 2021;92:104279. doi:10.1016/j.archger.2020.104279\n","Oliveira NSC, Monteiro IO, Ruaro JA, et al. Assessment of the Concurrent Validity of the ICF Core Set to Classify the Physical Health of Community-Dwelling Older Adults in Relation to Self-Rated Health. Journal of Geriatric Physical Therapy. 2021;46(1):71-81. doi:10.1519/jpt.0000000000000314\n","Aburub AS, Phillips SP, Curcio CL, Guerra RO, Khalil H, Auais M. Circumstances and Factors Associated With Falls Among Community-Dwelling Older Adults Diagnosed With Heart Disease Using the International Mobility in Aging Study (IMIAS). Journal of Geriatric Physical Therapy. 2021;46(1):53-63. doi:10.1519/jpt.0000000000000316\n","Cerqueira MS, Costa EC, Santos Oliveira R, Pereira R, Brito Vieira WH. Blood Flow Restriction Training: To Adjust or Not Adjust the Cuff Pressure Over an Intervention Period? Frontiers in Physiology. 2021;12. doi:10.3389/fphys.2021.678407\n","Pozzi F, Sousa CO, Plummer HA, et al. Development of shoulder pain with job-related repetitive load: mechanisms of tendon pathology and anxiety. Journal of Shoulder and Elbow Surgery. 2022;31(2):225-234. doi:10.1016/j.jse.2021.09.007\n","de Queiros VS, de França IM, Trybulski R, et al. Myoelectric Activity and Fatigue in Low-Load Resistance Exercise With Different Pressure of Blood Flow Restriction: A Systematic Review and Meta-Analysis. Frontiers in Physiology. 2021;12. doi:10.3389/fphys.2021.786752\n","Martins de França I, Cerqueira MS, Bezerra da Nobrega Neto S, Augusto de Menezes Araújo C, Barros de Sousa Oliveira YM, de Brito Vieira WH. Effects of Ischemic Preconditioning on Functional and Neuromuscular Performance of Lower Limbs of Male Amateur Soccer Players: Protocol for a Randomized Trial. Muscle Ligaments and Tendons Journal. 2022;12(04):555. doi:10.32098/mltj.04.2022.12\n","Cavalcanti JD, Fregonezi GAF, Sarmento AJ, et al. Electrical activity and fatigue of respiratory and locomotor muscles in obstructive respiratory diseases during field walking test. Cè E, ed. PLOS ONE. 2022;17(4):e0266365. doi:10.1371/journal.pone.0266365\n","Marcelino AA, Fregonezi GA, Lira M das G, de Cordoba Lanza F, Dantas Lima ÍN, Resqueti VR. New reference values for maximum respiratory pressures in healthy Brazilian children following guidelines recommendations: A regional study. Neto MG, ed. PLOS ONE. 2022;17(12):e0279473. doi:10.1371/journal.pone.0279473\n","Lima M do CC de, Perracini MR, Guerra RO, Borim F da SA, Yassuda MS, Neri AL. Precisão da medida de mobilidade no espaço de vida para discriminar fragilidade e sarcopenia em idosos. Revista Brasileira de Geriatria e Gerontologia. 2022;25(5). doi:10.1590/1981-22562022025.210219.pt\n"]],"container":"<table class=\"display\">\n  <thead>\n    <tr>\n      <th>ID<\/th>\n      <th>Reference<\/th>\n    <\/tr>\n  <\/thead>\n<\/table>","options":{"colReorder":false,"pageLength":0,"scrolX":false,"dom":"B","searchHighlight":false,"buttons":[{"extend":"copy","text":"Copiar","filename":"Produção de destaque - Prestígio do peridódico"},{"extend":"csv","text":"CSV","filename":"Produção de destaque - Prestígio do peridódico"},{"extend":"pdf","text":"PDF","title":"Produção de destaque - Prestígio do peridódico","filename":"Produção de destaque - Prestígio do peridódico"}],"headerCallback":"function(thead, display){\n$(thead).remove();\n}","columnDefs":[{"name":"ID","targets":0},{"name":"Reference","targets":1}],"order":[],"autoWidth":false,"orderClasses":false,"lengthMenu":[0,10,25,50,100]},"selection":{"mode":"multiple","selected":null,"target":"row","selectable":null}},"evals":["options.headerCallback"],"jsHooks":[]}</script>
 <!-- -->
 <p><strong>Produtos (n = 20) e Impactos (Altmetric<sup>1</sup>,
 Dimensions<sup>2</sup>, PlumX<sup>3</sup>, CiteScore<sup>4</sup>,
@@ -2665,24 +2642,22 @@ Qualis <br>A1</a></nobr>
 </div>
 </tr>
 <tr>
-<td valign=top;>
-<br><a style="display: inline-block; float: left; margin:0.0em 0.2em 0.0em 0.0em; padding:0.0em 0.2em 0.0em 0.0em;" href="http://dx.doi.org/10.1371/journal.pone.0275646" target="_blank"><img height="18px;" src="https://upload.wikimedia.org/wikipedia/commons/thumb/2/25/Open_Access_logo_PLoS_white.svg/256px-Open_Access_logo_PLoS_white.svg.png"></a>
-<a href="http://dx.doi.org/10.1371/journal.pone.0275646"
-target="_blank"><strong>Psychometric properties of the sit-to-stand test
-for patients with pulmonary hypertension: A systematic review
-protocol</strong></a><br>Natália Lopes Cardoso, Joceline Ferezini de Sá,
-Larissa F. E. do Nascimento, Luciana A. Mendes, Selma Bruno, Rodrigo
-Torres-Castro, Guilherme A. F. Fregonezi, Vanessa R. Resqueti<br>2022  -
- <em>PLOS ONE</em><br>
+<td valign="top;">
+<br> <a href="https://doi.org/NA" target="_blank"><strong>Development
+and testing of a novel IoT consumer tDCS device for the treatment of
+primary dysmenorrhea</strong></a><br>Emile Radyte, Maria Thereza
+Micussi, Alexander Anthony Cook, Tatiana Alves, Ervinas Bernatavicius,
+Yvina Rodrigues, Rodrigo Pegado<br>2023  -  <em>Brain
+Stimulation</em><br>
 <div style="vertical-align: middle; display: inline-block;">
-<nobr><a style="display: inline-block; float: left; margin:0.1em 0.3em 0.1em 0.3em;" class="altmetric-embed" data-badge-type="donut" data-badge-popover="right" data-doi="10.1371/journal.pone.0275646"></a><a style="display: inline-block; float: left; margin:0.1em 0.3em 0.1em 0.3em;" data-legend="hover-right" class="__dimensions_badge_embed__" data-doi="10.1371/journal.pone.0275646" data-style="small_circle"></a><a style="display: inline-block; float: left; margin:0.1em 0.3em 0.1em 0.3em; padding:0.5em 0.3em 0.5em 0.3em;" class="plumx-plum-print-popup" href="https://plu.mx/plum/a/?doi=10.1371/journal.pone.0275646" data-popup="right" data-size="medium" data-site="plum"></a><a href="https://www.scopus.com/sourceid/10600153309?dgcid=sc_widget-citescore" style="display: inline-block; float: left; margin:0.1em 0.3em 0.1em 0.3em; text-decoration:none;color:#505050">
+<nobr><img style="display: inline-block; float: left; margin:0.1em 0.3em 0.1em 0.3em;" src="https://badges.altmetric.com/?score=?&types=????????"><a style="display: inline-block; float: left; margin:0.1em 0.3em 0.1em 0.3em;" data-legend="hover-right" class="__dimensions_badge_embed__" data-doi="NA" data-style="small_circle"></a><a style="display: inline-block; float: left; margin:0.1em 0.3em 0.1em 0.3em; padding:0.4em 0.3em 0.4em 0.3em;" class="plumx-plum-print-popup" href="https://plu.mx/plum/a/?doi=NA" data-popup="right" data-size="medium" data-site="plum"></a><a href="https://www.scopus.com/sourceid/11700154204?dgcid=sc_widget-citescore" style="display: inline-block; float: left; margin:0.1em 0.3em 0.1em 0.3em; text-decoration:none;color:#505050">
 <div
 style="height:64px;width:160px;font-family:Arial, Verdana, helvetica, sans-serif;background-color:#ffffff;display:inline-block">
 <div style="padding: 0px 16px;">
 <div style="padding-top:3px;line-height:1;">
 <div style="float:left;font-size:28px">
 <span id="citescoreVal"
-style="letter-spacing: -2px;display: inline-block;padding-top: 7px;line-height: .75;">6.00</span>
+style="letter-spacing: -2px;display: inline-block;padding-top: 7px;line-height: .75;">12.90</span>
 </div>
 <div
 style="float:right;font-size:14px;padding-top:3px;text-align: right;">
@@ -2695,12 +2670,12 @@ style="float:right;font-size:14px;padding-top:3px;text-align: right;">
 <div style="padding-top:3px;">
 <div style="height:4px;background-color:#DCDCDC;">
 <div id="percentActBar"
-style="height: 4px; background-color: rgb(0, 115, 152); width:84%;">
+style="height: 4px; background-color: rgb(0, 115, 152); width:97%;">
  
 </div>
 </div>
 <div style="font-size:11px;">
-<span id="citescorePerVal">84th percentile</span>
+<span id="citescorePerVal">97th percentile</span>
 </div>
 </div>
 <div style="font-size:12px;text-align:right;">
@@ -2708,21 +2683,20 @@ style="height: 4px; background-color: rgb(0, 115, 152); width:84%;">
 </div>
 </div>
 </div>
-</a><a style="display: inline-block; float: left; margin:0.1em 0.3em 0.1em 0.3em;" href="https://www.scimagojr.com/journalsearch.php?q=10600153309&amp;tip=sid&amp;exact=no" target="_blank" title="SCImago Journal &amp; Country Rank"><img border="0" height="64px;" src="https://www.scimagojr.com/journal_img.php?id=10600153309" alt="SCImago Journal &amp; Country Rank"  /></a><a style="border-radius:10%; border-style: solid; margin:0.1em 0.3em 0.1em 0.3em; padding:0.4em 0.3em 0.4em 0.3em; text-decoration:none; text-align: center; display:inline-block; float:left; color:black;">
+</a><a style="display: inline-block; float: left; margin:0.1em 0.3em 0.1em 0.3em;" href="https://www.scimagojr.com/journalsearch.php?q=11700154204&amp;tip=sid&amp;exact=no" target="_blank" title="SCImago Journal &amp; Country Rank"><img border="0" height="64px;" src="https://www.scimagojr.com/journal_img.php?id=11700154204" alt="SCImago Journal &amp; Country Rank"  /></a><a style="border-radius:10%; border-style: solid; margin:0.1em 0.3em 0.1em 0.3em; padding:0.4em 0.3em 0.4em 0.3em; text-decoration:none; text-align: center; display:inline-block; float:left; color:black;">
 Qualis <br>A1</a></nobr>
 </div>
+</td>
 </tr>
 <tr>
 <td valign="top;">
-<br><a style="display: inline-block; float: left; margin:0.0em 0.2em 0.0em 0.0em; padding:0.0em 0.2em 0.0em 0.0em;" href="http://dx.doi.org/10.1161/strokeaha.120.033098" target="_blank"><img height="18px;" src="https://upload.wikimedia.org/wikipedia/commons/thumb/2/25/Open_Access_logo_PLoS_white.svg/256px-Open_Access_logo_PLoS_white.svg.png"></a>
-<a href="https://doi.org/10.1161/strokeaha.120.033098"
-target="_blank"><strong>Motor Imagery for Gait Rehabilitation After
-Stroke</strong></a><br>Stephano Tomaz da Silva, Lorenna Raquel Dantas de
-Macedo Borges, Lorenna Marques de Melo Santiago, Larissa Coutinho de
-Lucena, Ana Raquel Rodrigues Lindquist, Tatiana Souza Ribeiro<br>2021  -
- <em>Stroke</em><br>
+<br> <a href="https://doi.org/NA" target="_blank"><strong>Motor Imagery
+for Gait Rehabilitation After Stroke</strong></a><br>Stephano Tomaz da
+Silva, Lorenna Raquel Dantas de Macedo Borges, Lorenna Marques de Melo
+Santiago, Larissa Coutinho de Lucena, Ana Raquel Rodrigues Lindquist,
+Tatiana Souza Ribeiro<br>2021  -  <em>Stroke</em><br>
 <div style="vertical-align: middle; display: inline-block;">
-<nobr><img style="display: inline-block; float: left; margin:0.1em 0.3em 0.1em 0.3em;" src="https://badges.altmetric.com/?score=?&types=????????"><a style="display: inline-block; float: left; margin:0.1em 0.3em 0.1em 0.3em;" data-legend="hover-right" class="__dimensions_badge_embed__" data-doi="10.1161/strokeaha.120.033098" data-style="small_circle"></a><a style="display: inline-block; float: left; margin:0.1em 0.3em 0.1em 0.3em; padding:0.4em 0.3em 0.4em 0.3em;" class="plumx-plum-print-popup" href="https://plu.mx/plum/a/?doi=10.1161/strokeaha.120.033098" data-popup="right" data-size="medium" data-site="plum"></a><a href="https://www.scopus.com/sourceid/20618?dgcid=sc_widget-citescore" style="display: inline-block; float: left; margin:0.1em 0.3em 0.1em 0.3em; text-decoration:none;color:#505050">
+<nobr><img style="display: inline-block; float: left; margin:0.1em 0.3em 0.1em 0.3em;" src="https://badges.altmetric.com/?score=?&types=????????"><a style="display: inline-block; float: left; margin:0.1em 0.3em 0.1em 0.3em;" data-legend="hover-right" class="__dimensions_badge_embed__" data-doi="NA" data-style="small_circle"></a><a style="display: inline-block; float: left; margin:0.1em 0.3em 0.1em 0.3em; padding:0.4em 0.3em 0.4em 0.3em;" class="plumx-plum-print-popup" href="https://plu.mx/plum/a/?doi=NA" data-popup="right" data-size="medium" data-site="plum"></a><a href="https://www.scopus.com/sourceid/20618?dgcid=sc_widget-citescore" style="display: inline-block; float: left; margin:0.1em 0.3em 0.1em 0.3em; text-decoration:none;color:#505050">
 <div
 style="height:64px;width:160px;font-family:Arial, Verdana, helvetica, sans-serif;background-color:#ffffff;display:inline-block">
 <div style="padding: 0px 16px;">
@@ -2762,17 +2736,16 @@ Qualis <br>A1</a></nobr>
 </tr>
 <tr>
 <td valign="top;">
-<br><a style="display: inline-block; float: left; margin:0.0em 0.2em 0.0em 0.0em; padding:0.0em 0.2em 0.0em 0.0em;" href="http://dx.doi.org/10.1371/journal.pone.0293457" target="_blank"><img height="18px;" src="https://upload.wikimedia.org/wikipedia/commons/thumb/2/25/Open_Access_logo_PLoS_white.svg/256px-Open_Access_logo_PLoS_white.svg.png"></a>
-<a href="https://doi.org/10.1371/journal.pone.0293457"
-target="_blank"><strong>Isometric versus isotonic exercise in
-individuals with rotator cuff tendinopathy—Effects on shoulder pain,
-functioning, muscle strength, and electromyographic activity: A protocol
-for randomized clinical trial</strong></a><br>Bianca Rodrigues da Silva
-Barros, Denise Dal’Ava Augusto, João Felipe de Medeiros Neto, Lori Ann
-Michener, Rodrigo Scattone Silva, Catarina de Oliveira Sousa<br>2023  -
- <em>PLOS ONE</em><br>
+<br> <a href="https://doi.org/NA" target="_blank"><strong>Isometric
+versus isotonic exercise in individuals with rotator cuff
+tendinopathy—Effects on shoulder pain, functioning, muscle strength, and
+electromyographic activity: A protocol for randomized clinical
+trial</strong></a><br>Bianca Rodrigues da Silva Barros, Denise Dal’Ava
+Augusto, João Felipe de Medeiros Neto, Lori Ann Michener, Rodrigo
+Scattone Silva, Catarina de Oliveira Sousa<br>2023  -  <em>PLOS
+ONE</em><br>
 <div style="vertical-align: middle; display: inline-block;">
-<nobr><img style="display: inline-block; float: left; margin:0.1em 0.3em 0.1em 0.3em;" src="https://badges.altmetric.com/?score=?&types=????????"><a style="display: inline-block; float: left; margin:0.1em 0.3em 0.1em 0.3em;" data-legend="hover-right" class="__dimensions_badge_embed__" data-doi="10.1371/journal.pone.0293457" data-style="small_circle"></a><a style="display: inline-block; float: left; margin:0.1em 0.3em 0.1em 0.3em; padding:0.4em 0.3em 0.4em 0.3em;" class="plumx-plum-print-popup" href="https://plu.mx/plum/a/?doi=10.1371/journal.pone.0293457" data-popup="right" data-size="medium" data-site="plum"></a><a href="https://www.scopus.com/sourceid/10600153309?dgcid=sc_widget-citescore" style="display: inline-block; float: left; margin:0.1em 0.3em 0.1em 0.3em; text-decoration:none;color:#505050">
+<nobr><img style="display: inline-block; float: left; margin:0.1em 0.3em 0.1em 0.3em;" src="https://badges.altmetric.com/?score=?&types=????????"><a style="display: inline-block; float: left; margin:0.1em 0.3em 0.1em 0.3em;" data-legend="hover-right" class="__dimensions_badge_embed__" data-doi="NA" data-style="small_circle"></a><a style="display: inline-block; float: left; margin:0.1em 0.3em 0.1em 0.3em; padding:0.4em 0.3em 0.4em 0.3em;" class="plumx-plum-print-popup" href="https://plu.mx/plum/a/?doi=NA" data-popup="right" data-size="medium" data-site="plum"></a><a href="https://www.scopus.com/sourceid/10600153309?dgcid=sc_widget-citescore" style="display: inline-block; float: left; margin:0.1em 0.3em 0.1em 0.3em; text-decoration:none;color:#505050">
 <div
 style="height:64px;width:160px;font-family:Arial, Verdana, helvetica, sans-serif;background-color:#ffffff;display:inline-block">
 <div style="padding: 0px 16px;">
