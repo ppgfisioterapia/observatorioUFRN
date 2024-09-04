@@ -1,4 +1,4 @@
-This is XeTeX, Version 3.141592653-2.6-0.999996 (TeX Live 2024) (preloaded format=xelatex 2024.8.31)  2 SEP 2024 18:48
+This is XeTeX, Version 3.141592653-2.6-0.999996 (TeX Live 2024) (preloaded format=xelatex 2024.8.31)  4 SEP 2024 18:12
 entering extended mode
  restricted \write18 enabled.
  %&-line parsing enabled.
@@ -576,7 +576,7 @@ Package: tabularx 2023/12/11 v2.12a `tabularx' package (DPC)
 )) (/usr/local/texlive/2024/texmf-dist/tex/latex/letltxmacro/letltxmacro.sty
 Package: letltxmacro 2019/12/03 v1.6 Let assignment for LaTeX macros (HO)
 ) (/usr/local/texlive/2024/texmf-dist/tex/latex/pdfpages/pdfpages.sty
-Package: pdfpages 2024/05/29 v0.6a Insert pages of external PDF documents (AM)
+Package: pdfpages 2024/08/20 v0.6b Insert pages of external PDF documents (AM)
 (/usr/local/texlive/2024/texmf-dist/tex/latex/base/ifthen.sty
 Package: ifthen 2024/03/16 v1.1e Standard LaTeX ifthen package (DPC)
 ) (/usr/local/texlive/2024/texmf-dist/tex/latex/eso-pic/eso-pic.sty
@@ -588,7 +588,7 @@ Package: eso-pic 2023/05/03 v3.0c eso-pic (RN)
 \AM@pageheight=\dimen309
 \AM@fboxrule=\dimen310
 (/usr/local/texlive/2024/texmf-dist/tex/latex/pdfpages/ppxetex.def
-File: ppxetex.def 2024/05/29 v0.6a Pdfpages driver for XeTeX (AM)
+File: ppxetex.def 2024/08/20 v0.6b Pdfpages driver for XeTeX (AM)
 )
 \pdfpages@includegraphics@status=\count350
 \AM@pagebox=\box100
@@ -1566,25 +1566,26 @@ File: mt-msb.cfg 2005/06/01 v1.0 microtype config. file: AMS symbols (b) (RS)
 [3]
 
 [4]
-Overfull \hbox (7.19316pt too wide) in paragraph at lines 336--351
+
+[5]
+Overfull \hbox (7.19316pt too wide) in paragraph at lines 358--374
  [][] 
  []
 
 
 
-[5]
-
 [6]
+Overfull \hbox (7.19316pt too wide) in paragraph at lines 386--401
+ [][] 
+ []
+
+
 
 [7]
 
 [8]
 
 [9]
-
-[10]
-
-[11]
 > Step: init table outer spec.
 > Step: parse table options.
 > Step: split table.
@@ -1593,1015 +1594,1015 @@ Overfull \hbox (7.19316pt too wide) in paragraph at lines 336--351
 > Step: execute table commands.
 > Step: calculate cell and line sizes.
 
-Underfull \hbox (badness 10000) in paragraph at lines 530--530
+Underfull \hbox (badness 10000) in paragraph at lines 506--506
 []\TU/lmr/m/n/10 ABORDAGEM FISIO-
  []
 
 
-Underfull \hbox (badness 10000) in paragraph at lines 530--530
+Underfull \hbox (badness 10000) in paragraph at lines 506--506
 \TU/lmr/m/n/10 TERAPÊUTICA EM
  []
 
 
-Underfull \hbox (badness 10000) in paragraph at lines 530--530
+Underfull \hbox (badness 10000) in paragraph at lines 506--506
 \TU/lmr/m/n/10 DESENVOLVIMENTO,
  []
 
 
-Underfull \hbox (badness 10000) in paragraph at lines 530--530
+Underfull \hbox (badness 10000) in paragraph at lines 506--506
 []\TU/lmr/m/n/10 ABORDAGEM FISIO-
  []
 
 
-Underfull \hbox (badness 10000) in paragraph at lines 530--530
+Underfull \hbox (badness 10000) in paragraph at lines 506--506
 \TU/lmr/m/n/10 TERAPÊUTICA EM
  []
 
 
-Underfull \hbox (badness 10000) in paragraph at lines 530--530
+Underfull \hbox (badness 10000) in paragraph at lines 506--506
 \TU/lmr/m/n/10 NEURORREABILITA-
  []
 
 
-Underfull \hbox (badness 10000) in paragraph at lines 530--530
+Underfull \hbox (badness 10000) in paragraph at lines 506--506
 []\TU/lmr/m/n/10 AVALIAÇÃO CARDI-
  []
 
 
-Underfull \hbox (badness 10000) in paragraph at lines 530--530
+Underfull \hbox (badness 10000) in paragraph at lines 506--506
 \TU/lmr/m/n/10 ORRESPIRATÓRIA
  []
 
 
-Underfull \hbox (badness 1735) in paragraph at lines 530--530
+Underfull \hbox (badness 1735) in paragraph at lines 506--506
 []\TU/lmr/m/n/10 AVALIAÇÃO DA EVI-
  []
 
 
-Underfull \hbox (badness 2495) in paragraph at lines 530--530
+Underfull \hbox (badness 2495) in paragraph at lines 506--506
 \TU/lmr/m/n/10 DÊNCIA CIENTÍFICA
  []
 
 
-Underfull \hbox (badness 10000) in paragraph at lines 530--530
+Underfull \hbox (badness 10000) in paragraph at lines 506--506
 \TU/lmr/m/n/10 E DESENVOLVI-
  []
 
 
-Underfull \hbox (badness 10000) in paragraph at lines 530--530
+Underfull \hbox (badness 10000) in paragraph at lines 506--506
 \TU/lmr/m/n/10 SISTEMÁTICAS EM
  []
 
 
-Underfull \hbox (badness 1735) in paragraph at lines 530--530
+Underfull \hbox (badness 1735) in paragraph at lines 506--506
 []\TU/lmr/m/n/10 AVALIAÇÃO DA EVI-
  []
 
 
-Underfull \hbox (badness 2495) in paragraph at lines 530--530
+Underfull \hbox (badness 2495) in paragraph at lines 506--506
 \TU/lmr/m/n/10 DÊNCIA CIENTÍFICA
  []
 
 
-Underfull \hbox (badness 10000) in paragraph at lines 530--530
+Underfull \hbox (badness 10000) in paragraph at lines 506--506
 \TU/lmr/m/n/10 E DESENVOLVI-
  []
 
 
-Underfull \hbox (badness 10000) in paragraph at lines 530--530
+Underfull \hbox (badness 10000) in paragraph at lines 506--506
 \TU/lmr/m/n/10 SISTEMÁTICAS EM
  []
 
 
-Underfull \hbox (badness 1337) in paragraph at lines 530--530
+Underfull \hbox (badness 1337) in paragraph at lines 506--506
 \TU/lmr/m/n/10 VENÇÃO EM SAÚDE
  []
 
 
-Underfull \hbox (badness 10000) in paragraph at lines 530--530
+Underfull \hbox (badness 10000) in paragraph at lines 506--506
 []\TU/lmr/m/n/10 AVALIAÇÃO E RE-
  []
 
 
-Underfull \hbox (badness 10000) in paragraph at lines 530--530
+Underfull \hbox (badness 10000) in paragraph at lines 506--506
 \TU/lmr/m/n/10 ABILITAÇÃO NAS
  []
 
 
-Underfull \hbox (badness 10000) in paragraph at lines 530--530
+Underfull \hbox (badness 10000) in paragraph at lines 506--506
 \TU/lmr/m/n/10 DOENÇAS CAR-
  []
 
 
-Underfull \hbox (badness 10000) in paragraph at lines 530--530
+Underfull \hbox (badness 10000) in paragraph at lines 506--506
 \TU/lmr/m/n/10 DIOVASCULARES,
  []
 
 
-Underfull \hbox (badness 10000) in paragraph at lines 530--530
+Underfull \hbox (badness 10000) in paragraph at lines 506--506
 \TU/lmr/m/n/10 RESPIRATORIAS E
  []
 
 
-Underfull \hbox (badness 6775) in paragraph at lines 530--530
+Underfull \hbox (badness 6775) in paragraph at lines 506--506
 \TU/lmr/m/n/10 TERAPIA NEUROLÓ-
  []
 
 
-Underfull \hbox (badness 10000) in paragraph at lines 530--530
+Underfull \hbox (badness 10000) in paragraph at lines 506--506
 []\TU/lmr/m/n/10 CONTEMPORARY
  []
 
 
-Underfull \hbox (badness 10000) in paragraph at lines 530--530
+Underfull \hbox (badness 10000) in paragraph at lines 506--506
 \TU/lmr/m/n/10 INTENSIVE THERA-
  []
 
 
-Underfull \hbox (badness 4479) in paragraph at lines 530--530
+Underfull \hbox (badness 4479) in paragraph at lines 506--506
 \TU/lmr/m/n/10 PIES TO PROMOTE
  []
 
 
-Underfull \hbox (badness 10000) in paragraph at lines 530--530
+Underfull \hbox (badness 10000) in paragraph at lines 506--506
 \TU/lmr/m/n/10 HAND FUNCTION
  []
 
 
-Underfull \hbox (badness 1755) in paragraph at lines 530--530
+Underfull \hbox (badness 1755) in paragraph at lines 506--506
 \TU/lmr/m/n/10 IN CHILDREN WITH
  []
 
 
-Underfull \hbox (badness 10000) in paragraph at lines 530--530
+Underfull \hbox (badness 10000) in paragraph at lines 506--506
 []\TU/lmr/m/n/10 DIDÁTICA DO EN-
  []
 
 
-Underfull \hbox (badness 10000) in paragraph at lines 530--530
+Underfull \hbox (badness 10000) in paragraph at lines 506--506
 []\TU/lmr/m/n/10 ELETROMIOGRAFIA
  []
 
 
-Underfull \hbox (badness 10000) in paragraph at lines 530--530
+Underfull \hbox (badness 10000) in paragraph at lines 506--506
 []\TU/lmr/m/n/10 FISIOLOGIA DO
  []
 
 
-Underfull \hbox (badness 10000) in paragraph at lines 530--530
+Underfull \hbox (badness 10000) in paragraph at lines 506--506
 \TU/lmr/m/n/10 BILITAÇÃO MUSCU-
  []
 
 
-Underfull \hbox (badness 10000) in paragraph at lines 530--530
+Underfull \hbox (badness 10000) in paragraph at lines 506--506
 \TU/lmr/m/n/10 PENHO CARDIOVAS-
  []
 
 
-Underfull \hbox (badness 10000) in paragraph at lines 530--530
+Underfull \hbox (badness 10000) in paragraph at lines 506--506
 []\TU/lmr/m/n/10 METODOLOGIA DA
  []
 
 
-Underfull \hbox (badness 10000) in paragraph at lines 530--530
+Underfull \hbox (badness 10000) in paragraph at lines 506--506
 \TU/lmr/m/n/10 PESQUISA CIENTÍ-
  []
 
 
-Underfull \hbox (badness 2302) in paragraph at lines 530--530
+Underfull \hbox (badness 2302) in paragraph at lines 506--506
 []\TU/lmr/m/n/10 MÉTODOS E TÉCNI-
  []
 
 
-Underfull \hbox (badness 1584) in paragraph at lines 530--530
+Underfull \hbox (badness 1584) in paragraph at lines 506--506
 \TU/lmr/m/n/10 CAS EM FISIOTERA-
  []
 
 
-Underfull \hbox (badness 10000) in paragraph at lines 530--530
+Underfull \hbox (badness 10000) in paragraph at lines 506--506
 []\TU/lmr/m/n/10 NEUROBIOLOGIA
  []
 
 
-Underfull \hbox (badness 10000) in paragraph at lines 530--530
+Underfull \hbox (badness 10000) in paragraph at lines 506--506
 []\TU/lmr/m/n/10 NEUROFISIOLOGIA
  []
 
 
-Underfull \hbox (badness 10000) in paragraph at lines 530--530
+Underfull \hbox (badness 10000) in paragraph at lines 506--506
 \TU/lmr/m/n/10 DOS HORMÔNIOS
  []
 
 
-Underfull \hbox (badness 10000) in paragraph at lines 530--530
+Underfull \hbox (badness 10000) in paragraph at lines 506--506
 \TU/lmr/m/n/10 MUSCULOESQUELÉ-
  []
 
 
-Underfull \hbox (badness 10000) in paragraph at lines 530--530
+Underfull \hbox (badness 10000) in paragraph at lines 506--506
 []\TU/lmr/m/n/10 PLASTICIDADE DO
  []
 
 
-Underfull \hbox (badness 3482) in paragraph at lines 530--530
+Underfull \hbox (badness 3482) in paragraph at lines 506--506
 \TU/lmr/m/n/10 MÚSCULO ESQUELÉ-
  []
 
 
-Underfull \hbox (badness 10000) in paragraph at lines 530--530
+Underfull \hbox (badness 10000) in paragraph at lines 506--506
 []\TU/lmr/m/n/10 PROJETOS DE EN-
  []
 
 
-Underfull \hbox (badness 10000) in paragraph at lines 530--530
+Underfull \hbox (badness 10000) in paragraph at lines 506--506
 \TU/lmr/m/n/10 SAIO CLÍNICO EM
  []
 
 
-Underfull \hbox (badness 10000) in paragraph at lines 530--530
+Underfull \hbox (badness 10000) in paragraph at lines 506--506
 []\TU/lmr/m/n/10 PROJETOS DE EN-
  []
 
 
-Underfull \hbox (badness 10000) in paragraph at lines 530--530
+Underfull \hbox (badness 10000) in paragraph at lines 506--506
 \TU/lmr/m/n/10 SAIO CLÍNICO EM
  []
 
 
-Underfull \hbox (badness 10000) in paragraph at lines 530--530
+Underfull \hbox (badness 10000) in paragraph at lines 506--506
 \TU/lmr/m/n/10 FUNCTIONAL DE-
  []
 
 
-Underfull \hbox (badness 10000) in paragraph at lines 530--530
+Underfull \hbox (badness 10000) in paragraph at lines 506--506
 \TU/lmr/m/n/10 CLINE, FALLS &
  []
 
 
-Underfull \hbox (badness 10000) in paragraph at lines 530--530
+Underfull \hbox (badness 10000) in paragraph at lines 506--506
 \TU/lmr/m/n/10 INJURY PREVEN-
  []
 
 
-Underfull \hbox (badness 3713) in paragraph at lines 530--530
+Underfull \hbox (badness 3713) in paragraph at lines 506--506
 []\TU/lmr/m/n/10 TRADUÇÃO DO CO-
  []
 
 
-Underfull \hbox (badness 10000) in paragraph at lines 530--530
+Underfull \hbox (badness 10000) in paragraph at lines 506--506
 []\TU/lmr/m/n/10 TÓPICOS AVANÇA-
  []
 
 
-Underfull \hbox (badness 10000) in paragraph at lines 530--530
+Underfull \hbox (badness 10000) in paragraph at lines 506--506
 \TU/lmr/m/n/10 CARDIORRESPIRA-
  []
 
 
-Underfull \hbox (badness 10000) in paragraph at lines 530--530
+Underfull \hbox (badness 10000) in paragraph at lines 506--506
 []\TU/lmr/m/n/10 TÓPICOS AVANÇA-
  []
 
 
-Underfull \hbox (badness 1221) in paragraph at lines 530--530
+Underfull \hbox (badness 1221) in paragraph at lines 506--506
 \TU/lmr/m/n/10 DOS EM FISIOTERA-
  []
 
 
-Underfull \hbox (badness 10000) in paragraph at lines 530--530
+Underfull \hbox (badness 10000) in paragraph at lines 506--506
 \TU/lmr/m/n/10 PIA GERONTOLÓ-
  []
 
 
-Underfull \hbox (badness 10000) in paragraph at lines 530--530
+Underfull \hbox (badness 10000) in paragraph at lines 506--506
 []\TU/lmr/m/n/10 TÓPICOS AVANÇA-
  []
 
 
-Underfull \hbox (badness 10000) in paragraph at lines 530--530
+Underfull \hbox (badness 10000) in paragraph at lines 506--506
 \TU/lmr/m/n/10 DOS EM PLASTICI-
  []
 
 
-Underfull \hbox (badness 10000) in paragraph at lines 530--530
+Underfull \hbox (badness 10000) in paragraph at lines 506--506
 []\TU/lmr/m/n/10 ABORDAGEM FISIO-
  []
 
 
-Underfull \hbox (badness 10000) in paragraph at lines 530--530
+Underfull \hbox (badness 10000) in paragraph at lines 506--506
 \TU/lmr/m/n/10 TERAPÊUTICA EM
  []
 
 
-Underfull \hbox (badness 10000) in paragraph at lines 530--530
+Underfull \hbox (badness 10000) in paragraph at lines 506--506
 []\TU/lmr/m/n/10 AVALIAÇÃO CARDI-
  []
 
 
-Underfull \hbox (badness 10000) in paragraph at lines 530--530
+Underfull \hbox (badness 10000) in paragraph at lines 506--506
 \TU/lmr/m/n/10 ORRESPIRATÓRIA
  []
 
 
-Underfull \hbox (badness 5970) in paragraph at lines 530--530
+Underfull \hbox (badness 5970) in paragraph at lines 506--506
 \TU/lmr/m/n/10 TERAPIA MUSCULO-
  []
 
 
-Underfull \hbox (badness 10000) in paragraph at lines 530--530
+Underfull \hbox (badness 10000) in paragraph at lines 506--506
 []\TU/lmr/m/n/10 AVALIAÇÃO MUS-
  []
 
 
-Underfull \hbox (badness 10000) in paragraph at lines 530--530
+Underfull \hbox (badness 10000) in paragraph at lines 506--506
 \TU/lmr/m/n/10 CULOESQUELÉTICA
  []
 
 
-Underfull \hbox (badness 10000) in paragraph at lines 530--530
+Underfull \hbox (badness 10000) in paragraph at lines 506--506
 \TU/lmr/m/n/10 E INTERVENÇÕES
  []
 
 
-Underfull \hbox (badness 10000) in paragraph at lines 530--530
+Underfull \hbox (badness 10000) in paragraph at lines 506--506
 \TU/lmr/m/n/10 NAS DISFUNÇÕES
  []
 
 
-Underfull \hbox (badness 10000) in paragraph at lines 530--530
+Underfull \hbox (badness 10000) in paragraph at lines 506--506
 \TU/lmr/m/n/10 URO GINECO-
  []
 
 
-Underfull \hbox (badness 2617) in paragraph at lines 530--530
+Underfull \hbox (badness 2617) in paragraph at lines 506--506
 []\TU/lmr/m/n/10 EPIDEMIOLOGIA DO
  []
 
 
-Underfull \hbox (badness 10000) in paragraph at lines 530--530
+Underfull \hbox (badness 10000) in paragraph at lines 506--506
 []\TU/lmr/m/n/10 FISIOLOGIA DO
  []
 
 
-Underfull \hbox (badness 10000) in paragraph at lines 530--530
+Underfull \hbox (badness 10000) in paragraph at lines 506--506
 \TU/lmr/m/n/10 BILITAÇÃO MUSCU-
  []
 
 
-Underfull \hbox (badness 2302) in paragraph at lines 530--530
+Underfull \hbox (badness 2302) in paragraph at lines 506--506
 []\TU/lmr/m/n/10 MÉTODOS E TÉCNI-
  []
 
 
-Underfull \hbox (badness 1584) in paragraph at lines 530--530
+Underfull \hbox (badness 1584) in paragraph at lines 506--506
 \TU/lmr/m/n/10 CAS EM FISIOTERA-
  []
 
 
-Underfull \hbox (badness 10000) in paragraph at lines 530--530
+Underfull \hbox (badness 10000) in paragraph at lines 506--506
 []\TU/lmr/m/n/10 NEUROFISIOLOGIA
  []
 
 
-Underfull \hbox (badness 10000) in paragraph at lines 530--530
+Underfull \hbox (badness 10000) in paragraph at lines 506--506
 \TU/lmr/m/n/10 DOS HORMÔNIOS
  []
 
 
-Underfull \hbox (badness 10000) in paragraph at lines 530--530
+Underfull \hbox (badness 10000) in paragraph at lines 506--506
 \TU/lmr/m/n/10 MUSCULOESQUELÉ-
  []
 
 
-Underfull \hbox (badness 10000) in paragraph at lines 530--530
+Underfull \hbox (badness 10000) in paragraph at lines 506--506
 []\TU/lmr/m/n/10 PRESCRIÇÃO DE
  []
 
 
-Underfull \hbox (badness 10000) in paragraph at lines 530--530
+Underfull \hbox (badness 10000) in paragraph at lines 506--506
 \TU/lmr/m/n/10 BILITAÇÃO MUSCU-
  []
 
 
-Underfull \hbox (badness 7397) in paragraph at lines 530--530
+Underfull \hbox (badness 7397) in paragraph at lines 506--506
 []\TU/lmr/m/n/10 REABILITAÇÃO NAS
  []
 
 
-Underfull \hbox (badness 10000) in paragraph at lines 530--530
+Underfull \hbox (badness 10000) in paragraph at lines 506--506
 \TU/lmr/m/n/10 DOENÇAS CARDI-
  []
 
 
-Underfull \hbox (badness 10000) in paragraph at lines 530--530
+Underfull \hbox (badness 10000) in paragraph at lines 506--506
 \TU/lmr/m/n/10 OVASCULARES,
  []
 
 
-Underfull \hbox (badness 10000) in paragraph at lines 530--530
+Underfull \hbox (badness 10000) in paragraph at lines 506--506
 \TU/lmr/m/n/10 RESPIRATÓRIAS
  []
 
 
-Underfull \hbox (badness 10000) in paragraph at lines 530--530
+Underfull \hbox (badness 10000) in paragraph at lines 506--506
 []\TU/lmr/m/n/10 REDAÇÃO CRÍTICA
  []
 
 
-Underfull \hbox (badness 1796) in paragraph at lines 530--530
+Underfull \hbox (badness 1796) in paragraph at lines 506--506
 \TU/lmr/m/n/10 DO ARTIGO CIENTÍ-
  []
 
 
-Underfull \hbox (badness 10000) in paragraph at lines 530--530
+Underfull \hbox (badness 10000) in paragraph at lines 506--506
 []\TU/lmr/m/n/10 SCIEN. RE-
  []
 
 
-Underfull \hbox (badness 10000) in paragraph at lines 530--530
+Underfull \hbox (badness 10000) in paragraph at lines 506--506
 \TU/lmr/m/n/10 SEAR.PRIORITIES
  []
 
 
-Underfull \hbox (badness 10000) in paragraph at lines 530--530
+Underfull \hbox (badness 10000) in paragraph at lines 506--506
 \TU/lmr/m/n/10 UPDATE IN PHY-
  []
 
 
-Underfull \hbox (badness 10000) in paragraph at lines 530--530
+Underfull \hbox (badness 10000) in paragraph at lines 506--506
 \TU/lmr/m/n/10 SICAL THERAPY
  []
 
 
-Underfull \hbox (badness 3407) in paragraph at lines 530--530
+Underfull \hbox (badness 3407) in paragraph at lines 506--506
 \TU/lmr/m/n/10 ASSESSMENT MANA-
  []
 
 
-Underfull \hbox (badness 10000) in paragraph at lines 530--530
+Underfull \hbox (badness 10000) in paragraph at lines 506--506
 \TU/lmr/m/n/10 ACTUALIZACIÓN
  []
 
 
-Underfull \hbox (badness 10000) in paragraph at lines 530--530
+Underfull \hbox (badness 10000) in paragraph at lines 506--506
 \TU/lmr/m/n/10 EN EVALUACIÓN
  []
 
 
-Underfull \hbox (badness 10000) in paragraph at lines 530--530
+Underfull \hbox (badness 10000) in paragraph at lines 506--506
 []\TU/lmr/m/n/10 SCIEN. RE-
  []
 
 
-Underfull \hbox (badness 10000) in paragraph at lines 530--530
+Underfull \hbox (badness 10000) in paragraph at lines 506--506
 \TU/lmr/m/n/10 SEAR.PRIORITIES
  []
 
 
-Underfull \hbox (badness 10000) in paragraph at lines 530--530
+Underfull \hbox (badness 10000) in paragraph at lines 506--506
 \TU/lmr/m/n/10 UPDATE IN PHY-
  []
 
 
-Underfull \hbox (badness 10000) in paragraph at lines 530--530
+Underfull \hbox (badness 10000) in paragraph at lines 506--506
 \TU/lmr/m/n/10 SICAL THERAPY
  []
 
 
-Underfull \hbox (badness 3407) in paragraph at lines 530--530
+Underfull \hbox (badness 3407) in paragraph at lines 506--506
 \TU/lmr/m/n/10 ASSESSMENT MANA-
  []
 
 
-Underfull \hbox (badness 10000) in paragraph at lines 530--530
+Underfull \hbox (badness 10000) in paragraph at lines 506--506
 \TU/lmr/m/n/10 ACTUALIZACIÓN
  []
 
 
-Underfull \hbox (badness 10000) in paragraph at lines 530--530
+Underfull \hbox (badness 10000) in paragraph at lines 506--506
 \TU/lmr/m/n/10 EN EVALUACIÓN
  []
 
 
-Underfull \hbox (badness 5878) in paragraph at lines 530--530
+Underfull \hbox (badness 5878) in paragraph at lines 506--506
 []\TU/lmr/m/n/10 SISTEMA DE MOVI-
  []
 
 
-Underfull \hbox (badness 5475) in paragraph at lines 530--530
+Underfull \hbox (badness 5475) in paragraph at lines 506--506
 []\TU/lmr/m/n/10 ÉTICA E BIOÉTICA
  []
 
 > Step: build the whole table.
 
-Underfull \hbox (badness 10000) in paragraph at lines 530--530
+Underfull \hbox (badness 10000) in paragraph at lines 506--506
 []\TU/lmr/m/n/10 ABORDAGEM FISIO-
  []
 
 
-Underfull \hbox (badness 10000) in paragraph at lines 530--530
+Underfull \hbox (badness 10000) in paragraph at lines 506--506
 \TU/lmr/m/n/10 TERAPÊUTICA EM
  []
 
 
-Underfull \hbox (badness 10000) in paragraph at lines 530--530
+Underfull \hbox (badness 10000) in paragraph at lines 506--506
 \TU/lmr/m/n/10 DESENVOLVIMENTO,
  []
 
 
-Underfull \hbox (badness 10000) in paragraph at lines 530--530
+Underfull \hbox (badness 10000) in paragraph at lines 506--506
 []\TU/lmr/m/n/10 ABORDAGEM FISIO-
  []
 
 
-Underfull \hbox (badness 10000) in paragraph at lines 530--530
+Underfull \hbox (badness 10000) in paragraph at lines 506--506
 \TU/lmr/m/n/10 TERAPÊUTICA EM
  []
 
 
-Underfull \hbox (badness 10000) in paragraph at lines 530--530
+Underfull \hbox (badness 10000) in paragraph at lines 506--506
 \TU/lmr/m/n/10 NEURORREABILITA-
  []
 
 
-Underfull \hbox (badness 10000) in paragraph at lines 530--530
+Underfull \hbox (badness 10000) in paragraph at lines 506--506
 []\TU/lmr/m/n/10 AVALIAÇÃO CARDI-
  []
 
 
-Underfull \hbox (badness 10000) in paragraph at lines 530--530
+Underfull \hbox (badness 10000) in paragraph at lines 506--506
 \TU/lmr/m/n/10 ORRESPIRATÓRIA
  []
 
 
-Underfull \hbox (badness 1735) in paragraph at lines 530--530
+Underfull \hbox (badness 1735) in paragraph at lines 506--506
 []\TU/lmr/m/n/10 AVALIAÇÃO DA EVI-
  []
 
 
-Underfull \hbox (badness 2495) in paragraph at lines 530--530
+Underfull \hbox (badness 2495) in paragraph at lines 506--506
 \TU/lmr/m/n/10 DÊNCIA CIENTÍFICA
  []
 
 
-Underfull \hbox (badness 10000) in paragraph at lines 530--530
+Underfull \hbox (badness 10000) in paragraph at lines 506--506
 \TU/lmr/m/n/10 E DESENVOLVI-
  []
 
 
-Underfull \hbox (badness 10000) in paragraph at lines 530--530
+Underfull \hbox (badness 10000) in paragraph at lines 506--506
 \TU/lmr/m/n/10 SISTEMÁTICAS EM
  []
 
 
-Underfull \hbox (badness 1735) in paragraph at lines 530--530
+Underfull \hbox (badness 1735) in paragraph at lines 506--506
 []\TU/lmr/m/n/10 AVALIAÇÃO DA EVI-
  []
 
 
-Underfull \hbox (badness 2495) in paragraph at lines 530--530
+Underfull \hbox (badness 2495) in paragraph at lines 506--506
 \TU/lmr/m/n/10 DÊNCIA CIENTÍFICA
  []
 
 
-Underfull \hbox (badness 10000) in paragraph at lines 530--530
+Underfull \hbox (badness 10000) in paragraph at lines 506--506
 \TU/lmr/m/n/10 E DESENVOLVI-
  []
 
 
-Underfull \hbox (badness 10000) in paragraph at lines 530--530
+Underfull \hbox (badness 10000) in paragraph at lines 506--506
 \TU/lmr/m/n/10 SISTEMÁTICAS EM
  []
 
 
-Underfull \hbox (badness 1337) in paragraph at lines 530--530
+Underfull \hbox (badness 1337) in paragraph at lines 506--506
 \TU/lmr/m/n/10 VENÇÃO EM SAÚDE
  []
 
 
-Underfull \hbox (badness 10000) in paragraph at lines 530--530
+Underfull \hbox (badness 10000) in paragraph at lines 506--506
 []\TU/lmr/m/n/10 AVALIAÇÃO E RE-
  []
 
 
-Underfull \hbox (badness 10000) in paragraph at lines 530--530
+Underfull \hbox (badness 10000) in paragraph at lines 506--506
 \TU/lmr/m/n/10 ABILITAÇÃO NAS
  []
 
 
-Underfull \hbox (badness 10000) in paragraph at lines 530--530
+Underfull \hbox (badness 10000) in paragraph at lines 506--506
 \TU/lmr/m/n/10 DOENÇAS CAR-
  []
 
 
-Underfull \hbox (badness 10000) in paragraph at lines 530--530
+Underfull \hbox (badness 10000) in paragraph at lines 506--506
 \TU/lmr/m/n/10 DIOVASCULARES,
  []
 
 
-Underfull \hbox (badness 10000) in paragraph at lines 530--530
+Underfull \hbox (badness 10000) in paragraph at lines 506--506
 \TU/lmr/m/n/10 RESPIRATORIAS E
  []
 
 
-Underfull \hbox (badness 6775) in paragraph at lines 530--530
+Underfull \hbox (badness 6775) in paragraph at lines 506--506
 \TU/lmr/m/n/10 TERAPIA NEUROLÓ-
  []
 
 
-Underfull \hbox (badness 10000) in paragraph at lines 530--530
+Underfull \hbox (badness 10000) in paragraph at lines 506--506
 []\TU/lmr/m/n/10 CONTEMPORARY
  []
 
 
-Underfull \hbox (badness 10000) in paragraph at lines 530--530
+Underfull \hbox (badness 10000) in paragraph at lines 506--506
 \TU/lmr/m/n/10 INTENSIVE THERA-
  []
 
 
-Underfull \hbox (badness 4479) in paragraph at lines 530--530
+Underfull \hbox (badness 4479) in paragraph at lines 506--506
 \TU/lmr/m/n/10 PIES TO PROMOTE
  []
 
 
-Underfull \hbox (badness 10000) in paragraph at lines 530--530
+Underfull \hbox (badness 10000) in paragraph at lines 506--506
 \TU/lmr/m/n/10 HAND FUNCTION
  []
 
 
-Underfull \hbox (badness 1755) in paragraph at lines 530--530
+Underfull \hbox (badness 1755) in paragraph at lines 506--506
 \TU/lmr/m/n/10 IN CHILDREN WITH
  []
 
 
-Underfull \hbox (badness 10000) in paragraph at lines 530--530
+Underfull \hbox (badness 10000) in paragraph at lines 506--506
 []\TU/lmr/m/n/10 DIDÁTICA DO EN-
+ []
+
+
+
+[10]
+Underfull \hbox (badness 10000) in paragraph at lines 506--506
+[]\TU/lmr/m/n/10 ELETROMIOGRAFIA
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 506--506
+[]\TU/lmr/m/n/10 FISIOLOGIA DO
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 506--506
+\TU/lmr/m/n/10 BILITAÇÃO MUSCU-
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 506--506
+\TU/lmr/m/n/10 PENHO CARDIOVAS-
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 506--506
+[]\TU/lmr/m/n/10 METODOLOGIA DA
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 506--506
+\TU/lmr/m/n/10 PESQUISA CIENTÍ-
+ []
+
+
+Underfull \hbox (badness 2302) in paragraph at lines 506--506
+[]\TU/lmr/m/n/10 MÉTODOS E TÉCNI-
+ []
+
+
+Underfull \hbox (badness 1584) in paragraph at lines 506--506
+\TU/lmr/m/n/10 CAS EM FISIOTERA-
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 506--506
+[]\TU/lmr/m/n/10 NEUROBIOLOGIA
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 506--506
+[]\TU/lmr/m/n/10 NEUROFISIOLOGIA
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 506--506
+\TU/lmr/m/n/10 DOS HORMÔNIOS
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 506--506
+\TU/lmr/m/n/10 MUSCULOESQUELÉ-
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 506--506
+[]\TU/lmr/m/n/10 PLASTICIDADE DO
+ []
+
+
+Underfull \hbox (badness 3482) in paragraph at lines 506--506
+\TU/lmr/m/n/10 MÚSCULO ESQUELÉ-
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 506--506
+[]\TU/lmr/m/n/10 PROJETOS DE EN-
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 506--506
+\TU/lmr/m/n/10 SAIO CLÍNICO EM
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 506--506
+[]\TU/lmr/m/n/10 PROJETOS DE EN-
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 506--506
+\TU/lmr/m/n/10 SAIO CLÍNICO EM
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 506--506
+\TU/lmr/m/n/10 FUNCTIONAL DE-
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 506--506
+\TU/lmr/m/n/10 CLINE, FALLS &
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 506--506
+\TU/lmr/m/n/10 INJURY PREVEN-
+ []
+
+
+Underfull \hbox (badness 3713) in paragraph at lines 506--506
+[]\TU/lmr/m/n/10 TRADUÇÃO DO CO-
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 506--506
+[]\TU/lmr/m/n/10 TÓPICOS AVANÇA-
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 506--506
+\TU/lmr/m/n/10 CARDIORRESPIRA-
+ []
+
+
+
+[11]
+Underfull \hbox (badness 10000) in paragraph at lines 506--506
+[]\TU/lmr/m/n/10 TÓPICOS AVANÇA-
+ []
+
+
+Underfull \hbox (badness 1221) in paragraph at lines 506--506
+\TU/lmr/m/n/10 DOS EM FISIOTERA-
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 506--506
+\TU/lmr/m/n/10 PIA GERONTOLÓ-
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 506--506
+[]\TU/lmr/m/n/10 TÓPICOS AVANÇA-
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 506--506
+\TU/lmr/m/n/10 DOS EM PLASTICI-
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 506--506
+[]\TU/lmr/m/n/10 ABORDAGEM FISIO-
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 506--506
+\TU/lmr/m/n/10 TERAPÊUTICA EM
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 506--506
+[]\TU/lmr/m/n/10 AVALIAÇÃO CARDI-
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 506--506
+\TU/lmr/m/n/10 ORRESPIRATÓRIA
+ []
+
+
+Underfull \hbox (badness 5970) in paragraph at lines 506--506
+\TU/lmr/m/n/10 TERAPIA MUSCULO-
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 506--506
+[]\TU/lmr/m/n/10 AVALIAÇÃO MUS-
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 506--506
+\TU/lmr/m/n/10 CULOESQUELÉTICA
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 506--506
+\TU/lmr/m/n/10 E INTERVENÇÕES
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 506--506
+\TU/lmr/m/n/10 NAS DISFUNÇÕES
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 506--506
+\TU/lmr/m/n/10 URO GINECO-
+ []
+
+
+Underfull \hbox (badness 2617) in paragraph at lines 506--506
+[]\TU/lmr/m/n/10 EPIDEMIOLOGIA DO
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 506--506
+[]\TU/lmr/m/n/10 FISIOLOGIA DO
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 506--506
+\TU/lmr/m/n/10 BILITAÇÃO MUSCU-
+ []
+
+
+Underfull \hbox (badness 2302) in paragraph at lines 506--506
+[]\TU/lmr/m/n/10 MÉTODOS E TÉCNI-
+ []
+
+
+Underfull \hbox (badness 1584) in paragraph at lines 506--506
+\TU/lmr/m/n/10 CAS EM FISIOTERA-
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 506--506
+[]\TU/lmr/m/n/10 NEUROFISIOLOGIA
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 506--506
+\TU/lmr/m/n/10 DOS HORMÔNIOS
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 506--506
+\TU/lmr/m/n/10 MUSCULOESQUELÉ-
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 506--506
+[]\TU/lmr/m/n/10 PRESCRIÇÃO DE
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 506--506
+\TU/lmr/m/n/10 BILITAÇÃO MUSCU-
  []
 
 
 
 [12]
-Underfull \hbox (badness 10000) in paragraph at lines 530--530
-[]\TU/lmr/m/n/10 ELETROMIOGRAFIA
- []
-
-
-Underfull \hbox (badness 10000) in paragraph at lines 530--530
-[]\TU/lmr/m/n/10 FISIOLOGIA DO
- []
-
-
-Underfull \hbox (badness 10000) in paragraph at lines 530--530
-\TU/lmr/m/n/10 BILITAÇÃO MUSCU-
- []
-
-
-Underfull \hbox (badness 10000) in paragraph at lines 530--530
-\TU/lmr/m/n/10 PENHO CARDIOVAS-
- []
-
-
-Underfull \hbox (badness 10000) in paragraph at lines 530--530
-[]\TU/lmr/m/n/10 METODOLOGIA DA
- []
-
-
-Underfull \hbox (badness 10000) in paragraph at lines 530--530
-\TU/lmr/m/n/10 PESQUISA CIENTÍ-
- []
-
-
-Underfull \hbox (badness 2302) in paragraph at lines 530--530
-[]\TU/lmr/m/n/10 MÉTODOS E TÉCNI-
- []
-
-
-Underfull \hbox (badness 1584) in paragraph at lines 530--530
-\TU/lmr/m/n/10 CAS EM FISIOTERA-
- []
-
-
-Underfull \hbox (badness 10000) in paragraph at lines 530--530
-[]\TU/lmr/m/n/10 NEUROBIOLOGIA
- []
-
-
-Underfull \hbox (badness 10000) in paragraph at lines 530--530
-[]\TU/lmr/m/n/10 NEUROFISIOLOGIA
- []
-
-
-Underfull \hbox (badness 10000) in paragraph at lines 530--530
-\TU/lmr/m/n/10 DOS HORMÔNIOS
- []
-
-
-Underfull \hbox (badness 10000) in paragraph at lines 530--530
-\TU/lmr/m/n/10 MUSCULOESQUELÉ-
- []
-
-
-Underfull \hbox (badness 10000) in paragraph at lines 530--530
-[]\TU/lmr/m/n/10 PLASTICIDADE DO
- []
-
-
-Underfull \hbox (badness 3482) in paragraph at lines 530--530
-\TU/lmr/m/n/10 MÚSCULO ESQUELÉ-
- []
-
-
-Underfull \hbox (badness 10000) in paragraph at lines 530--530
-[]\TU/lmr/m/n/10 PROJETOS DE EN-
- []
-
-
-Underfull \hbox (badness 10000) in paragraph at lines 530--530
-\TU/lmr/m/n/10 SAIO CLÍNICO EM
- []
-
-
-Underfull \hbox (badness 10000) in paragraph at lines 530--530
-[]\TU/lmr/m/n/10 PROJETOS DE EN-
- []
-
-
-Underfull \hbox (badness 10000) in paragraph at lines 530--530
-\TU/lmr/m/n/10 SAIO CLÍNICO EM
- []
-
-
-Underfull \hbox (badness 10000) in paragraph at lines 530--530
-\TU/lmr/m/n/10 FUNCTIONAL DE-
- []
-
-
-Underfull \hbox (badness 10000) in paragraph at lines 530--530
-\TU/lmr/m/n/10 CLINE, FALLS &
- []
-
-
-Underfull \hbox (badness 10000) in paragraph at lines 530--530
-\TU/lmr/m/n/10 INJURY PREVEN-
- []
-
-
-Underfull \hbox (badness 3713) in paragraph at lines 530--530
-[]\TU/lmr/m/n/10 TRADUÇÃO DO CO-
- []
-
-
-Underfull \hbox (badness 10000) in paragraph at lines 530--530
-[]\TU/lmr/m/n/10 TÓPICOS AVANÇA-
- []
-
-
-Underfull \hbox (badness 10000) in paragraph at lines 530--530
-\TU/lmr/m/n/10 CARDIORRESPIRA-
- []
-
-
-
-[13]
-Underfull \hbox (badness 10000) in paragraph at lines 530--530
-[]\TU/lmr/m/n/10 TÓPICOS AVANÇA-
- []
-
-
-Underfull \hbox (badness 1221) in paragraph at lines 530--530
-\TU/lmr/m/n/10 DOS EM FISIOTERA-
- []
-
-
-Underfull \hbox (badness 10000) in paragraph at lines 530--530
-\TU/lmr/m/n/10 PIA GERONTOLÓ-
- []
-
-
-Underfull \hbox (badness 10000) in paragraph at lines 530--530
-[]\TU/lmr/m/n/10 TÓPICOS AVANÇA-
- []
-
-
-Underfull \hbox (badness 10000) in paragraph at lines 530--530
-\TU/lmr/m/n/10 DOS EM PLASTICI-
- []
-
-
-Underfull \hbox (badness 10000) in paragraph at lines 530--530
-[]\TU/lmr/m/n/10 ABORDAGEM FISIO-
- []
-
-
-Underfull \hbox (badness 10000) in paragraph at lines 530--530
-\TU/lmr/m/n/10 TERAPÊUTICA EM
- []
-
-
-Underfull \hbox (badness 10000) in paragraph at lines 530--530
-[]\TU/lmr/m/n/10 AVALIAÇÃO CARDI-
- []
-
-
-Underfull \hbox (badness 10000) in paragraph at lines 530--530
-\TU/lmr/m/n/10 ORRESPIRATÓRIA
- []
-
-
-Underfull \hbox (badness 5970) in paragraph at lines 530--530
-\TU/lmr/m/n/10 TERAPIA MUSCULO-
- []
-
-
-Underfull \hbox (badness 10000) in paragraph at lines 530--530
-[]\TU/lmr/m/n/10 AVALIAÇÃO MUS-
- []
-
-
-Underfull \hbox (badness 10000) in paragraph at lines 530--530
-\TU/lmr/m/n/10 CULOESQUELÉTICA
- []
-
-
-Underfull \hbox (badness 10000) in paragraph at lines 530--530
-\TU/lmr/m/n/10 E INTERVENÇÕES
- []
-
-
-Underfull \hbox (badness 10000) in paragraph at lines 530--530
-\TU/lmr/m/n/10 NAS DISFUNÇÕES
- []
-
-
-Underfull \hbox (badness 10000) in paragraph at lines 530--530
-\TU/lmr/m/n/10 URO GINECO-
- []
-
-
-Underfull \hbox (badness 2617) in paragraph at lines 530--530
-[]\TU/lmr/m/n/10 EPIDEMIOLOGIA DO
- []
-
-
-Underfull \hbox (badness 10000) in paragraph at lines 530--530
-[]\TU/lmr/m/n/10 FISIOLOGIA DO
- []
-
-
-Underfull \hbox (badness 10000) in paragraph at lines 530--530
-\TU/lmr/m/n/10 BILITAÇÃO MUSCU-
- []
-
-
-Underfull \hbox (badness 2302) in paragraph at lines 530--530
-[]\TU/lmr/m/n/10 MÉTODOS E TÉCNI-
- []
-
-
-Underfull \hbox (badness 1584) in paragraph at lines 530--530
-\TU/lmr/m/n/10 CAS EM FISIOTERA-
- []
-
-
-Underfull \hbox (badness 10000) in paragraph at lines 530--530
-[]\TU/lmr/m/n/10 NEUROFISIOLOGIA
- []
-
-
-Underfull \hbox (badness 10000) in paragraph at lines 530--530
-\TU/lmr/m/n/10 DOS HORMÔNIOS
- []
-
-
-Underfull \hbox (badness 10000) in paragraph at lines 530--530
-\TU/lmr/m/n/10 MUSCULOESQUELÉ-
- []
-
-
-Underfull \hbox (badness 10000) in paragraph at lines 530--530
-[]\TU/lmr/m/n/10 PRESCRIÇÃO DE
- []
-
-
-Underfull \hbox (badness 10000) in paragraph at lines 530--530
-\TU/lmr/m/n/10 BILITAÇÃO MUSCU-
- []
-
-
-
-[14]
-Underfull \hbox (badness 7397) in paragraph at lines 530--530
+Underfull \hbox (badness 7397) in paragraph at lines 506--506
 []\TU/lmr/m/n/10 REABILITAÇÃO NAS
  []
 
 
-Underfull \hbox (badness 10000) in paragraph at lines 530--530
+Underfull \hbox (badness 10000) in paragraph at lines 506--506
 \TU/lmr/m/n/10 DOENÇAS CARDI-
  []
 
 
-Underfull \hbox (badness 10000) in paragraph at lines 530--530
+Underfull \hbox (badness 10000) in paragraph at lines 506--506
 \TU/lmr/m/n/10 OVASCULARES,
  []
 
 
-Underfull \hbox (badness 10000) in paragraph at lines 530--530
+Underfull \hbox (badness 10000) in paragraph at lines 506--506
 \TU/lmr/m/n/10 RESPIRATÓRIAS
  []
 
 
-Underfull \hbox (badness 10000) in paragraph at lines 530--530
+Underfull \hbox (badness 10000) in paragraph at lines 506--506
 []\TU/lmr/m/n/10 REDAÇÃO CRÍTICA
  []
 
 
-Underfull \hbox (badness 1796) in paragraph at lines 530--530
+Underfull \hbox (badness 1796) in paragraph at lines 506--506
 \TU/lmr/m/n/10 DO ARTIGO CIENTÍ-
  []
 
 
-Underfull \hbox (badness 10000) in paragraph at lines 530--530
+Underfull \hbox (badness 10000) in paragraph at lines 506--506
 []\TU/lmr/m/n/10 SCIEN. RE-
  []
 
 
-Underfull \hbox (badness 10000) in paragraph at lines 530--530
+Underfull \hbox (badness 10000) in paragraph at lines 506--506
 \TU/lmr/m/n/10 SEAR.PRIORITIES
  []
 
 
-Underfull \hbox (badness 10000) in paragraph at lines 530--530
+Underfull \hbox (badness 10000) in paragraph at lines 506--506
 \TU/lmr/m/n/10 UPDATE IN PHY-
  []
 
 
-Underfull \hbox (badness 10000) in paragraph at lines 530--530
+Underfull \hbox (badness 10000) in paragraph at lines 506--506
 \TU/lmr/m/n/10 SICAL THERAPY
  []
 
 
-Underfull \hbox (badness 3407) in paragraph at lines 530--530
+Underfull \hbox (badness 3407) in paragraph at lines 506--506
 \TU/lmr/m/n/10 ASSESSMENT MANA-
  []
 
 
-Underfull \hbox (badness 10000) in paragraph at lines 530--530
+Underfull \hbox (badness 10000) in paragraph at lines 506--506
 \TU/lmr/m/n/10 ACTUALIZACIÓN
  []
 
 
-Underfull \hbox (badness 10000) in paragraph at lines 530--530
+Underfull \hbox (badness 10000) in paragraph at lines 506--506
 \TU/lmr/m/n/10 EN EVALUACIÓN
  []
 
 
-Underfull \hbox (badness 10000) in paragraph at lines 530--530
+Underfull \hbox (badness 10000) in paragraph at lines 506--506
 []\TU/lmr/m/n/10 SCIEN. RE-
  []
 
 
-Underfull \hbox (badness 10000) in paragraph at lines 530--530
+Underfull \hbox (badness 10000) in paragraph at lines 506--506
 \TU/lmr/m/n/10 SEAR.PRIORITIES
  []
 
 
-Underfull \hbox (badness 10000) in paragraph at lines 530--530
+Underfull \hbox (badness 10000) in paragraph at lines 506--506
 \TU/lmr/m/n/10 UPDATE IN PHY-
  []
 
 
-Underfull \hbox (badness 10000) in paragraph at lines 530--530
+Underfull \hbox (badness 10000) in paragraph at lines 506--506
 \TU/lmr/m/n/10 SICAL THERAPY
  []
 
 
-Underfull \hbox (badness 3407) in paragraph at lines 530--530
+Underfull \hbox (badness 3407) in paragraph at lines 506--506
 \TU/lmr/m/n/10 ASSESSMENT MANA-
  []
 
 
-Underfull \hbox (badness 10000) in paragraph at lines 530--530
+Underfull \hbox (badness 10000) in paragraph at lines 506--506
 \TU/lmr/m/n/10 ACTUALIZACIÓN
  []
 
 
-Underfull \hbox (badness 10000) in paragraph at lines 530--530
+Underfull \hbox (badness 10000) in paragraph at lines 506--506
 \TU/lmr/m/n/10 EN EVALUACIÓN
  []
 
 
-Underfull \hbox (badness 5878) in paragraph at lines 530--530
+Underfull \hbox (badness 5878) in paragraph at lines 506--506
 []\TU/lmr/m/n/10 SISTEMA DE MOVI-
  []
 
 
-Underfull \hbox (badness 5475) in paragraph at lines 530--530
+Underfull \hbox (badness 5475) in paragraph at lines 506--506
 []\TU/lmr/m/n/10 ÉTICA E BIOÉTICA
  []
 
 
 
-[15]
+[13]
 > Step: init table outer spec.
 > Step: parse table options.
 > Step: split table.
@@ -2610,1013 +2611,1017 @@ Underfull \hbox (badness 5475) in paragraph at lines 530--530
 > Step: execute table commands.
 > Step: calculate cell and line sizes.
 
-Underfull \hbox (badness 10000) in paragraph at lines 595--595
+Underfull \hbox (badness 10000) in paragraph at lines 571--571
 []\TU/lmr/m/n/10 ABORDAGEM FISIO-
  []
 
 
-Underfull \hbox (badness 10000) in paragraph at lines 595--595
+Underfull \hbox (badness 10000) in paragraph at lines 571--571
 \TU/lmr/m/n/10 TERAPÊUTICA EM
  []
 
 
-Underfull \hbox (badness 10000) in paragraph at lines 595--595
+Underfull \hbox (badness 10000) in paragraph at lines 571--571
 \TU/lmr/m/n/10 DESENVOLVIMENTO,
  []
 
 
-Underfull \hbox (badness 10000) in paragraph at lines 595--595
+Underfull \hbox (badness 10000) in paragraph at lines 571--571
 []\TU/lmr/m/n/10 ABORDAGEM FISIO-
  []
 
 
-Underfull \hbox (badness 10000) in paragraph at lines 595--595
+Underfull \hbox (badness 10000) in paragraph at lines 571--571
 \TU/lmr/m/n/10 TERAPÊUTICA EM
  []
 
 
-Underfull \hbox (badness 10000) in paragraph at lines 595--595
+Underfull \hbox (badness 10000) in paragraph at lines 571--571
 \TU/lmr/m/n/10 NEURORREABILITA-
  []
 
 
-Underfull \hbox (badness 10000) in paragraph at lines 595--595
+Underfull \hbox (badness 10000) in paragraph at lines 571--571
 []\TU/lmr/m/n/10 AVALIAÇÃO CARDI-
  []
 
 
-Underfull \hbox (badness 10000) in paragraph at lines 595--595
+Underfull \hbox (badness 10000) in paragraph at lines 571--571
 \TU/lmr/m/n/10 ORRESPIRATÓRIA
  []
 
 
-Underfull \hbox (badness 1735) in paragraph at lines 595--595
+Underfull \hbox (badness 1735) in paragraph at lines 571--571
 []\TU/lmr/m/n/10 AVALIAÇÃO DA EVI-
  []
 
 
-Underfull \hbox (badness 2495) in paragraph at lines 595--595
+Underfull \hbox (badness 2495) in paragraph at lines 571--571
 \TU/lmr/m/n/10 DÊNCIA CIENTÍFICA
  []
 
 
-Underfull \hbox (badness 10000) in paragraph at lines 595--595
+Underfull \hbox (badness 10000) in paragraph at lines 571--571
 \TU/lmr/m/n/10 E DESENVOLVI-
  []
 
 
-Underfull \hbox (badness 10000) in paragraph at lines 595--595
+Underfull \hbox (badness 10000) in paragraph at lines 571--571
 \TU/lmr/m/n/10 SISTEMÁTICAS EM
  []
 
 
-Underfull \hbox (badness 1735) in paragraph at lines 595--595
+Underfull \hbox (badness 1735) in paragraph at lines 571--571
 []\TU/lmr/m/n/10 AVALIAÇÃO DA EVI-
  []
 
 
-Underfull \hbox (badness 2495) in paragraph at lines 595--595
+Underfull \hbox (badness 2495) in paragraph at lines 571--571
 \TU/lmr/m/n/10 DÊNCIA CIENTÍFICA
  []
 
 
-Underfull \hbox (badness 10000) in paragraph at lines 595--595
+Underfull \hbox (badness 10000) in paragraph at lines 571--571
 \TU/lmr/m/n/10 E DESENVOLVI-
  []
 
 
-Underfull \hbox (badness 10000) in paragraph at lines 595--595
+Underfull \hbox (badness 10000) in paragraph at lines 571--571
 \TU/lmr/m/n/10 SISTEMÁTICAS EM
  []
 
 
-Underfull \hbox (badness 1337) in paragraph at lines 595--595
+Underfull \hbox (badness 1337) in paragraph at lines 571--571
 \TU/lmr/m/n/10 VENÇÃO EM SAÚDE
  []
 
 
-Underfull \hbox (badness 10000) in paragraph at lines 595--595
+Underfull \hbox (badness 10000) in paragraph at lines 571--571
 []\TU/lmr/m/n/10 AVALIAÇÃO E RE-
  []
 
 
-Underfull \hbox (badness 10000) in paragraph at lines 595--595
+Underfull \hbox (badness 10000) in paragraph at lines 571--571
 \TU/lmr/m/n/10 ABILITAÇÃO NAS
  []
 
 
-Underfull \hbox (badness 10000) in paragraph at lines 595--595
+Underfull \hbox (badness 10000) in paragraph at lines 571--571
 \TU/lmr/m/n/10 DOENÇAS CAR-
  []
 
 
-Underfull \hbox (badness 10000) in paragraph at lines 595--595
+Underfull \hbox (badness 10000) in paragraph at lines 571--571
 \TU/lmr/m/n/10 DIOVASCULARES,
  []
 
 
-Underfull \hbox (badness 10000) in paragraph at lines 595--595
+Underfull \hbox (badness 10000) in paragraph at lines 571--571
 \TU/lmr/m/n/10 RESPIRATORIAS E
  []
 
 
-Underfull \hbox (badness 6775) in paragraph at lines 595--595
+Underfull \hbox (badness 6775) in paragraph at lines 571--571
 \TU/lmr/m/n/10 TERAPIA NEUROLÓ-
  []
 
 
-Underfull \hbox (badness 10000) in paragraph at lines 595--595
+Underfull \hbox (badness 10000) in paragraph at lines 571--571
 []\TU/lmr/m/n/10 CONTEMPORARY
  []
 
 
-Underfull \hbox (badness 10000) in paragraph at lines 595--595
+Underfull \hbox (badness 10000) in paragraph at lines 571--571
 \TU/lmr/m/n/10 INTENSIVE THERA-
  []
 
 
-Underfull \hbox (badness 4479) in paragraph at lines 595--595
+Underfull \hbox (badness 4479) in paragraph at lines 571--571
 \TU/lmr/m/n/10 PIES TO PROMOTE
  []
 
 
-Underfull \hbox (badness 10000) in paragraph at lines 595--595
+Underfull \hbox (badness 10000) in paragraph at lines 571--571
 \TU/lmr/m/n/10 HAND FUNCTION
  []
 
 
-Underfull \hbox (badness 1755) in paragraph at lines 595--595
+Underfull \hbox (badness 1755) in paragraph at lines 571--571
 \TU/lmr/m/n/10 IN CHILDREN WITH
  []
 
 
-Underfull \hbox (badness 10000) in paragraph at lines 595--595
+Underfull \hbox (badness 10000) in paragraph at lines 571--571
 []\TU/lmr/m/n/10 DIDÁTICA DO EN-
  []
 
 
-Underfull \hbox (badness 10000) in paragraph at lines 595--595
+Underfull \hbox (badness 10000) in paragraph at lines 571--571
 []\TU/lmr/m/n/10 ELETROMIOGRAFIA
  []
 
 
-Underfull \hbox (badness 10000) in paragraph at lines 595--595
+Underfull \hbox (badness 10000) in paragraph at lines 571--571
 []\TU/lmr/m/n/10 FISIOLOGIA DO
  []
 
 
-Underfull \hbox (badness 10000) in paragraph at lines 595--595
+Underfull \hbox (badness 10000) in paragraph at lines 571--571
 \TU/lmr/m/n/10 BILITAÇÃO MUSCU-
  []
 
 
-Underfull \hbox (badness 10000) in paragraph at lines 595--595
+Underfull \hbox (badness 10000) in paragraph at lines 571--571
 \TU/lmr/m/n/10 PENHO CARDIOVAS-
  []
 
 
-Underfull \hbox (badness 10000) in paragraph at lines 595--595
+Underfull \hbox (badness 10000) in paragraph at lines 571--571
 []\TU/lmr/m/n/10 METODOLOGIA DA
  []
 
 
-Underfull \hbox (badness 10000) in paragraph at lines 595--595
+Underfull \hbox (badness 10000) in paragraph at lines 571--571
 \TU/lmr/m/n/10 PESQUISA CIENTÍ-
  []
 
 
-Underfull \hbox (badness 2302) in paragraph at lines 595--595
+Underfull \hbox (badness 2302) in paragraph at lines 571--571
 []\TU/lmr/m/n/10 MÉTODOS E TÉCNI-
  []
 
 
-Underfull \hbox (badness 1584) in paragraph at lines 595--595
+Underfull \hbox (badness 1584) in paragraph at lines 571--571
 \TU/lmr/m/n/10 CAS EM FISIOTERA-
  []
 
 
-Underfull \hbox (badness 10000) in paragraph at lines 595--595
+Underfull \hbox (badness 10000) in paragraph at lines 571--571
 []\TU/lmr/m/n/10 NEUROBIOLOGIA
  []
 
 
-Underfull \hbox (badness 10000) in paragraph at lines 595--595
+Underfull \hbox (badness 10000) in paragraph at lines 571--571
 []\TU/lmr/m/n/10 NEUROFISIOLOGIA
  []
 
 
-Underfull \hbox (badness 10000) in paragraph at lines 595--595
+Underfull \hbox (badness 10000) in paragraph at lines 571--571
 \TU/lmr/m/n/10 DOS HORMÔNIOS
  []
 
 
-Underfull \hbox (badness 10000) in paragraph at lines 595--595
+Underfull \hbox (badness 10000) in paragraph at lines 571--571
 \TU/lmr/m/n/10 MUSCULOESQUELÉ-
  []
 
 
-Underfull \hbox (badness 10000) in paragraph at lines 595--595
+Underfull \hbox (badness 10000) in paragraph at lines 571--571
 []\TU/lmr/m/n/10 PLASTICIDADE DO
  []
 
 
-Underfull \hbox (badness 3482) in paragraph at lines 595--595
+Underfull \hbox (badness 3482) in paragraph at lines 571--571
 \TU/lmr/m/n/10 MÚSCULO ESQUELÉ-
  []
 
 
-Underfull \hbox (badness 10000) in paragraph at lines 595--595
+Underfull \hbox (badness 10000) in paragraph at lines 571--571
 []\TU/lmr/m/n/10 PROJETOS DE EN-
  []
 
 
-Underfull \hbox (badness 10000) in paragraph at lines 595--595
+Underfull \hbox (badness 10000) in paragraph at lines 571--571
 \TU/lmr/m/n/10 SAIO CLÍNICO EM
  []
 
 
-Underfull \hbox (badness 10000) in paragraph at lines 595--595
+Underfull \hbox (badness 10000) in paragraph at lines 571--571
 []\TU/lmr/m/n/10 PROJETOS DE EN-
  []
 
 
-Underfull \hbox (badness 10000) in paragraph at lines 595--595
+Underfull \hbox (badness 10000) in paragraph at lines 571--571
 \TU/lmr/m/n/10 SAIO CLÍNICO EM
  []
 
 
-Underfull \hbox (badness 10000) in paragraph at lines 595--595
+Underfull \hbox (badness 10000) in paragraph at lines 571--571
 \TU/lmr/m/n/10 FUNCTIONAL DE-
  []
 
 
-Underfull \hbox (badness 10000) in paragraph at lines 595--595
+Underfull \hbox (badness 10000) in paragraph at lines 571--571
 \TU/lmr/m/n/10 CLINE, FALLS &
  []
 
 
-Underfull \hbox (badness 10000) in paragraph at lines 595--595
+Underfull \hbox (badness 10000) in paragraph at lines 571--571
 \TU/lmr/m/n/10 INJURY PREVEN-
  []
 
 
-Underfull \hbox (badness 3713) in paragraph at lines 595--595
+Underfull \hbox (badness 3713) in paragraph at lines 571--571
 []\TU/lmr/m/n/10 TRADUÇÃO DO CO-
  []
 
 
-Underfull \hbox (badness 10000) in paragraph at lines 595--595
+Underfull \hbox (badness 10000) in paragraph at lines 571--571
 []\TU/lmr/m/n/10 TÓPICOS AVANÇA-
  []
 
 
-Underfull \hbox (badness 10000) in paragraph at lines 595--595
+Underfull \hbox (badness 10000) in paragraph at lines 571--571
 \TU/lmr/m/n/10 CARDIORRESPIRA-
  []
 
 
-Underfull \hbox (badness 10000) in paragraph at lines 595--595
+Underfull \hbox (badness 10000) in paragraph at lines 571--571
 []\TU/lmr/m/n/10 TÓPICOS AVANÇA-
  []
 
 
-Underfull \hbox (badness 1221) in paragraph at lines 595--595
+Underfull \hbox (badness 1221) in paragraph at lines 571--571
 \TU/lmr/m/n/10 DOS EM FISIOTERA-
  []
 
 
-Underfull \hbox (badness 10000) in paragraph at lines 595--595
+Underfull \hbox (badness 10000) in paragraph at lines 571--571
 \TU/lmr/m/n/10 PIA GERONTOLÓ-
  []
 
 
-Underfull \hbox (badness 10000) in paragraph at lines 595--595
+Underfull \hbox (badness 10000) in paragraph at lines 571--571
 []\TU/lmr/m/n/10 TÓPICOS AVANÇA-
  []
 
 
-Underfull \hbox (badness 10000) in paragraph at lines 595--595
+Underfull \hbox (badness 10000) in paragraph at lines 571--571
 \TU/lmr/m/n/10 DOS EM PLASTICI-
  []
 
 
-Underfull \hbox (badness 10000) in paragraph at lines 595--595
+Underfull \hbox (badness 10000) in paragraph at lines 571--571
 []\TU/lmr/m/n/10 ABORDAGEM FISIO-
  []
 
 
-Underfull \hbox (badness 10000) in paragraph at lines 595--595
+Underfull \hbox (badness 10000) in paragraph at lines 571--571
 \TU/lmr/m/n/10 TERAPÊUTICA EM
  []
 
 
-Underfull \hbox (badness 10000) in paragraph at lines 595--595
+Underfull \hbox (badness 10000) in paragraph at lines 571--571
 []\TU/lmr/m/n/10 AVALIAÇÃO CARDI-
  []
 
 
-Underfull \hbox (badness 10000) in paragraph at lines 595--595
+Underfull \hbox (badness 10000) in paragraph at lines 571--571
 \TU/lmr/m/n/10 ORRESPIRATÓRIA
  []
 
 
-Underfull \hbox (badness 5970) in paragraph at lines 595--595
+Underfull \hbox (badness 5970) in paragraph at lines 571--571
 \TU/lmr/m/n/10 TERAPIA MUSCULO-
  []
 
 
-Underfull \hbox (badness 10000) in paragraph at lines 595--595
+Underfull \hbox (badness 10000) in paragraph at lines 571--571
 []\TU/lmr/m/n/10 AVALIAÇÃO MUS-
  []
 
 
-Underfull \hbox (badness 10000) in paragraph at lines 595--595
+Underfull \hbox (badness 10000) in paragraph at lines 571--571
 \TU/lmr/m/n/10 CULOESQUELÉTICA
  []
 
 
-Underfull \hbox (badness 10000) in paragraph at lines 595--595
+Underfull \hbox (badness 10000) in paragraph at lines 571--571
 \TU/lmr/m/n/10 E INTERVENÇÕES
  []
 
 
-Underfull \hbox (badness 10000) in paragraph at lines 595--595
+Underfull \hbox (badness 10000) in paragraph at lines 571--571
 \TU/lmr/m/n/10 NAS DISFUNÇÕES
  []
 
 
-Underfull \hbox (badness 10000) in paragraph at lines 595--595
+Underfull \hbox (badness 10000) in paragraph at lines 571--571
 \TU/lmr/m/n/10 URO GINECO-
  []
 
 
-Underfull \hbox (badness 2617) in paragraph at lines 595--595
+Underfull \hbox (badness 2617) in paragraph at lines 571--571
 []\TU/lmr/m/n/10 EPIDEMIOLOGIA DO
  []
 
 
-Underfull \hbox (badness 10000) in paragraph at lines 595--595
+Underfull \hbox (badness 10000) in paragraph at lines 571--571
 []\TU/lmr/m/n/10 FISIOLOGIA DO
  []
 
 
-Underfull \hbox (badness 10000) in paragraph at lines 595--595
+Underfull \hbox (badness 10000) in paragraph at lines 571--571
 \TU/lmr/m/n/10 BILITAÇÃO MUSCU-
  []
 
 
-Underfull \hbox (badness 2302) in paragraph at lines 595--595
+Underfull \hbox (badness 2302) in paragraph at lines 571--571
 []\TU/lmr/m/n/10 MÉTODOS E TÉCNI-
  []
 
 
-Underfull \hbox (badness 1584) in paragraph at lines 595--595
+Underfull \hbox (badness 1584) in paragraph at lines 571--571
 \TU/lmr/m/n/10 CAS EM FISIOTERA-
  []
 
 
-Underfull \hbox (badness 10000) in paragraph at lines 595--595
+Underfull \hbox (badness 10000) in paragraph at lines 571--571
 []\TU/lmr/m/n/10 NEUROFISIOLOGIA
  []
 
 
-Underfull \hbox (badness 10000) in paragraph at lines 595--595
+Underfull \hbox (badness 10000) in paragraph at lines 571--571
 \TU/lmr/m/n/10 DOS HORMÔNIOS
  []
 
 
-Underfull \hbox (badness 10000) in paragraph at lines 595--595
+Underfull \hbox (badness 10000) in paragraph at lines 571--571
 \TU/lmr/m/n/10 MUSCULOESQUELÉ-
  []
 
 
-Underfull \hbox (badness 10000) in paragraph at lines 595--595
+Underfull \hbox (badness 10000) in paragraph at lines 571--571
 []\TU/lmr/m/n/10 PRESCRIÇÃO DE
  []
 
 
-Underfull \hbox (badness 10000) in paragraph at lines 595--595
+Underfull \hbox (badness 10000) in paragraph at lines 571--571
 \TU/lmr/m/n/10 BILITAÇÃO MUSCU-
  []
 
 
-Underfull \hbox (badness 7397) in paragraph at lines 595--595
+Underfull \hbox (badness 7397) in paragraph at lines 571--571
 []\TU/lmr/m/n/10 REABILITAÇÃO NAS
  []
 
 
-Underfull \hbox (badness 10000) in paragraph at lines 595--595
+Underfull \hbox (badness 10000) in paragraph at lines 571--571
 \TU/lmr/m/n/10 DOENÇAS CARDI-
  []
 
 
-Underfull \hbox (badness 10000) in paragraph at lines 595--595
+Underfull \hbox (badness 10000) in paragraph at lines 571--571
 \TU/lmr/m/n/10 OVASCULARES,
  []
 
 
-Underfull \hbox (badness 10000) in paragraph at lines 595--595
+Underfull \hbox (badness 10000) in paragraph at lines 571--571
 \TU/lmr/m/n/10 RESPIRATÓRIAS
  []
 
 
-Underfull \hbox (badness 10000) in paragraph at lines 595--595
+Underfull \hbox (badness 10000) in paragraph at lines 571--571
 []\TU/lmr/m/n/10 REDAÇÃO CRÍTICA
  []
 
 
-Underfull \hbox (badness 1796) in paragraph at lines 595--595
+Underfull \hbox (badness 1796) in paragraph at lines 571--571
 \TU/lmr/m/n/10 DO ARTIGO CIENTÍ-
  []
 
 
-Underfull \hbox (badness 10000) in paragraph at lines 595--595
+Underfull \hbox (badness 10000) in paragraph at lines 571--571
 []\TU/lmr/m/n/10 SCIEN. RE-
  []
 
 
-Underfull \hbox (badness 10000) in paragraph at lines 595--595
+Underfull \hbox (badness 10000) in paragraph at lines 571--571
 \TU/lmr/m/n/10 SEAR.PRIORITIES
  []
 
 
-Underfull \hbox (badness 10000) in paragraph at lines 595--595
+Underfull \hbox (badness 10000) in paragraph at lines 571--571
 \TU/lmr/m/n/10 UPDATE IN PHY-
  []
 
 
-Underfull \hbox (badness 10000) in paragraph at lines 595--595
+Underfull \hbox (badness 10000) in paragraph at lines 571--571
 \TU/lmr/m/n/10 SICAL THERAPY
  []
 
 
-Underfull \hbox (badness 3407) in paragraph at lines 595--595
+Underfull \hbox (badness 3407) in paragraph at lines 571--571
 \TU/lmr/m/n/10 ASSESSMENT MANA-
  []
 
 
-Underfull \hbox (badness 10000) in paragraph at lines 595--595
+Underfull \hbox (badness 10000) in paragraph at lines 571--571
 \TU/lmr/m/n/10 ACTUALIZACIÓN
  []
 
 
-Underfull \hbox (badness 10000) in paragraph at lines 595--595
+Underfull \hbox (badness 10000) in paragraph at lines 571--571
 \TU/lmr/m/n/10 EN EVALUACIÓN
  []
 
 
-Underfull \hbox (badness 10000) in paragraph at lines 595--595
+Underfull \hbox (badness 10000) in paragraph at lines 571--571
 []\TU/lmr/m/n/10 SCIEN. RE-
  []
 
 
-Underfull \hbox (badness 10000) in paragraph at lines 595--595
+Underfull \hbox (badness 10000) in paragraph at lines 571--571
 \TU/lmr/m/n/10 SEAR.PRIORITIES
  []
 
 
-Underfull \hbox (badness 10000) in paragraph at lines 595--595
+Underfull \hbox (badness 10000) in paragraph at lines 571--571
 \TU/lmr/m/n/10 UPDATE IN PHY-
  []
 
 
-Underfull \hbox (badness 10000) in paragraph at lines 595--595
+Underfull \hbox (badness 10000) in paragraph at lines 571--571
 \TU/lmr/m/n/10 SICAL THERAPY
  []
 
 
-Underfull \hbox (badness 3407) in paragraph at lines 595--595
+Underfull \hbox (badness 3407) in paragraph at lines 571--571
 \TU/lmr/m/n/10 ASSESSMENT MANA-
  []
 
 
-Underfull \hbox (badness 10000) in paragraph at lines 595--595
+Underfull \hbox (badness 10000) in paragraph at lines 571--571
 \TU/lmr/m/n/10 ACTUALIZACIÓN
  []
 
 
-Underfull \hbox (badness 10000) in paragraph at lines 595--595
+Underfull \hbox (badness 10000) in paragraph at lines 571--571
 \TU/lmr/m/n/10 EN EVALUACIÓN
  []
 
 
-Underfull \hbox (badness 5878) in paragraph at lines 595--595
+Underfull \hbox (badness 5878) in paragraph at lines 571--571
 []\TU/lmr/m/n/10 SISTEMA DE MOVI-
  []
 
 
-Underfull \hbox (badness 5475) in paragraph at lines 595--595
+Underfull \hbox (badness 5475) in paragraph at lines 571--571
 []\TU/lmr/m/n/10 ÉTICA E BIOÉTICA
  []
 
 > Step: build the whole table.
 
-Underfull \hbox (badness 10000) in paragraph at lines 595--595
+Underfull \hbox (badness 10000) in paragraph at lines 571--571
 []\TU/lmr/m/n/10 ABORDAGEM FISIO-
  []
 
 
-Underfull \hbox (badness 10000) in paragraph at lines 595--595
+Underfull \hbox (badness 10000) in paragraph at lines 571--571
 \TU/lmr/m/n/10 TERAPÊUTICA EM
  []
 
 
-Underfull \hbox (badness 10000) in paragraph at lines 595--595
+Underfull \hbox (badness 10000) in paragraph at lines 571--571
 \TU/lmr/m/n/10 DESENVOLVIMENTO,
  []
 
 
-Underfull \hbox (badness 10000) in paragraph at lines 595--595
+Underfull \hbox (badness 10000) in paragraph at lines 571--571
 []\TU/lmr/m/n/10 ABORDAGEM FISIO-
  []
 
 
-Underfull \hbox (badness 10000) in paragraph at lines 595--595
+Underfull \hbox (badness 10000) in paragraph at lines 571--571
 \TU/lmr/m/n/10 TERAPÊUTICA EM
  []
 
 
-Underfull \hbox (badness 10000) in paragraph at lines 595--595
+Underfull \hbox (badness 10000) in paragraph at lines 571--571
 \TU/lmr/m/n/10 NEURORREABILITA-
  []
 
 
-Underfull \hbox (badness 10000) in paragraph at lines 595--595
+Underfull \hbox (badness 10000) in paragraph at lines 571--571
 []\TU/lmr/m/n/10 AVALIAÇÃO CARDI-
  []
 
 
-Underfull \hbox (badness 10000) in paragraph at lines 595--595
+Underfull \hbox (badness 10000) in paragraph at lines 571--571
 \TU/lmr/m/n/10 ORRESPIRATÓRIA
  []
 
 
-Underfull \hbox (badness 1735) in paragraph at lines 595--595
+Underfull \hbox (badness 1735) in paragraph at lines 571--571
 []\TU/lmr/m/n/10 AVALIAÇÃO DA EVI-
  []
 
 
-Underfull \hbox (badness 2495) in paragraph at lines 595--595
+Underfull \hbox (badness 2495) in paragraph at lines 571--571
 \TU/lmr/m/n/10 DÊNCIA CIENTÍFICA
  []
 
 
-Underfull \hbox (badness 10000) in paragraph at lines 595--595
+Underfull \hbox (badness 10000) in paragraph at lines 571--571
 \TU/lmr/m/n/10 E DESENVOLVI-
  []
 
 
-Underfull \hbox (badness 10000) in paragraph at lines 595--595
+Underfull \hbox (badness 10000) in paragraph at lines 571--571
 \TU/lmr/m/n/10 SISTEMÁTICAS EM
  []
 
 
-Underfull \hbox (badness 1735) in paragraph at lines 595--595
+Underfull \hbox (badness 1735) in paragraph at lines 571--571
 []\TU/lmr/m/n/10 AVALIAÇÃO DA EVI-
  []
 
 
-Underfull \hbox (badness 2495) in paragraph at lines 595--595
+Underfull \hbox (badness 2495) in paragraph at lines 571--571
 \TU/lmr/m/n/10 DÊNCIA CIENTÍFICA
  []
 
 
-Underfull \hbox (badness 10000) in paragraph at lines 595--595
+Underfull \hbox (badness 10000) in paragraph at lines 571--571
 \TU/lmr/m/n/10 E DESENVOLVI-
  []
 
 
-Underfull \hbox (badness 10000) in paragraph at lines 595--595
+Underfull \hbox (badness 10000) in paragraph at lines 571--571
 \TU/lmr/m/n/10 SISTEMÁTICAS EM
  []
 
 
-Underfull \hbox (badness 1337) in paragraph at lines 595--595
+Underfull \hbox (badness 1337) in paragraph at lines 571--571
 \TU/lmr/m/n/10 VENÇÃO EM SAÚDE
  []
 
 
-Underfull \hbox (badness 10000) in paragraph at lines 595--595
+Underfull \hbox (badness 10000) in paragraph at lines 571--571
 []\TU/lmr/m/n/10 AVALIAÇÃO E RE-
  []
 
 
-Underfull \hbox (badness 10000) in paragraph at lines 595--595
+Underfull \hbox (badness 10000) in paragraph at lines 571--571
 \TU/lmr/m/n/10 ABILITAÇÃO NAS
  []
 
 
-Underfull \hbox (badness 10000) in paragraph at lines 595--595
+Underfull \hbox (badness 10000) in paragraph at lines 571--571
 \TU/lmr/m/n/10 DOENÇAS CAR-
  []
 
 
-Underfull \hbox (badness 10000) in paragraph at lines 595--595
+Underfull \hbox (badness 10000) in paragraph at lines 571--571
 \TU/lmr/m/n/10 DIOVASCULARES,
  []
 
 
-Underfull \hbox (badness 10000) in paragraph at lines 595--595
+Underfull \hbox (badness 10000) in paragraph at lines 571--571
 \TU/lmr/m/n/10 RESPIRATORIAS E
  []
 
 
-Underfull \hbox (badness 6775) in paragraph at lines 595--595
+Underfull \hbox (badness 6775) in paragraph at lines 571--571
 \TU/lmr/m/n/10 TERAPIA NEUROLÓ-
  []
 
 
-Underfull \hbox (badness 10000) in paragraph at lines 595--595
+Underfull \hbox (badness 10000) in paragraph at lines 571--571
 []\TU/lmr/m/n/10 CONTEMPORARY
  []
 
 
-Underfull \hbox (badness 10000) in paragraph at lines 595--595
+Underfull \hbox (badness 10000) in paragraph at lines 571--571
 \TU/lmr/m/n/10 INTENSIVE THERA-
  []
 
 
-Underfull \hbox (badness 4479) in paragraph at lines 595--595
+Underfull \hbox (badness 4479) in paragraph at lines 571--571
 \TU/lmr/m/n/10 PIES TO PROMOTE
  []
 
 
-Underfull \hbox (badness 10000) in paragraph at lines 595--595
+Underfull \hbox (badness 10000) in paragraph at lines 571--571
 \TU/lmr/m/n/10 HAND FUNCTION
  []
 
 
-Underfull \hbox (badness 1755) in paragraph at lines 595--595
+Underfull \hbox (badness 1755) in paragraph at lines 571--571
 \TU/lmr/m/n/10 IN CHILDREN WITH
  []
 
 
-Underfull \hbox (badness 10000) in paragraph at lines 595--595
+Underfull \hbox (badness 10000) in paragraph at lines 571--571
 []\TU/lmr/m/n/10 DIDÁTICA DO EN-
  []
 
 
-Underfull \hbox (badness 10000) in paragraph at lines 595--595
+Underfull \hbox (badness 10000) in paragraph at lines 571--571
 []\TU/lmr/m/n/10 ELETROMIOGRAFIA
  []
 
 
 
-[16]
-Underfull \hbox (badness 10000) in paragraph at lines 595--595
+[14]
+Underfull \hbox (badness 10000) in paragraph at lines 571--571
 []\TU/lmr/m/n/10 FISIOLOGIA DO
  []
 
 
-Underfull \hbox (badness 10000) in paragraph at lines 595--595
+Underfull \hbox (badness 10000) in paragraph at lines 571--571
 \TU/lmr/m/n/10 BILITAÇÃO MUSCU-
  []
 
 
-Underfull \hbox (badness 10000) in paragraph at lines 595--595
+Underfull \hbox (badness 10000) in paragraph at lines 571--571
 \TU/lmr/m/n/10 PENHO CARDIOVAS-
  []
 
 
-Underfull \hbox (badness 10000) in paragraph at lines 595--595
+Underfull \hbox (badness 10000) in paragraph at lines 571--571
 []\TU/lmr/m/n/10 METODOLOGIA DA
  []
 
 
-Underfull \hbox (badness 10000) in paragraph at lines 595--595
+Underfull \hbox (badness 10000) in paragraph at lines 571--571
 \TU/lmr/m/n/10 PESQUISA CIENTÍ-
  []
 
 
-Underfull \hbox (badness 2302) in paragraph at lines 595--595
+Underfull \hbox (badness 2302) in paragraph at lines 571--571
 []\TU/lmr/m/n/10 MÉTODOS E TÉCNI-
  []
 
 
-Underfull \hbox (badness 1584) in paragraph at lines 595--595
+Underfull \hbox (badness 1584) in paragraph at lines 571--571
 \TU/lmr/m/n/10 CAS EM FISIOTERA-
  []
 
 
-Underfull \hbox (badness 10000) in paragraph at lines 595--595
+Underfull \hbox (badness 10000) in paragraph at lines 571--571
 []\TU/lmr/m/n/10 NEUROBIOLOGIA
  []
 
 
-Underfull \hbox (badness 10000) in paragraph at lines 595--595
+Underfull \hbox (badness 10000) in paragraph at lines 571--571
 []\TU/lmr/m/n/10 NEUROFISIOLOGIA
  []
 
 
-Underfull \hbox (badness 10000) in paragraph at lines 595--595
+Underfull \hbox (badness 10000) in paragraph at lines 571--571
 \TU/lmr/m/n/10 DOS HORMÔNIOS
  []
 
 
-Underfull \hbox (badness 10000) in paragraph at lines 595--595
+Underfull \hbox (badness 10000) in paragraph at lines 571--571
 \TU/lmr/m/n/10 MUSCULOESQUELÉ-
  []
 
 
-Underfull \hbox (badness 10000) in paragraph at lines 595--595
+Underfull \hbox (badness 10000) in paragraph at lines 571--571
 []\TU/lmr/m/n/10 PLASTICIDADE DO
  []
 
 
-Underfull \hbox (badness 3482) in paragraph at lines 595--595
+Underfull \hbox (badness 3482) in paragraph at lines 571--571
 \TU/lmr/m/n/10 MÚSCULO ESQUELÉ-
  []
 
 
-Underfull \hbox (badness 10000) in paragraph at lines 595--595
+Underfull \hbox (badness 10000) in paragraph at lines 571--571
 []\TU/lmr/m/n/10 PROJETOS DE EN-
  []
 
 
-Underfull \hbox (badness 10000) in paragraph at lines 595--595
+Underfull \hbox (badness 10000) in paragraph at lines 571--571
 \TU/lmr/m/n/10 SAIO CLÍNICO EM
  []
 
 
-Underfull \hbox (badness 10000) in paragraph at lines 595--595
+Underfull \hbox (badness 10000) in paragraph at lines 571--571
 []\TU/lmr/m/n/10 PROJETOS DE EN-
  []
 
 
-Underfull \hbox (badness 10000) in paragraph at lines 595--595
+Underfull \hbox (badness 10000) in paragraph at lines 571--571
 \TU/lmr/m/n/10 SAIO CLÍNICO EM
  []
 
 
-Underfull \hbox (badness 10000) in paragraph at lines 595--595
+Underfull \hbox (badness 10000) in paragraph at lines 571--571
 \TU/lmr/m/n/10 FUNCTIONAL DE-
  []
 
 
-Underfull \hbox (badness 10000) in paragraph at lines 595--595
+Underfull \hbox (badness 10000) in paragraph at lines 571--571
 \TU/lmr/m/n/10 CLINE, FALLS &
  []
 
 
-Underfull \hbox (badness 10000) in paragraph at lines 595--595
+Underfull \hbox (badness 10000) in paragraph at lines 571--571
 \TU/lmr/m/n/10 INJURY PREVEN-
  []
 
 
-Underfull \hbox (badness 3713) in paragraph at lines 595--595
+Underfull \hbox (badness 3713) in paragraph at lines 571--571
 []\TU/lmr/m/n/10 TRADUÇÃO DO CO-
  []
 
 
-Underfull \hbox (badness 10000) in paragraph at lines 595--595
+Underfull \hbox (badness 10000) in paragraph at lines 571--571
 []\TU/lmr/m/n/10 TÓPICOS AVANÇA-
  []
 
 
-Underfull \hbox (badness 10000) in paragraph at lines 595--595
+Underfull \hbox (badness 10000) in paragraph at lines 571--571
 \TU/lmr/m/n/10 CARDIORRESPIRA-
  []
 
 
-Underfull \hbox (badness 10000) in paragraph at lines 595--595
+Underfull \hbox (badness 10000) in paragraph at lines 571--571
 []\TU/lmr/m/n/10 TÓPICOS AVANÇA-
  []
 
 
-Underfull \hbox (badness 1221) in paragraph at lines 595--595
+Underfull \hbox (badness 1221) in paragraph at lines 571--571
 \TU/lmr/m/n/10 DOS EM FISIOTERA-
  []
 
 
-Underfull \hbox (badness 10000) in paragraph at lines 595--595
+Underfull \hbox (badness 10000) in paragraph at lines 571--571
 \TU/lmr/m/n/10 PIA GERONTOLÓ-
  []
 
 
 
-[17]
-Underfull \hbox (badness 10000) in paragraph at lines 595--595
+[15]
+Underfull \hbox (badness 10000) in paragraph at lines 571--571
 []\TU/lmr/m/n/10 TÓPICOS AVANÇA-
  []
 
 
-Underfull \hbox (badness 10000) in paragraph at lines 595--595
+Underfull \hbox (badness 10000) in paragraph at lines 571--571
 \TU/lmr/m/n/10 DOS EM PLASTICI-
  []
 
 
-Underfull \hbox (badness 10000) in paragraph at lines 595--595
+Underfull \hbox (badness 10000) in paragraph at lines 571--571
 []\TU/lmr/m/n/10 ABORDAGEM FISIO-
  []
 
 
-Underfull \hbox (badness 10000) in paragraph at lines 595--595
+Underfull \hbox (badness 10000) in paragraph at lines 571--571
 \TU/lmr/m/n/10 TERAPÊUTICA EM
  []
 
 
-Underfull \hbox (badness 10000) in paragraph at lines 595--595
+Underfull \hbox (badness 10000) in paragraph at lines 571--571
 []\TU/lmr/m/n/10 AVALIAÇÃO CARDI-
  []
 
 
-Underfull \hbox (badness 10000) in paragraph at lines 595--595
+Underfull \hbox (badness 10000) in paragraph at lines 571--571
 \TU/lmr/m/n/10 ORRESPIRATÓRIA
  []
 
 
-Underfull \hbox (badness 5970) in paragraph at lines 595--595
+Underfull \hbox (badness 5970) in paragraph at lines 571--571
 \TU/lmr/m/n/10 TERAPIA MUSCULO-
  []
 
 
-Underfull \hbox (badness 10000) in paragraph at lines 595--595
+Underfull \hbox (badness 10000) in paragraph at lines 571--571
 []\TU/lmr/m/n/10 AVALIAÇÃO MUS-
  []
 
 
-Underfull \hbox (badness 10000) in paragraph at lines 595--595
+Underfull \hbox (badness 10000) in paragraph at lines 571--571
 \TU/lmr/m/n/10 CULOESQUELÉTICA
  []
 
 
-Underfull \hbox (badness 10000) in paragraph at lines 595--595
+Underfull \hbox (badness 10000) in paragraph at lines 571--571
 \TU/lmr/m/n/10 E INTERVENÇÕES
  []
 
 
-Underfull \hbox (badness 10000) in paragraph at lines 595--595
+Underfull \hbox (badness 10000) in paragraph at lines 571--571
 \TU/lmr/m/n/10 NAS DISFUNÇÕES
  []
 
 
-Underfull \hbox (badness 10000) in paragraph at lines 595--595
+Underfull \hbox (badness 10000) in paragraph at lines 571--571
 \TU/lmr/m/n/10 URO GINECO-
  []
 
 
-Underfull \hbox (badness 2617) in paragraph at lines 595--595
+Underfull \hbox (badness 2617) in paragraph at lines 571--571
 []\TU/lmr/m/n/10 EPIDEMIOLOGIA DO
  []
 
 
-Underfull \hbox (badness 10000) in paragraph at lines 595--595
+Underfull \hbox (badness 10000) in paragraph at lines 571--571
 []\TU/lmr/m/n/10 FISIOLOGIA DO
  []
 
 
-Underfull \hbox (badness 10000) in paragraph at lines 595--595
+Underfull \hbox (badness 10000) in paragraph at lines 571--571
 \TU/lmr/m/n/10 BILITAÇÃO MUSCU-
  []
 
 
-Underfull \hbox (badness 2302) in paragraph at lines 595--595
+Underfull \hbox (badness 2302) in paragraph at lines 571--571
 []\TU/lmr/m/n/10 MÉTODOS E TÉCNI-
  []
 
 
-Underfull \hbox (badness 1584) in paragraph at lines 595--595
+Underfull \hbox (badness 1584) in paragraph at lines 571--571
 \TU/lmr/m/n/10 CAS EM FISIOTERA-
  []
 
 
-Underfull \hbox (badness 10000) in paragraph at lines 595--595
+Underfull \hbox (badness 10000) in paragraph at lines 571--571
 []\TU/lmr/m/n/10 NEUROFISIOLOGIA
  []
 
 
-Underfull \hbox (badness 10000) in paragraph at lines 595--595
+Underfull \hbox (badness 10000) in paragraph at lines 571--571
 \TU/lmr/m/n/10 DOS HORMÔNIOS
  []
 
 
-Underfull \hbox (badness 10000) in paragraph at lines 595--595
+Underfull \hbox (badness 10000) in paragraph at lines 571--571
 \TU/lmr/m/n/10 MUSCULOESQUELÉ-
  []
 
 
-Underfull \hbox (badness 10000) in paragraph at lines 595--595
+Underfull \hbox (badness 10000) in paragraph at lines 571--571
 []\TU/lmr/m/n/10 PRESCRIÇÃO DE
  []
 
 
-Underfull \hbox (badness 10000) in paragraph at lines 595--595
+Underfull \hbox (badness 10000) in paragraph at lines 571--571
 \TU/lmr/m/n/10 BILITAÇÃO MUSCU-
  []
 
 
-Underfull \hbox (badness 7397) in paragraph at lines 595--595
+Underfull \hbox (badness 7397) in paragraph at lines 571--571
 []\TU/lmr/m/n/10 REABILITAÇÃO NAS
  []
 
 
-Underfull \hbox (badness 10000) in paragraph at lines 595--595
+Underfull \hbox (badness 10000) in paragraph at lines 571--571
 \TU/lmr/m/n/10 DOENÇAS CARDI-
  []
 
 
-Underfull \hbox (badness 10000) in paragraph at lines 595--595
+Underfull \hbox (badness 10000) in paragraph at lines 571--571
 \TU/lmr/m/n/10 OVASCULARES,
  []
 
 
-Underfull \hbox (badness 10000) in paragraph at lines 595--595
+Underfull \hbox (badness 10000) in paragraph at lines 571--571
 \TU/lmr/m/n/10 RESPIRATÓRIAS
  []
 
 
 
-[18]
-Underfull \hbox (badness 10000) in paragraph at lines 595--595
+[16]
+Underfull \hbox (badness 10000) in paragraph at lines 571--571
 []\TU/lmr/m/n/10 REDAÇÃO CRÍTICA
  []
 
 
-Underfull \hbox (badness 1796) in paragraph at lines 595--595
+Underfull \hbox (badness 1796) in paragraph at lines 571--571
 \TU/lmr/m/n/10 DO ARTIGO CIENTÍ-
  []
 
 
-Underfull \hbox (badness 10000) in paragraph at lines 595--595
+Underfull \hbox (badness 10000) in paragraph at lines 571--571
 []\TU/lmr/m/n/10 SCIEN. RE-
  []
 
 
-Underfull \hbox (badness 10000) in paragraph at lines 595--595
+Underfull \hbox (badness 10000) in paragraph at lines 571--571
 \TU/lmr/m/n/10 SEAR.PRIORITIES
  []
 
 
-Underfull \hbox (badness 10000) in paragraph at lines 595--595
+Underfull \hbox (badness 10000) in paragraph at lines 571--571
 \TU/lmr/m/n/10 UPDATE IN PHY-
  []
 
 
-Underfull \hbox (badness 10000) in paragraph at lines 595--595
+Underfull \hbox (badness 10000) in paragraph at lines 571--571
 \TU/lmr/m/n/10 SICAL THERAPY
  []
 
 
-Underfull \hbox (badness 3407) in paragraph at lines 595--595
+Underfull \hbox (badness 3407) in paragraph at lines 571--571
 \TU/lmr/m/n/10 ASSESSMENT MANA-
  []
 
 
-Underfull \hbox (badness 10000) in paragraph at lines 595--595
+Underfull \hbox (badness 10000) in paragraph at lines 571--571
 \TU/lmr/m/n/10 ACTUALIZACIÓN
  []
 
 
-Underfull \hbox (badness 10000) in paragraph at lines 595--595
+Underfull \hbox (badness 10000) in paragraph at lines 571--571
 \TU/lmr/m/n/10 EN EVALUACIÓN
  []
 
 
-Underfull \hbox (badness 10000) in paragraph at lines 595--595
+Underfull \hbox (badness 10000) in paragraph at lines 571--571
 []\TU/lmr/m/n/10 SCIEN. RE-
  []
 
 
-Underfull \hbox (badness 10000) in paragraph at lines 595--595
+Underfull \hbox (badness 10000) in paragraph at lines 571--571
 \TU/lmr/m/n/10 SEAR.PRIORITIES
  []
 
 
-Underfull \hbox (badness 10000) in paragraph at lines 595--595
+Underfull \hbox (badness 10000) in paragraph at lines 571--571
 \TU/lmr/m/n/10 UPDATE IN PHY-
  []
 
 
-Underfull \hbox (badness 10000) in paragraph at lines 595--595
+Underfull \hbox (badness 10000) in paragraph at lines 571--571
 \TU/lmr/m/n/10 SICAL THERAPY
  []
 
 
-Underfull \hbox (badness 3407) in paragraph at lines 595--595
+Underfull \hbox (badness 3407) in paragraph at lines 571--571
 \TU/lmr/m/n/10 ASSESSMENT MANA-
  []
 
 
-Underfull \hbox (badness 10000) in paragraph at lines 595--595
+Underfull \hbox (badness 10000) in paragraph at lines 571--571
 \TU/lmr/m/n/10 ACTUALIZACIÓN
  []
 
 
-Underfull \hbox (badness 10000) in paragraph at lines 595--595
+Underfull \hbox (badness 10000) in paragraph at lines 571--571
 \TU/lmr/m/n/10 EN EVALUACIÓN
  []
 
 
-Underfull \hbox (badness 5878) in paragraph at lines 595--595
+Underfull \hbox (badness 5878) in paragraph at lines 571--571
 []\TU/lmr/m/n/10 SISTEMA DE MOVI-
  []
 
 
-Underfull \hbox (badness 5475) in paragraph at lines 595--595
+Underfull \hbox (badness 5475) in paragraph at lines 571--571
 []\TU/lmr/m/n/10 ÉTICA E BIOÉTICA
  []
 
 
+
+[17]
+
+[18]
 
 [19]
 
@@ -3647,22 +3652,22 @@ Underfull \hbox (badness 5475) in paragraph at lines 595--595
 [32]
 
 [33]
+Overfull \hbox (170.75317pt too wide) in paragraph at lines 835--858
+ [][] 
+ []
+
+
 
 [34]
+Overfull \hbox (14.90315pt too wide) in paragraph at lines 870--900
+ [][] 
+ []
+
+
 
 [35]
-Overfull \hbox (170.75317pt too wide) in paragraph at lines 859--882
- [][] 
- []
-
-
 
 [36]
-Overfull \hbox (2.09314pt too wide) in paragraph at lines 894--915
- [][] 
- []
-
-
 
 [37]
 
@@ -3675,15 +3680,15 @@ Overfull \hbox (2.09314pt too wide) in paragraph at lines 894--915
 [41]
 
 [42]
-Overfull \hbox (55.56316pt too wide) in paragraph at lines 968--1008
- [][] 
- []
-
-
 
 [43]
 
 [44]
+Overfull \hbox (55.56316pt too wide) in paragraph at lines 1028--1068
+ [][] 
+ []
+
+
 
 [45]
 
@@ -3693,7 +3698,11 @@ Overfull \hbox (55.56316pt too wide) in paragraph at lines 968--1008
 
 [48]
 
-[49] (./autoavaliacao.aux)
+[49]
+
+[50]
+
+[51] (./autoavaliacao.aux)
  ***********
 LaTeX2e <2024-06-01> patch level 2
 L3 programming layer <2024-08-16>
@@ -3703,12 +3712,12 @@ LaTeX Warning: There were multiply-defined labels.
 
  ) 
 Here is how much of TeX's memory you used:
- 43971 strings out of 474235
- 920637 string characters out of 5742253
+ 43973 strings out of 474235
+ 920665 string characters out of 5742253
  1959609 words of memory out of 5000000
- 66031 multiletter control sequences out of 15000+600000
+ 66033 multiletter control sequences out of 15000+600000
  569736 words of font info for 77 fonts, out of 8000000 for 9000
  1348 hyphenation exceptions out of 8191
  99i,19n,123p,1202b,1404s stack positions out of 10000i,1000n,20000p,200000b,200000s
 
-Output written on autoavaliacao.pdf (52 pages).
+Output written on autoavaliacao.pdf (54 pages).
