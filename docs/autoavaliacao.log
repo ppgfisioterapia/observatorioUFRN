@@ -1,4 +1,4 @@
-This is XeTeX, Version 3.141592653-2.6-0.999996 (TeX Live 2024) (preloaded format=xelatex 2024.10.26)  3 NOV 2024 00:10
+This is XeTeX, Version 3.141592653-2.6-0.999996 (TeX Live 2024) (preloaded format=xelatex 2024.10.26)  3 NOV 2024 14:56
 entering extended mode
  restricted \write18 enabled.
  %&-line parsing enabled.
@@ -1995,48 +1995,102 @@ Overfull \hbox (3.09442pt too wide) in paragraph at lines 979--993
 > Step: execute table commands.
 > Step: calculate cell and line sizes.
 
-Overfull \hbox (12.4192pt too wide) in paragraph at lines 1075--1075
+Overfull \hbox (12.4192pt too wide) in paragraph at lines 1048--1048
 []\TU/lmr/bx/n/10 PositiveLRC 
  []
 
 
-Underfull \hbox (badness 3977) in paragraph at lines 1075--1075
+Underfull \hbox (badness 3977) in paragraph at lines 1048--1048
 \TU/lmr/bx/n/10 Sistemas Cardiovascular E
  []
 
 > Step: build the whole table.
 
-Overfull \hbox (12.4192pt too wide) in paragraph at lines 1075--1075
+Overfull \hbox (12.4192pt too wide) in paragraph at lines 1048--1048
 []\TU/lmr/bx/n/10 PositiveLRC 
  []
 
 
-Underfull \hbox (badness 3977) in paragraph at lines 1075--1075
+Underfull \hbox (badness 3977) in paragraph at lines 1048--1048
 \TU/lmr/bx/n/10 Sistemas Cardiovascular E
  []
 
+> Step: init table outer spec.
+> Step: parse table options.
+> Step: split table.
+> Step: init table inner spec.
+> Step: parse table inner spec.
+> Step: execute table commands.
+> Step: calculate cell and line sizes.
+
+Overfull \hbox (12.4192pt too wide) in paragraph at lines 1092--1092
+[]\TU/lmr/bx/n/10 PositiveLRC 
+ []
+
+> Step: build the whole table.
+
+Overfull \hbox (12.4192pt too wide) in paragraph at lines 1092--1092
+[]\TU/lmr/bx/n/10 PositiveLRC 
+ []
+
+> Step: init table outer spec.
+> Step: parse table options.
+> Step: split table.
+> Step: init table inner spec.
+> Step: parse table inner spec.
+> Step: execute table commands.
+> Step: calculate cell and line sizes.
+
+Overfull \hbox (12.4192pt too wide) in paragraph at lines 1130--1130
+[]\TU/lmr/bx/n/10 PositiveLRC 
+ []
+
+> Step: build the whole table.
 
 
 [24
 
 ]
+Overfull \hbox (12.4192pt too wide) in paragraph at lines 1130--1130
+[]\TU/lmr/bx/n/10 PositiveLRC 
+ []
 
-[25]
+> Step: init table outer spec.
+> Step: parse table options.
+> Step: split table.
+> Step: init table inner spec.
+> Step: parse table inner spec.
+> Step: execute table commands.
+> Step: calculate cell and line sizes.
 
-[26
+Overfull \hbox (12.4192pt too wide) in paragraph at lines 1177--1177
+[]\TU/lmr/bx/n/10 PositiveLRC 
+ []
 
-]
+> Step: build the whole table.
 
-[27]
-
-[28]
-Overfull \hbox (3.09442pt too wide) in paragraph at lines 1134--1149
- [][] 
+Overfull \hbox (12.4192pt too wide) in paragraph at lines 1177--1177
+[]\TU/lmr/bx/n/10 PositiveLRC 
  []
 
 
 
+[25]
+
+[26]
+
+[27
+
+]
+
+[28]
+
 [29]
+Overfull \hbox (3.09442pt too wide) in paragraph at lines 1214--1229
+ [][] 
+ []
+
+
 
 [30]
 
@@ -2044,22 +2098,24 @@ Overfull \hbox (3.09442pt too wide) in paragraph at lines 1134--1149
 
 [32]
 
-[33
+[33]
+
+[34
 
 ]
-
-[34]
 
 [35]
 
 [36]
-Overfull \hbox (3.09442pt too wide) in paragraph at lines 1283--1312
+
+[37]
+Overfull \hbox (3.09442pt too wide) in paragraph at lines 1363--1392
  [][] 
  []
 
 
 
-[37
+[38
 
 ]
 > Step: init table outer spec.
@@ -2070,395 +2126,395 @@ Overfull \hbox (3.09442pt too wide) in paragraph at lines 1283--1312
 > Step: execute table commands.
 > Step: calculate cell and line sizes.
 
-Underfull \hbox (badness 10000) in paragraph at lines 1381--1381
+Underfull \hbox (badness 10000) in paragraph at lines 1461--1461
 []\TU/lmr/bx/n/10 Nome do
  []
 
 
-Underfull \hbox (badness 3769) in paragraph at lines 1381--1381
+Underfull \hbox (badness 3769) in paragraph at lines 1461--1461
 \TU/lmr/bx/n/10 Membro do
  []
 
 
-Underfull \hbox (badness 1052) in paragraph at lines 1381--1381
+Underfull \hbox (badness 1052) in paragraph at lines 1461--1461
 \TU/lmr/bx/n/10 ção No Processo De
  []
 
 
-Underfull \hbox (badness 10000) in paragraph at lines 1381--1381
+Underfull \hbox (badness 10000) in paragraph at lines 1461--1461
 []\TU/lmr/m/n/10 Alvaro Cam-
  []
 
 
-Underfull \hbox (badness 10000) in paragraph at lines 1381--1381
+Underfull \hbox (badness 10000) in paragraph at lines 1461--1461
 []\TU/lmr/m/n/10 Ana Raquel
  []
 
 
-Underfull \hbox (badness 10000) in paragraph at lines 1381--1381
+Underfull \hbox (badness 10000) in paragraph at lines 1461--1461
 \TU/lmr/m/n/10 Rodrigues
  []
 
 
-Underfull \hbox (badness 10000) in paragraph at lines 1381--1381
+Underfull \hbox (badness 10000) in paragraph at lines 1461--1461
 []\TU/lmr/m/n/10 Catarina De
  []
 
 
-Underfull \hbox (badness 10000) in paragraph at lines 1381--1381
+Underfull \hbox (badness 10000) in paragraph at lines 1461--1461
 []\TU/lmr/m/n/10 Elizabel De
  []
 
 
-Underfull \hbox (badness 10000) in paragraph at lines 1381--1381
+Underfull \hbox (badness 10000) in paragraph at lines 1461--1461
 \TU/lmr/m/n/10 Souza Rama-
  []
 
 
-Underfull \hbox (badness 10000) in paragraph at lines 1381--1381
+Underfull \hbox (badness 10000) in paragraph at lines 1461--1461
 []\TU/lmr/m/n/10 Fabricia Aze-
  []
 
 
-Underfull \hbox (badness 10000) in paragraph at lines 1381--1381
+Underfull \hbox (badness 10000) in paragraph at lines 1461--1461
 []\TU/lmr/m/n/10 Jamilson
  []
 
 
-Underfull \hbox (badness 6461) in paragraph at lines 1381--1381
+Underfull \hbox (badness 6461) in paragraph at lines 1461--1461
 \TU/lmr/m/n/10 Simoes Brasi-
  []
 
 
-Underfull \hbox (badness 1348) in paragraph at lines 1381--1381
+Underfull \hbox (badness 1348) in paragraph at lines 1461--1461
 []\TU/lmr/m/n/10 Juliana Maria
  []
 
 
-Underfull \hbox (badness 10000) in paragraph at lines 1381--1381
+Underfull \hbox (badness 10000) in paragraph at lines 1461--1461
 []\TU/lmr/m/n/10 Karla Mor-
  []
 
 
-Underfull \hbox (badness 1655) in paragraph at lines 1381--1381
+Underfull \hbox (badness 1655) in paragraph at lines 1461--1461
 \TU/lmr/m/n/10 ganna Pereira
  []
 
 
-Underfull \hbox (badness 10000) in paragraph at lines 1381--1381
+Underfull \hbox (badness 10000) in paragraph at lines 1461--1461
 \TU/lmr/m/n/10 Pinto De
  []
 
 
-Underfull \hbox (badness 10000) in paragraph at lines 1381--1381
+Underfull \hbox (badness 10000) in paragraph at lines 1461--1461
 []\TU/lmr/m/n/10 Karyna My-
  []
 
 
-Underfull \hbox (badness 10000) in paragraph at lines 1381--1381
+Underfull \hbox (badness 10000) in paragraph at lines 1461--1461
 \TU/lmr/m/n/10 relly Oliveira
  []
 
 
-Underfull \hbox (badness 10000) in paragraph at lines 1381--1381
+Underfull \hbox (badness 10000) in paragraph at lines 1461--1461
 \TU/lmr/m/n/10 Bezerra De
  []
 
 
-Underfull \hbox (badness 10000) in paragraph at lines 1381--1381
+Underfull \hbox (badness 10000) in paragraph at lines 1461--1461
 \TU/lmr/m/n/10 Figueiredo
  []
 
 
-Underfull \hbox (badness 10000) in paragraph at lines 1381--1381
+Underfull \hbox (badness 10000) in paragraph at lines 1461--1461
 \TU/lmr/m/n/10 Albuquer-
  []
 
 
-Underfull \hbox (badness 10000) in paragraph at lines 1381--1381
+Underfull \hbox (badness 10000) in paragraph at lines 1461--1461
 \TU/lmr/m/n/10 que Barbosa
  []
 
 
-Underfull \hbox (badness 10000) in paragraph at lines 1381--1381
+Underfull \hbox (badness 10000) in paragraph at lines 1461--1461
 []\TU/lmr/m/n/10 Patricia An-
  []
 
 
-Underfull \hbox (badness 10000) in paragraph at lines 1381--1381
+Underfull \hbox (badness 10000) in paragraph at lines 1461--1461
 \TU/lmr/m/n/10 gelica De
  []
 
 
-Underfull \hbox (badness 10000) in paragraph at lines 1381--1381
+Underfull \hbox (badness 10000) in paragraph at lines 1461--1461
 []\TU/lmr/m/n/10 Ricardo Oli-
  []
 
 
-Underfull \hbox (badness 10000) in paragraph at lines 1381--1381
+Underfull \hbox (badness 10000) in paragraph at lines 1461--1461
 []\TU/lmr/m/n/10 Rodrigo Pe-
  []
 
 
-Underfull \hbox (badness 4543) in paragraph at lines 1381--1381
+Underfull \hbox (badness 4543) in paragraph at lines 1461--1461
 []\TU/lmr/m/n/10 Rodrigo Scat-
  []
 
 
-Underfull \hbox (badness 10000) in paragraph at lines 1381--1381
+Underfull \hbox (badness 10000) in paragraph at lines 1461--1461
 []\TU/lmr/m/n/10 Saionara Ma-
  []
 
 
-Underfull \hbox (badness 3746) in paragraph at lines 1381--1381
+Underfull \hbox (badness 3746) in paragraph at lines 1461--1461
 \TU/lmr/m/n/10 ria Aires Da
  []
 
 
-Underfull \hbox (badness 5504) in paragraph at lines 1381--1381
+Underfull \hbox (badness 5504) in paragraph at lines 1461--1461
 []\TU/lmr/m/n/10 Silvana Alves
  []
 
 
-Underfull \hbox (badness 3019) in paragraph at lines 1381--1381
+Underfull \hbox (badness 3019) in paragraph at lines 1461--1461
 []\TU/lmr/m/n/10 Tania Fernan-
  []
 
 
-Underfull \hbox (badness 4634) in paragraph at lines 1381--1381
+Underfull \hbox (badness 4634) in paragraph at lines 1461--1461
 []\TU/lmr/m/n/10 Vanessa Regi-
  []
 
 
-Underfull \hbox (badness 10000) in paragraph at lines 1381--1381
+Underfull \hbox (badness 10000) in paragraph at lines 1461--1461
 \TU/lmr/m/n/10 ane Resqueti
  []
 
 
-Underfull \hbox (badness 10000) in paragraph at lines 1381--1381
+Underfull \hbox (badness 10000) in paragraph at lines 1461--1461
 []\TU/lmr/m/n/10 Wouber He-
  []
 
 
-Underfull \hbox (badness 10000) in paragraph at lines 1381--1381
+Underfull \hbox (badness 10000) in paragraph at lines 1461--1461
 \TU/lmr/m/n/10 rickson De
  []
 
 > Step: build the whole table.
 
-Underfull \hbox (badness 10000) in paragraph at lines 1381--1381
+Underfull \hbox (badness 10000) in paragraph at lines 1461--1461
 []\TU/lmr/bx/n/10 Nome do
  []
 
 
-Underfull \hbox (badness 3769) in paragraph at lines 1381--1381
+Underfull \hbox (badness 3769) in paragraph at lines 1461--1461
 \TU/lmr/bx/n/10 Membro do
  []
 
 
-Underfull \hbox (badness 1052) in paragraph at lines 1381--1381
+Underfull \hbox (badness 1052) in paragraph at lines 1461--1461
 \TU/lmr/bx/n/10 ção No Processo De
  []
 
 
-Underfull \hbox (badness 10000) in paragraph at lines 1381--1381
+Underfull \hbox (badness 10000) in paragraph at lines 1461--1461
 []\TU/lmr/m/n/10 Alvaro Cam-
  []
 
 
-Underfull \hbox (badness 10000) in paragraph at lines 1381--1381
+Underfull \hbox (badness 10000) in paragraph at lines 1461--1461
 []\TU/lmr/m/n/10 Ana Raquel
  []
 
 
-Underfull \hbox (badness 10000) in paragraph at lines 1381--1381
+Underfull \hbox (badness 10000) in paragraph at lines 1461--1461
 \TU/lmr/m/n/10 Rodrigues
  []
 
 
-Underfull \hbox (badness 10000) in paragraph at lines 1381--1381
+Underfull \hbox (badness 10000) in paragraph at lines 1461--1461
 []\TU/lmr/m/n/10 Catarina De
  []
 
 
-Underfull \hbox (badness 10000) in paragraph at lines 1381--1381
+Underfull \hbox (badness 10000) in paragraph at lines 1461--1461
 []\TU/lmr/m/n/10 Elizabel De
  []
 
 
-Underfull \hbox (badness 10000) in paragraph at lines 1381--1381
+Underfull \hbox (badness 10000) in paragraph at lines 1461--1461
 \TU/lmr/m/n/10 Souza Rama-
  []
 
 
-Underfull \hbox (badness 10000) in paragraph at lines 1381--1381
+Underfull \hbox (badness 10000) in paragraph at lines 1461--1461
 []\TU/lmr/m/n/10 Fabricia Aze-
  []
 
 
-Underfull \hbox (badness 10000) in paragraph at lines 1381--1381
+Underfull \hbox (badness 10000) in paragraph at lines 1461--1461
 []\TU/lmr/m/n/10 Jamilson
  []
 
 
-Underfull \hbox (badness 6461) in paragraph at lines 1381--1381
+Underfull \hbox (badness 6461) in paragraph at lines 1461--1461
 \TU/lmr/m/n/10 Simoes Brasi-
  []
 
 
-Underfull \hbox (badness 1348) in paragraph at lines 1381--1381
+Underfull \hbox (badness 1348) in paragraph at lines 1461--1461
 []\TU/lmr/m/n/10 Juliana Maria
  []
 
 
-Underfull \hbox (badness 10000) in paragraph at lines 1381--1381
+Underfull \hbox (badness 10000) in paragraph at lines 1461--1461
 []\TU/lmr/m/n/10 Karla Mor-
  []
 
 
-Underfull \hbox (badness 1655) in paragraph at lines 1381--1381
+Underfull \hbox (badness 1655) in paragraph at lines 1461--1461
 \TU/lmr/m/n/10 ganna Pereira
  []
 
 
-Underfull \hbox (badness 10000) in paragraph at lines 1381--1381
+Underfull \hbox (badness 10000) in paragraph at lines 1461--1461
 \TU/lmr/m/n/10 Pinto De
  []
 
 
 
-[38
+[39
 
 ]
-Underfull \hbox (badness 10000) in paragraph at lines 1381--1381
+Underfull \hbox (badness 10000) in paragraph at lines 1461--1461
 []\TU/lmr/m/n/10 Karyna My-
  []
 
 
-Underfull \hbox (badness 10000) in paragraph at lines 1381--1381
+Underfull \hbox (badness 10000) in paragraph at lines 1461--1461
 \TU/lmr/m/n/10 relly Oliveira
  []
 
 
-Underfull \hbox (badness 10000) in paragraph at lines 1381--1381
+Underfull \hbox (badness 10000) in paragraph at lines 1461--1461
 \TU/lmr/m/n/10 Bezerra De
  []
 
 
-Underfull \hbox (badness 10000) in paragraph at lines 1381--1381
+Underfull \hbox (badness 10000) in paragraph at lines 1461--1461
 \TU/lmr/m/n/10 Figueiredo
  []
 
 
-Underfull \hbox (badness 10000) in paragraph at lines 1381--1381
+Underfull \hbox (badness 10000) in paragraph at lines 1461--1461
 \TU/lmr/m/n/10 Albuquer-
  []
 
 
-Underfull \hbox (badness 10000) in paragraph at lines 1381--1381
+Underfull \hbox (badness 10000) in paragraph at lines 1461--1461
 \TU/lmr/m/n/10 que Barbosa
  []
 
 
-Underfull \hbox (badness 10000) in paragraph at lines 1381--1381
+Underfull \hbox (badness 10000) in paragraph at lines 1461--1461
 []\TU/lmr/m/n/10 Patricia An-
  []
 
 
-Underfull \hbox (badness 10000) in paragraph at lines 1381--1381
+Underfull \hbox (badness 10000) in paragraph at lines 1461--1461
 \TU/lmr/m/n/10 gelica De
  []
 
 
-Underfull \hbox (badness 10000) in paragraph at lines 1381--1381
+Underfull \hbox (badness 10000) in paragraph at lines 1461--1461
 []\TU/lmr/m/n/10 Ricardo Oli-
  []
 
 
-Underfull \hbox (badness 10000) in paragraph at lines 1381--1381
+Underfull \hbox (badness 10000) in paragraph at lines 1461--1461
 []\TU/lmr/m/n/10 Rodrigo Pe-
  []
 
 
-Underfull \hbox (badness 4543) in paragraph at lines 1381--1381
+Underfull \hbox (badness 4543) in paragraph at lines 1461--1461
 []\TU/lmr/m/n/10 Rodrigo Scat-
  []
 
 
-Underfull \hbox (badness 10000) in paragraph at lines 1381--1381
+Underfull \hbox (badness 10000) in paragraph at lines 1461--1461
 []\TU/lmr/m/n/10 Saionara Ma-
  []
 
 
-Underfull \hbox (badness 3746) in paragraph at lines 1381--1381
+Underfull \hbox (badness 3746) in paragraph at lines 1461--1461
 \TU/lmr/m/n/10 ria Aires Da
  []
 
 
-Underfull \hbox (badness 5504) in paragraph at lines 1381--1381
+Underfull \hbox (badness 5504) in paragraph at lines 1461--1461
 []\TU/lmr/m/n/10 Silvana Alves
  []
 
 
-Underfull \hbox (badness 3019) in paragraph at lines 1381--1381
+Underfull \hbox (badness 3019) in paragraph at lines 1461--1461
 []\TU/lmr/m/n/10 Tania Fernan-
  []
 
 
 
-[39]
-Underfull \hbox (badness 4634) in paragraph at lines 1381--1381
+[40]
+Underfull \hbox (badness 4634) in paragraph at lines 1461--1461
 []\TU/lmr/m/n/10 Vanessa Regi-
  []
 
 
-Underfull \hbox (badness 10000) in paragraph at lines 1381--1381
+Underfull \hbox (badness 10000) in paragraph at lines 1461--1461
 \TU/lmr/m/n/10 ane Resqueti
  []
 
 
-Underfull \hbox (badness 10000) in paragraph at lines 1381--1381
+Underfull \hbox (badness 10000) in paragraph at lines 1461--1461
 []\TU/lmr/m/n/10 Wouber He-
  []
 
 
-Underfull \hbox (badness 10000) in paragraph at lines 1381--1381
+Underfull \hbox (badness 10000) in paragraph at lines 1461--1461
 \TU/lmr/m/n/10 rickson De
  []
 
 
 
-[40]
+[41]
 
-[41
+[42
 
 ]
-
-[42]
 
 [43]
 
 [44]
-Overfull \hbox (15.0944pt too wide) in paragraph at lines 1424--1467
- [][] 
- []
-
-
 
 [45]
-Overfull \hbox (3.09444pt too wide) in paragraph at lines 1483--1516
+Overfull \hbox (15.0944pt too wide) in paragraph at lines 1504--1547
  [][] 
  []
 
 
 
 [46]
+Overfull \hbox (3.09444pt too wide) in paragraph at lines 1563--1596
+ [][] 
+ []
+
+
 
 [47]
 
 [48]
 
-[49] (./autoavaliacao.aux)
+[49]
+
+[50] (./autoavaliacao.aux)
  ***********
 LaTeX2e <2024-06-01> patch level 2
 L3 programming layer <2024-10-09>
@@ -2468,12 +2524,12 @@ LaTeX Warning: There were multiply-defined labels.
 
  ) 
 Here is how much of TeX's memory you used:
- 44371 strings out of 474233
- 930176 string characters out of 5742214
- 1724001 words of memory out of 5000000
- 66433 multiletter control sequences out of 15000+600000
- 585602 words of font info for 98 fonts, out of 8000000 for 9000
+ 44390 strings out of 474233
+ 930843 string characters out of 5742214
+ 1717003 words of memory out of 5000000
+ 66452 multiletter control sequences out of 15000+600000
+ 588746 words of font info for 107 fonts, out of 8000000 for 9000
  1348 hyphenation exceptions out of 8191
  99i,19n,123p,1202b,1303s stack positions out of 10000i,1000n,20000p,200000b,200000s
 
-Output written on autoavaliacao.pdf (52 pages).
+Output written on autoavaliacao.pdf (53 pages).
