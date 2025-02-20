@@ -843,3 +843,36 @@ sessioninfo::session_info() %>%
   details::details(summary = 'Current session info',
                    open = FALSE)
 ```
+
+## **Relatórios de autoavaliação**
+
+```{r autoavaliacao, eval = TRUE}
+# Define periods
+periodos <- c("2013-2016", "2017-2020", "2021-2024")
+
+# Spam periods by vector element in a new list
+spam.periodos <- list()
+for (periodo in periodos) {
+  spam.periodos[[periodo]] <- seq(as.numeric(strsplit(periodo, "-")[[1]][1]), as.numeric(strsplit(periodo, "-")[[1]][2]))
+}
+
+# Get years
+source("Scripts/years-sucupira.R", local = knitr::knit_global())
+anos <- as.character(anos)
+
+# Get spam.periodos elements that have anos in range
+periodos <- names(spam.periodos)[sapply(spam.periodos, function(x) any(x %in% anos))]
+
+# Rmd files
+for (periodo in periodos) {
+  # Knit Rmd file
+  rmarkdown::render(
+    input = "autoavaliacao.Rmd",
+    output_format = "all",
+    output_file = paste0("autoavaliacao-", periodo),
+    params = list(
+      quadrienal.vigente = paste0(as.numeric(strsplit(periodo, "-")[[1]][1]):as.numeric(strsplit(periodo, "-")[[1]][2]), collapse = ";")
+    )
+  )
+}
+```
