@@ -1,11 +1,11 @@
-This is XeTeX, Version 3.141592653-2.6-0.999997 (TeX Live 2025) (preloaded format=xelatex 2025.6.11)  23 JUN 2025 10:46
+This is XeTeX, Version 3.141592653-2.6-0.999997 (TeX Live 2025) (preloaded format=xelatex 2025.6.29)  8 JUL 2025 11:36
 entering extended mode
  restricted \write18 enabled.
  %&-line parsing enabled.
 **autoavaliacao-2021-2024.tex
 (./autoavaliacao-2021-2024.tex
 LaTeX2e <2025-06-01> patch level 1
-L3 programming layer <2025-05-26>
+L3 programming layer <2025-06-09>
 (/usr/local/texlive/2025/texmf-dist/tex/latex/base/book.cls
 Document Class: book 2025/01/22 v1.4n Standard LaTeX document class
 (/usr/local/texlive/2025/texmf-dist/tex/latex/base/bk10.clo
@@ -99,9 +99,9 @@ LaTeX Font Info:    Overwriting math alphabet `\mathfrak' in version `bold'
 Package: iftex 2024/12/12 v1.0g TeX engine tests
 ) (/usr/local/texlive/2025/texmf-dist/tex/latex/unicode-math/unicode-math.sty (
 /usr/local/texlive/2025/texmf-dist/tex/latex/l3kernel/expl3.sty
-Package: expl3 2025-05-26 L3 programming layer (loader) 
+Package: expl3 2025-06-09 L3 programming layer (loader) 
 (/usr/local/texlive/2025/texmf-dist/tex/latex/l3backend/l3backend-xetex.def
-File: l3backend-xetex.def 2025-04-14 L3 backend support: XeTeX
+File: l3backend-xetex.def 2025-06-09 L3 backend support: XeTeX
 \g__graphics_track_int=\count292
 \g__pdfannot_backend_int=\count293
 \g__pdfannot_backend_link_int=\count294
@@ -739,11 +739,11 @@ Package: colortbl 2024/10/29 v1.0k Color table columns (DPC)
 \minrowclearance=\skip68
 \rownum=\count342
 ) (/usr/local/texlive/2025/texmf-dist/tex/latex/pdflscape/pdflscape.sty
-Package: pdflscape 2022-10-27 v0.13 Display of landscape pages in PDF
+Package: pdflscape 2025-06-23 v0.14 Display of landscape pages in PDF
 
 (/usr/local/texlive/2025/texmf-dist/tex/latex/pdflscape/pdflscape-nometadata.st
 y
-Package: pdflscape-nometadata 2022-10-28 v0.13 Display of landscape pages in PD
+Package: pdflscape-nometadata 2025-06-23 v0.14 Display of landscape pages in PD
 F (HO)
 (/usr/local/texlive/2025/texmf-dist/tex/latex/graphics/lscape.sty
 Package: lscape 2020/05/28 v3.02 Landscape Pages (DPC)
@@ -1462,7 +1462,7 @@ Package uniquecounter Info: New unique counter `rerunfilecheck' on input line 2
 )
 \Hy@SectionHShift=\skip110
 ) (/usr/local/texlive/2025/texmf-dist/tex/latex/siunitx/siunitx.sty
-Package: siunitx 2025-05-22 v3.4.12 A comprehensive (SI) units package
+Package: siunitx 2025-07-05 v3.4.13 A comprehensive (SI) units package
 \l__siunitx_number_uncert_offset_int=\count437
 \l__siunitx_number_exponent_fixed_int=\count438
 \l__siunitx_number_min_decimal_int=\count439
@@ -1950,78 +1950,78 @@ File: mt-msb.cfg 2005/06/01 v1.0 microtype config. file: AMS symbols (b) (RS)
 ]
 
 [2]
-Overfull \hbox (3.09442pt too wide) in paragraph at lines 277--289
+Overfull \hbox (3.09442pt too wide) in paragraph at lines 278--290
  [][] 
  []
 
 
 
 [3]
-Overfull \hbox (3.09442pt too wide) in paragraph at lines 298--316
+Overfull \hbox (3.09442pt too wide) in paragraph at lines 299--317
  [][] 
  []
 
 
 
 [4]
-Overfull \hbox (3.09442pt too wide) in paragraph at lines 325--350
+Overfull \hbox (3.09442pt too wide) in paragraph at lines 326--351
  [][] 
  []
 
 
 
 [5]
-Underfull \hbox (badness 1147) in paragraph at lines 394--394
+Underfull \hbox (badness 1147) in paragraph at lines 396--396
 []\TU/lmr/m/n/10 Aprendizagem Motora e Associações
  []
 
 
-Underfull \hbox (badness 5787) in paragraph at lines 394--394
+Underfull \hbox (badness 5787) in paragraph at lines 396--396
 \TU/lmr/m/n/10 enças Crônicas Não Transmissíveis
  []
 
 
-Underfull \hbox (badness 1077) in paragraph at lines 394--394
+Underfull \hbox (badness 1077) in paragraph at lines 396--396
 []\TU/lmr/m/n/10 Avaliação, Intervenção e Tecnologias
  []
 
 
-Underfull \hbox (badness 1515) in paragraph at lines 394--394
+Underfull \hbox (badness 1515) in paragraph at lines 396--396
 []\TU/lmr/m/n/10 Desenvolvimento, Tradução, Adapta-
  []
 
 
-Underfull \hbox (badness 1048) in paragraph at lines 394--394
+Underfull \hbox (badness 1048) in paragraph at lines 396--396
 []\TU/lmr/m/n/10 Estudos De Avaliação e Intervenção
  []
 
 
-Underfull \hbox (badness 1389) in paragraph at lines 394--394
+Underfull \hbox (badness 1389) in paragraph at lines 396--396
 \TU/lmr/m/n/10 Curta Da Escala De Confiança No
  []
 
 
-Underfull \hbox (badness 1147) in paragraph at lines 394--394
+Underfull \hbox (badness 1147) in paragraph at lines 396--396
 []\TU/lmr/m/n/10 Aprendizagem Motora e Associações
  []
 
 
-Underfull \hbox (badness 5787) in paragraph at lines 394--394
+Underfull \hbox (badness 5787) in paragraph at lines 396--396
 \TU/lmr/m/n/10 enças Crônicas Não Transmissíveis
  []
 
 
-Underfull \hbox (badness 1077) in paragraph at lines 394--394
+Underfull \hbox (badness 1077) in paragraph at lines 396--396
 []\TU/lmr/m/n/10 Avaliação, Intervenção e Tecnologias
  []
 
 
-Underfull \hbox (badness 1515) in paragraph at lines 394--394
+Underfull \hbox (badness 1515) in paragraph at lines 396--396
 []\TU/lmr/m/n/10 Desenvolvimento, Tradução, Adapta-
  []
 
 
-Underfull \hbox (badness 1048) in paragraph at lines 394--394
+Underfull \hbox (badness 1048) in paragraph at lines 396--396
 []\TU/lmr/m/n/10 Estudos De Avaliação e Intervenção
  []
 
@@ -2030,7 +2030,7 @@ Underfull \hbox (badness 1048) in paragraph at lines 394--394
 [6
 
 ]
-Underfull \hbox (badness 1389) in paragraph at lines 394--394
+Underfull \hbox (badness 1389) in paragraph at lines 396--396
 \TU/lmr/m/n/10 Curta Da Escala De Confiança No
  []
 
@@ -2038,343 +2038,339 @@ Underfull \hbox (badness 1389) in paragraph at lines 394--394
 
 [7]
 
-[8
-
-]
-Underfull \hbox (badness 1231) in paragraph at lines 490--490
-[]\TU/lmr/bx/n/10 ABORDAGEM FISIOTERAPÊUTICA EM NEU-
- []
-
-
-Underfull \hbox (badness 1383) in paragraph at lines 490--490
-\TU/lmr/bx/n/10 PROMOTE HAND FUNCTION IN CHILDREN
- []
-
-
-Underfull \hbox (badness 7576) in paragraph at lines 490--490
-[]\TU/lmr/bx/n/10 ELETROMIOGRAFIA APLICADA AO MOVI-
- []
-
-
-Underfull \hbox (badness 2626) in paragraph at lines 490--490
-[]\TU/lmr/bx/n/10 MÉTODOS E TÉCNICAS EM FISIOTERAPIA
- []
-
-
-Underfull \hbox (badness 2020) in paragraph at lines 490--490
-\TU/lmr/bx/n/10 VENÇÕES NAS DISFUNÇÕES URO GINECO-
- []
-
-
-Underfull \hbox (badness 2626) in paragraph at lines 490--490
-[]\TU/lmr/bx/n/10 MÉTODOS E TÉCNICAS EM FISIOTERAPIA
- []
-
-
-Underfull \hbox (badness 1067) in paragraph at lines 490--490
-[]\TU/lmr/bx/n/10 REABILITAÇÃO NAS DOENÇAS CARDIOVAS-
- []
-
-
-Underfull \hbox (badness 10000) in paragraph at lines 490--490
-[]\TU/lmr/bx/n/10 SCIEN. RESEAR.PRIORITIES UPDATE IN
- []
-
-
-Underfull \hbox (badness 4181) in paragraph at lines 490--490
-\TU/lmr/bx/n/10 PHYSICAL THERAPY ASSESSMENT MANA-
- []
-
-
-Underfull \hbox (badness 10000) in paragraph at lines 490--490
-\TU/lmr/bx/n/10 GEMENT/PRIORI. INVESTIGACIÓN CIENT
- []
-
-
-Underfull \hbox (badness 10000) in paragraph at lines 490--490
-[]\TU/lmr/bx/n/10 SCIEN. RESEAR.PRIORITIES UPDATE IN
- []
-
-
-Underfull \hbox (badness 4181) in paragraph at lines 490--490
-\TU/lmr/bx/n/10 PHYSICAL THERAPY ASSESSMENT MANA-
- []
-
-
-Underfull \hbox (badness 10000) in paragraph at lines 490--490
-\TU/lmr/bx/n/10 GEMENT/PRIORI. INVESTIGACIÓN CIENT
- []
-
-
-Underfull \hbox (badness 1231) in paragraph at lines 490--490
-[]\TU/lmr/bx/n/10 ABORDAGEM FISIOTERAPÊUTICA EM NEU-
- []
-
-
-Underfull \hbox (badness 1383) in paragraph at lines 490--490
-\TU/lmr/bx/n/10 PROMOTE HAND FUNCTION IN CHILDREN
- []
-
-
-Underfull \hbox (badness 7576) in paragraph at lines 490--490
-[]\TU/lmr/bx/n/10 ELETROMIOGRAFIA APLICADA AO MOVI-
- []
-
-
+[8]
 
 [9
 
 ]
-Underfull \hbox (badness 2626) in paragraph at lines 490--490
+Underfull \hbox (badness 1231) in paragraph at lines 493--493
+[]\TU/lmr/bx/n/10 ABORDAGEM FISIOTERAPÊUTICA EM NEU-
+ []
+
+
+Underfull \hbox (badness 1383) in paragraph at lines 493--493
+\TU/lmr/bx/n/10 PROMOTE HAND FUNCTION IN CHILDREN
+ []
+
+
+Underfull \hbox (badness 7576) in paragraph at lines 493--493
+[]\TU/lmr/bx/n/10 ELETROMIOGRAFIA APLICADA AO MOVI-
+ []
+
+
+Underfull \hbox (badness 2626) in paragraph at lines 493--493
 []\TU/lmr/bx/n/10 MÉTODOS E TÉCNICAS EM FISIOTERAPIA
  []
 
 
-
-[10]
-Underfull \hbox (badness 2020) in paragraph at lines 490--490
+Underfull \hbox (badness 2020) in paragraph at lines 493--493
 \TU/lmr/bx/n/10 VENÇÕES NAS DISFUNÇÕES URO GINECO-
  []
 
 
-Underfull \hbox (badness 2626) in paragraph at lines 490--490
+Underfull \hbox (badness 2626) in paragraph at lines 493--493
 []\TU/lmr/bx/n/10 MÉTODOS E TÉCNICAS EM FISIOTERAPIA
  []
 
 
-Underfull \hbox (badness 1067) in paragraph at lines 490--490
+Underfull \hbox (badness 1067) in paragraph at lines 493--493
 []\TU/lmr/bx/n/10 REABILITAÇÃO NAS DOENÇAS CARDIOVAS-
  []
 
 
-Underfull \hbox (badness 10000) in paragraph at lines 490--490
+Underfull \hbox (badness 10000) in paragraph at lines 493--493
 []\TU/lmr/bx/n/10 SCIEN. RESEAR.PRIORITIES UPDATE IN
  []
 
 
-Underfull \hbox (badness 4181) in paragraph at lines 490--490
+Underfull \hbox (badness 4181) in paragraph at lines 493--493
 \TU/lmr/bx/n/10 PHYSICAL THERAPY ASSESSMENT MANA-
  []
 
 
-Underfull \hbox (badness 10000) in paragraph at lines 490--490
+Underfull \hbox (badness 10000) in paragraph at lines 493--493
 \TU/lmr/bx/n/10 GEMENT/PRIORI. INVESTIGACIÓN CIENT
  []
 
 
-Underfull \hbox (badness 10000) in paragraph at lines 490--490
+Underfull \hbox (badness 10000) in paragraph at lines 493--493
 []\TU/lmr/bx/n/10 SCIEN. RESEAR.PRIORITIES UPDATE IN
  []
 
 
-Underfull \hbox (badness 4181) in paragraph at lines 490--490
+Underfull \hbox (badness 4181) in paragraph at lines 493--493
 \TU/lmr/bx/n/10 PHYSICAL THERAPY ASSESSMENT MANA-
  []
 
 
-Underfull \hbox (badness 10000) in paragraph at lines 490--490
+Underfull \hbox (badness 10000) in paragraph at lines 493--493
 \TU/lmr/bx/n/10 GEMENT/PRIORI. INVESTIGACIÓN CIENT
+ []
+
+
+Underfull \hbox (badness 1231) in paragraph at lines 493--493
+[]\TU/lmr/bx/n/10 ABORDAGEM FISIOTERAPÊUTICA EM NEU-
+ []
+
+
+Underfull \hbox (badness 1383) in paragraph at lines 493--493
+\TU/lmr/bx/n/10 PROMOTE HAND FUNCTION IN CHILDREN
+ []
+
+
+Underfull \hbox (badness 7576) in paragraph at lines 493--493
+[]\TU/lmr/bx/n/10 ELETROMIOGRAFIA APLICADA AO MOVI-
+ []
+
+
+
+[10
+
+]
+Underfull \hbox (badness 2626) in paragraph at lines 493--493
+[]\TU/lmr/bx/n/10 MÉTODOS E TÉCNICAS EM FISIOTERAPIA
  []
 
 
 
 [11]
-Underfull \hbox (badness 1231) in paragraph at lines 549--549
-[]\TU/lmr/bx/n/10 ABORDAGEM FISIOTERAPÊUTICA EM NEU-
- []
-
-
-Underfull \hbox (badness 1383) in paragraph at lines 549--549
-\TU/lmr/bx/n/10 PROMOTE HAND FUNCTION IN CHILDREN
- []
-
-
-Underfull \hbox (badness 7576) in paragraph at lines 549--549
-[]\TU/lmr/bx/n/10 ELETROMIOGRAFIA APLICADA AO MOVI-
- []
-
-
-Underfull \hbox (badness 2626) in paragraph at lines 549--549
-[]\TU/lmr/bx/n/10 MÉTODOS E TÉCNICAS EM FISIOTERAPIA
- []
-
-
-Underfull \hbox (badness 2020) in paragraph at lines 549--549
+Underfull \hbox (badness 2020) in paragraph at lines 493--493
 \TU/lmr/bx/n/10 VENÇÕES NAS DISFUNÇÕES URO GINECO-
  []
 
 
-Underfull \hbox (badness 2626) in paragraph at lines 549--549
+Underfull \hbox (badness 2626) in paragraph at lines 493--493
 []\TU/lmr/bx/n/10 MÉTODOS E TÉCNICAS EM FISIOTERAPIA
  []
 
 
-Underfull \hbox (badness 1067) in paragraph at lines 549--549
+Underfull \hbox (badness 1067) in paragraph at lines 493--493
 []\TU/lmr/bx/n/10 REABILITAÇÃO NAS DOENÇAS CARDIOVAS-
  []
 
 
-Underfull \hbox (badness 10000) in paragraph at lines 549--549
+Underfull \hbox (badness 10000) in paragraph at lines 493--493
 []\TU/lmr/bx/n/10 SCIEN. RESEAR.PRIORITIES UPDATE IN
  []
 
 
-Underfull \hbox (badness 4181) in paragraph at lines 549--549
+Underfull \hbox (badness 4181) in paragraph at lines 493--493
 \TU/lmr/bx/n/10 PHYSICAL THERAPY ASSESSMENT MANA-
  []
 
 
-Underfull \hbox (badness 10000) in paragraph at lines 549--549
+Underfull \hbox (badness 10000) in paragraph at lines 493--493
 \TU/lmr/bx/n/10 GEMENT/PRIORI. INVESTIGACIÓN CIENT
  []
 
 
-Underfull \hbox (badness 10000) in paragraph at lines 549--549
+Underfull \hbox (badness 10000) in paragraph at lines 493--493
 []\TU/lmr/bx/n/10 SCIEN. RESEAR.PRIORITIES UPDATE IN
  []
 
 
-Underfull \hbox (badness 4181) in paragraph at lines 549--549
+Underfull \hbox (badness 4181) in paragraph at lines 493--493
 \TU/lmr/bx/n/10 PHYSICAL THERAPY ASSESSMENT MANA-
  []
 
 
-Underfull \hbox (badness 10000) in paragraph at lines 549--549
+Underfull \hbox (badness 10000) in paragraph at lines 493--493
 \TU/lmr/bx/n/10 GEMENT/PRIORI. INVESTIGACIÓN CIENT
- []
-
-
-Underfull \hbox (badness 1231) in paragraph at lines 549--549
-[]\TU/lmr/bx/n/10 ABORDAGEM FISIOTERAPÊUTICA EM NEU-
- []
-
-
-Underfull \hbox (badness 1383) in paragraph at lines 549--549
-\TU/lmr/bx/n/10 PROMOTE HAND FUNCTION IN CHILDREN
- []
-
-
-Underfull \hbox (badness 7576) in paragraph at lines 549--549
-[]\TU/lmr/bx/n/10 ELETROMIOGRAFIA APLICADA AO MOVI-
  []
 
 
 
 [12]
-Underfull \hbox (badness 2626) in paragraph at lines 549--549
+
+[13]
+Underfull \hbox (badness 1231) in paragraph at lines 553--553
+[]\TU/lmr/bx/n/10 ABORDAGEM FISIOTERAPÊUTICA EM NEU-
+ []
+
+
+Underfull \hbox (badness 1383) in paragraph at lines 553--553
+\TU/lmr/bx/n/10 PROMOTE HAND FUNCTION IN CHILDREN
+ []
+
+
+Underfull \hbox (badness 7576) in paragraph at lines 553--553
+[]\TU/lmr/bx/n/10 ELETROMIOGRAFIA APLICADA AO MOVI-
+ []
+
+
+Underfull \hbox (badness 2626) in paragraph at lines 553--553
 []\TU/lmr/bx/n/10 MÉTODOS E TÉCNICAS EM FISIOTERAPIA
  []
 
 
-
-[13]
-Underfull \hbox (badness 2020) in paragraph at lines 549--549
+Underfull \hbox (badness 2020) in paragraph at lines 553--553
 \TU/lmr/bx/n/10 VENÇÕES NAS DISFUNÇÕES URO GINECO-
  []
 
 
-Underfull \hbox (badness 2626) in paragraph at lines 549--549
+Underfull \hbox (badness 2626) in paragraph at lines 553--553
 []\TU/lmr/bx/n/10 MÉTODOS E TÉCNICAS EM FISIOTERAPIA
  []
 
 
-Underfull \hbox (badness 1067) in paragraph at lines 549--549
+Underfull \hbox (badness 1067) in paragraph at lines 553--553
 []\TU/lmr/bx/n/10 REABILITAÇÃO NAS DOENÇAS CARDIOVAS-
  []
 
 
-Underfull \hbox (badness 10000) in paragraph at lines 549--549
+Underfull \hbox (badness 10000) in paragraph at lines 553--553
 []\TU/lmr/bx/n/10 SCIEN. RESEAR.PRIORITIES UPDATE IN
  []
 
 
-Underfull \hbox (badness 4181) in paragraph at lines 549--549
+Underfull \hbox (badness 4181) in paragraph at lines 553--553
 \TU/lmr/bx/n/10 PHYSICAL THERAPY ASSESSMENT MANA-
  []
 
 
-Underfull \hbox (badness 10000) in paragraph at lines 549--549
+Underfull \hbox (badness 10000) in paragraph at lines 553--553
 \TU/lmr/bx/n/10 GEMENT/PRIORI. INVESTIGACIÓN CIENT
  []
 
 
-Underfull \hbox (badness 10000) in paragraph at lines 549--549
+Underfull \hbox (badness 10000) in paragraph at lines 553--553
 []\TU/lmr/bx/n/10 SCIEN. RESEAR.PRIORITIES UPDATE IN
  []
 
 
-Underfull \hbox (badness 4181) in paragraph at lines 549--549
+Underfull \hbox (badness 4181) in paragraph at lines 553--553
 \TU/lmr/bx/n/10 PHYSICAL THERAPY ASSESSMENT MANA-
  []
 
 
-Underfull \hbox (badness 10000) in paragraph at lines 549--549
+Underfull \hbox (badness 10000) in paragraph at lines 553--553
 \TU/lmr/bx/n/10 GEMENT/PRIORI. INVESTIGACIÓN CIENT
+ []
+
+
+Underfull \hbox (badness 1231) in paragraph at lines 553--553
+[]\TU/lmr/bx/n/10 ABORDAGEM FISIOTERAPÊUTICA EM NEU-
+ []
+
+
+Underfull \hbox (badness 1383) in paragraph at lines 553--553
+\TU/lmr/bx/n/10 PROMOTE HAND FUNCTION IN CHILDREN
+ []
+
+
+Underfull \hbox (badness 7576) in paragraph at lines 553--553
+[]\TU/lmr/bx/n/10 ELETROMIOGRAFIA APLICADA AO MOVI-
  []
 
 
 
 [14]
-Overfull \hbox (3.09442pt too wide) in paragraph at lines 565--583
- [][] 
+Underfull \hbox (badness 2626) in paragraph at lines 553--553
+[]\TU/lmr/bx/n/10 MÉTODOS E TÉCNICAS EM FISIOTERAPIA
  []
 
 
 
-[15
+[15]
+Underfull \hbox (badness 2020) in paragraph at lines 553--553
+\TU/lmr/bx/n/10 VENÇÕES NAS DISFUNÇÕES URO GINECO-
+ []
 
-]
-Overfull \hbox (3.09442pt too wide) in paragraph at lines 596--620
- [][] 
+
+Underfull \hbox (badness 2626) in paragraph at lines 553--553
+[]\TU/lmr/bx/n/10 MÉTODOS E TÉCNICAS EM FISIOTERAPIA
+ []
+
+
+Underfull \hbox (badness 1067) in paragraph at lines 553--553
+[]\TU/lmr/bx/n/10 REABILITAÇÃO NAS DOENÇAS CARDIOVAS-
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 553--553
+[]\TU/lmr/bx/n/10 SCIEN. RESEAR.PRIORITIES UPDATE IN
+ []
+
+
+Underfull \hbox (badness 4181) in paragraph at lines 553--553
+\TU/lmr/bx/n/10 PHYSICAL THERAPY ASSESSMENT MANA-
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 553--553
+\TU/lmr/bx/n/10 GEMENT/PRIORI. INVESTIGACIÓN CIENT
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 553--553
+[]\TU/lmr/bx/n/10 SCIEN. RESEAR.PRIORITIES UPDATE IN
+ []
+
+
+Underfull \hbox (badness 4181) in paragraph at lines 553--553
+\TU/lmr/bx/n/10 PHYSICAL THERAPY ASSESSMENT MANA-
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 553--553
+\TU/lmr/bx/n/10 GEMENT/PRIORI. INVESTIGACIÓN CIENT
  []
 
 
 
 [16]
-Overfull \hbox (3.09442pt too wide) in paragraph at lines 629--645
- [][] 
- []
-
-
 
 [17]
-Overfull \hbox (3.09442pt too wide) in paragraph at lines 657--694
+Overfull \hbox (3.09442pt too wide) in paragraph at lines 569--587
  [][] 
  []
 
 
 
-[18]
-Overfull \hbox (7.17795pt too wide) in paragraph at lines 709--742
+[18
+
+]
+Overfull \hbox (3.09442pt too wide) in paragraph at lines 600--624
  [][] 
  []
 
 
 
-[19
+[19]
+Overfull \hbox (3.09442pt too wide) in paragraph at lines 633--649
+ [][] 
+ []
 
-]
 
-[20
 
-]
+[20]
+Overfull \hbox (3.09442pt too wide) in paragraph at lines 661--698
+ [][] 
+ []
+
+
 
 [21]
+Overfull \hbox (7.17795pt too wide) in paragraph at lines 713--746
+ [][] 
+ []
 
-[22]
+
+
+[22
+
+]
 
 [23
-
 
 ]
 
 [24]
 
-[25
-
-]
+[25]
 
 [26
+
 
 ]
 
@@ -2383,149 +2379,104 @@ Overfull \hbox (7.17795pt too wide) in paragraph at lines 709--742
 [28
 
 ]
-Overfull \hbox (12.4192pt too wide) in paragraph at lines 1009--1009
-[]\TU/lmr/bx/n/10 PositiveLRC 
- []
 
+[29
 
-Underfull \hbox (badness 3977) in paragraph at lines 1009--1009
-\TU/lmr/bx/n/10 Sistemas Cardiovascular E
- []
-
-
-Overfull \hbox (12.4192pt too wide) in paragraph at lines 1009--1009
-[]\TU/lmr/bx/n/10 PositiveLRC 
- []
-
-
-Underfull \hbox (badness 3977) in paragraph at lines 1009--1009
-\TU/lmr/bx/n/10 Sistemas Cardiovascular E
- []
-
-
-
-[29]
-Overfull \hbox (12.4192pt too wide) in paragraph at lines 1030--1030
-[]\TU/lmr/bx/n/10 PositiveLRC 
- []
-
-
-Overfull \hbox (12.4192pt too wide) in paragraph at lines 1030--1030
-[]\TU/lmr/bx/n/10 PositiveLRC 
- []
-
-
+]
 
 [30]
-Overfull \hbox (12.4192pt too wide) in paragraph at lines 1049--1049
+
+[31
+
+]
+Overfull \hbox (12.4192pt too wide) in paragraph at lines 1014--1014
 []\TU/lmr/bx/n/10 PositiveLRC 
  []
 
 
-Overfull \hbox (12.4192pt too wide) in paragraph at lines 1049--1049
+Underfull \hbox (badness 3977) in paragraph at lines 1014--1014
+\TU/lmr/bx/n/10 Sistemas Cardiovascular E
+ []
+
+
+Overfull \hbox (12.4192pt too wide) in paragraph at lines 1014--1014
 []\TU/lmr/bx/n/10 PositiveLRC 
  []
 
 
-
-[31]
-Overfull \hbox (12.4192pt too wide) in paragraph at lines 1071--1071
-[]\TU/lmr/bx/n/10 PositiveLRC 
- []
-
-
-Overfull \hbox (12.4192pt too wide) in paragraph at lines 1071--1071
-[]\TU/lmr/bx/n/10 PositiveLRC 
+Underfull \hbox (badness 3977) in paragraph at lines 1014--1014
+\TU/lmr/bx/n/10 Sistemas Cardiovascular E
  []
 
 
 
 [32]
+Overfull \hbox (12.4192pt too wide) in paragraph at lines 1036--1036
+[]\TU/lmr/bx/n/10 PositiveLRC 
+ []
 
-[33
 
-]
-
-[34]
-
-[35]
-Overfull \hbox (3.09442pt too wide) in paragraph at lines 1228--1245
- [][] 
+Overfull \hbox (12.4192pt too wide) in paragraph at lines 1036--1036
+[]\TU/lmr/bx/n/10 PositiveLRC 
  []
 
 
 
-[36]
+[33]
+Overfull \hbox (12.4192pt too wide) in paragraph at lines 1056--1056
+[]\TU/lmr/bx/n/10 PositiveLRC 
+ []
+
+
+Overfull \hbox (12.4192pt too wide) in paragraph at lines 1056--1056
+[]\TU/lmr/bx/n/10 PositiveLRC 
+ []
+
+
+
+[34]
+Overfull \hbox (12.4192pt too wide) in paragraph at lines 1079--1079
+[]\TU/lmr/bx/n/10 PositiveLRC 
+ []
+
+
+Overfull \hbox (12.4192pt too wide) in paragraph at lines 1079--1079
+[]\TU/lmr/bx/n/10 PositiveLRC 
+ []
+
+
+
+[35]
+
+[36
+
+]
 
 [37]
 
 [38]
-
-[39]
-
-[40
-
-]
-
-[41]
-
-[42]
-Overfull \hbox (3.09442pt too wide) in paragraph at lines 1462--1493
+Overfull \hbox (3.09442pt too wide) in paragraph at lines 1236--1253
  [][] 
  []
 
 
 
+[39]
+
+[40]
+
+[41]
+
+[42]
+
 [43
 
 ]
-Underfull \hbox (badness 7722) in paragraph at lines 1533--1533
-[]\TU/lmr/bx/n/10 Avaliação E Inter-
- []
 
-
-Underfull \hbox (badness 10000) in paragraph at lines 1533--1533
-\TU/lmr/bx/n/10 Cardiovascular E
- []
-
-
-Underfull \hbox (badness 10000) in paragraph at lines 1533--1533
-[]\TU/lmr/bx/n/10 Maria Thereza Albuquerque
- []
-
-
-Underfull \hbox (badness 1389) in paragraph at lines 1533--1533
-[]\TU/lmr/bx/n/10 Patricia Angelica De Miranda
- []
-
-
-Underfull \hbox (badness 7722) in paragraph at lines 1533--1533
-[]\TU/lmr/bx/n/10 Avaliação E Inter-
- []
-
-
-Underfull \hbox (badness 10000) in paragraph at lines 1533--1533
-\TU/lmr/bx/n/10 Cardiovascular E
- []
-
-
-Underfull \hbox (badness 10000) in paragraph at lines 1533--1533
-[]\TU/lmr/bx/n/10 Maria Thereza Albuquerque
- []
-
-
-Underfull \hbox (badness 1389) in paragraph at lines 1533--1533
-[]\TU/lmr/bx/n/10 Patricia Angelica De Miranda
- []
-
-
-
-[44
-
-]
+[44]
 
 [45]
-Overfull \hbox (7.1784pt too wide) in paragraph at lines 1546--1580
+Overfull \hbox (3.09442pt too wide) in paragraph at lines 1471--1502
  [][] 
  []
 
@@ -2533,23 +2484,64 @@ Overfull \hbox (7.1784pt too wide) in paragraph at lines 1546--1580
 
 [46
 
+]
+Underfull \hbox (badness 7722) in paragraph at lines 1543--1543
+[]\TU/lmr/bx/n/10 Avaliação E Inter-
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 1543--1543
+\TU/lmr/bx/n/10 Cardiovascular E
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 1543--1543
+[]\TU/lmr/bx/n/10 Maria Thereza Albuquerque
+ []
+
+
+Underfull \hbox (badness 1389) in paragraph at lines 1543--1543
+[]\TU/lmr/bx/n/10 Patricia Angelica De Miranda
+ []
+
+
+Underfull \hbox (badness 7722) in paragraph at lines 1543--1543
+[]\TU/lmr/bx/n/10 Avaliação E Inter-
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 1543--1543
+\TU/lmr/bx/n/10 Cardiovascular E
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 1543--1543
+[]\TU/lmr/bx/n/10 Maria Thereza Albuquerque
+ []
+
+
+Underfull \hbox (badness 1389) in paragraph at lines 1543--1543
+[]\TU/lmr/bx/n/10 Patricia Angelica De Miranda
+ []
+
+
+
+[47
 
 ]
-Overfull \hbox (7.1784pt too wide) in paragraph at lines 1592--1627
+
+[48]
+Overfull \hbox (7.1784pt too wide) in paragraph at lines 1556--1590
  [][] 
  []
 
 
 
-[47]
-
-[48
+[49
 
 
 ]
-
-[49]
-Overfull \hbox (12.64723pt too wide) in paragraph at lines 1728--1761
+Overfull \hbox (7.1784pt too wide) in paragraph at lines 1602--1637
  [][] 
  []
 
@@ -2559,376 +2551,390 @@ Overfull \hbox (12.64723pt too wide) in paragraph at lines 1728--1761
 
 [51
 
+
 ]
 
 [52]
-Overfull \hbox (15.0944pt too wide) in paragraph at lines 1788--1834
+Overfull \hbox (12.64723pt too wide) in paragraph at lines 1738--1771
  [][] 
  []
 
 
 
 [53]
-Overfull \hbox (3.09444pt too wide) in paragraph at lines 1847--1896
+
+[54
+
+]
+
+[55]
+Overfull \hbox (15.0944pt too wide) in paragraph at lines 1798--1844
  [][] 
  []
 
 
 
-[54]
+[56]
+Overfull \hbox (3.09444pt too wide) in paragraph at lines 1857--1906
+ [][] 
+ []
 
-[55]
+
+
+[57]
+
+[58]
 File: site.png Graphic file (type bmp)
 <site.png>
 
 
-[56]
+[59]
 File: observatorio.png Graphic file (type bmp)
 <observatorio.png>
 
 
-[57]
-Underfull \hbox (badness 10000) in paragraph at lines 2024--2024
+[60]
+Underfull \hbox (badness 10000) in paragraph at lines 2035--2035
 []\TU/lmr/m/n/10 Co-Autor, Examinador Ex-
  []
 
 
-Underfull \hbox (badness 10000) in paragraph at lines 2024--2024
+Underfull \hbox (badness 10000) in paragraph at lines 2035--2035
 []\TU/lmr/m/n/10 Co-Autor, Examinador Ex-
  []
 
 
-Underfull \hbox (badness 10000) in paragraph at lines 2024--2024
+Underfull \hbox (badness 10000) in paragraph at lines 2035--2035
 []\TU/lmr/m/n/10 Co-Autor, Examinador Ex-
  []
 
 
-Underfull \hbox (badness 8000) in paragraph at lines 2024--2024
+Underfull \hbox (badness 8000) in paragraph at lines 2035--2035
 []\TU/lmr/m/n/10 FUNDAÇÃO UNIVERSIDADE FEDERAL DE MATO
  []
 
 
-Underfull \hbox (badness 10000) in paragraph at lines 2024--2024
+Underfull \hbox (badness 10000) in paragraph at lines 2035--2035
 []\TU/lmr/m/n/10 Co-Autor, Examinador Ex-
  []
 
 
-Underfull \hbox (badness 10000) in paragraph at lines 2024--2024
+Underfull \hbox (badness 10000) in paragraph at lines 2035--2035
 []\TU/lmr/m/n/10 Co-Autor, Examinador Ex-
  []
 
 
-Underfull \hbox (badness 10000) in paragraph at lines 2024--2024
+Underfull \hbox (badness 10000) in paragraph at lines 2035--2035
 []\TU/lmr/m/n/10 Co-Autor, Examinador Ex-
  []
 
 
-Underfull \hbox (badness 10000) in paragraph at lines 2024--2024
+Underfull \hbox (badness 10000) in paragraph at lines 2035--2035
 []\TU/lmr/m/n/10 Co-Autor, Examinador Ex-
  []
 
 
-Underfull \hbox (badness 10000) in paragraph at lines 2024--2024
+Underfull \hbox (badness 10000) in paragraph at lines 2035--2035
 []\TU/lmr/m/n/10 Co-Autor, Examinador Ex-
  []
 
 
-Underfull \hbox (badness 10000) in paragraph at lines 2024--2024
+Underfull \hbox (badness 10000) in paragraph at lines 2035--2035
 []\TU/lmr/m/n/10 Co-Autor, Examinador Ex-
  []
 
 
-Underfull \hbox (badness 10000) in paragraph at lines 2024--2024
+Underfull \hbox (badness 10000) in paragraph at lines 2035--2035
 []\TU/lmr/m/n/10 Co-Autor, Examinador Ex-
  []
 
 
-Underfull \hbox (badness 10000) in paragraph at lines 2024--2024
+Underfull \hbox (badness 10000) in paragraph at lines 2035--2035
 []\TU/lmr/m/n/10 Co-Autor, Examinador Ex-
  []
 
 
-Underfull \hbox (badness 10000) in paragraph at lines 2024--2024
+Underfull \hbox (badness 10000) in paragraph at lines 2035--2035
 []\TU/lmr/m/n/10 Co-Autor, Examinador Ex-
  []
 
 
-Underfull \hbox (badness 10000) in paragraph at lines 2024--2024
+Underfull \hbox (badness 10000) in paragraph at lines 2035--2035
 []\TU/lmr/m/n/10 Co-Autor, Examinador Ex-
  []
 
 
-Underfull \hbox (badness 10000) in paragraph at lines 2024--2024
+Underfull \hbox (badness 10000) in paragraph at lines 2035--2035
 []\TU/lmr/m/n/10 Co-Autor, Examinador Ex-
  []
 
 
-Underfull \hbox (badness 10000) in paragraph at lines 2024--2024
+Underfull \hbox (badness 10000) in paragraph at lines 2035--2035
 []\TU/lmr/m/n/10 Co-Autor, Examinador Ex-
  []
 
 
-Underfull \hbox (badness 10000) in paragraph at lines 2024--2024
+Underfull \hbox (badness 10000) in paragraph at lines 2035--2035
 []\TU/lmr/m/n/10 Co-Autor, Examinador Ex-
  []
 
 
-Underfull \hbox (badness 10000) in paragraph at lines 2024--2024
+Underfull \hbox (badness 10000) in paragraph at lines 2035--2035
 []\TU/lmr/m/n/10 Co-Autor, Examinador Ex-
  []
 
 
-Underfull \hbox (badness 10000) in paragraph at lines 2024--2024
+Underfull \hbox (badness 10000) in paragraph at lines 2035--2035
 []\TU/lmr/m/n/10 Co-Autor, Examinador Ex-
  []
 
 
-Underfull \hbox (badness 10000) in paragraph at lines 2024--2024
+Underfull \hbox (badness 10000) in paragraph at lines 2035--2035
 []\TU/lmr/m/n/10 Co-Autor, Examinador Ex-
  []
 
 
-Underfull \hbox (badness 10000) in paragraph at lines 2024--2024
+Underfull \hbox (badness 10000) in paragraph at lines 2035--2035
 []\TU/lmr/m/n/10 Co-Autor, Examinador Ex-
  []
 
 
-Underfull \hbox (badness 10000) in paragraph at lines 2024--2024
+Underfull \hbox (badness 10000) in paragraph at lines 2035--2035
 []\TU/lmr/m/n/10 Co-Autor, Examinador Ex-
  []
 
 
-Underfull \hbox (badness 10000) in paragraph at lines 2024--2024
+Underfull \hbox (badness 10000) in paragraph at lines 2035--2035
 []\TU/lmr/m/n/10 Co-Autor, Examinador Ex-
  []
 
 
-Underfull \hbox (badness 10000) in paragraph at lines 2024--2024
+Underfull \hbox (badness 10000) in paragraph at lines 2035--2035
 []\TU/lmr/m/n/10 Co-Autor, Examinador Ex-
  []
 
 
-Underfull \hbox (badness 10000) in paragraph at lines 2024--2024
+Underfull \hbox (badness 10000) in paragraph at lines 2035--2035
 []\TU/lmr/m/n/10 Co-Autor, Examinador Ex-
  []
 
 
-Underfull \hbox (badness 10000) in paragraph at lines 2024--2024
+Underfull \hbox (badness 10000) in paragraph at lines 2035--2035
 []\TU/lmr/m/n/10 Co-Autor, Examinador Ex-
  []
 
 
-Underfull \hbox (badness 10000) in paragraph at lines 2024--2024
+Underfull \hbox (badness 10000) in paragraph at lines 2035--2035
 []\TU/lmr/m/n/10 Co-Autor, Examinador Ex-
  []
 
 
-Underfull \hbox (badness 10000) in paragraph at lines 2024--2024
+Underfull \hbox (badness 10000) in paragraph at lines 2035--2035
 []\TU/lmr/m/n/10 Co-Autor, Examinador Ex-
  []
 
 
-Underfull \hbox (badness 8000) in paragraph at lines 2024--2024
+Underfull \hbox (badness 8000) in paragraph at lines 2035--2035
 []\TU/lmr/m/n/10 FUNDAÇÃO UNIVERSIDADE FEDERAL DE MATO
  []
 
 
-Underfull \hbox (badness 10000) in paragraph at lines 2024--2024
+Underfull \hbox (badness 10000) in paragraph at lines 2035--2035
 []\TU/lmr/m/n/10 Co-Autor, Examinador Ex-
  []
 
 
-Underfull \hbox (badness 10000) in paragraph at lines 2024--2024
+Underfull \hbox (badness 10000) in paragraph at lines 2035--2035
 []\TU/lmr/m/n/10 Co-Autor, Examinador Ex-
  []
 
 
-Underfull \hbox (badness 10000) in paragraph at lines 2024--2024
+Underfull \hbox (badness 10000) in paragraph at lines 2035--2035
 []\TU/lmr/m/n/10 Co-Autor, Examinador Ex-
  []
 
 
-Underfull \hbox (badness 10000) in paragraph at lines 2024--2024
+Underfull \hbox (badness 10000) in paragraph at lines 2035--2035
 []\TU/lmr/m/n/10 Co-Autor, Examinador Ex-
  []
 
 
 
-[58
+[61
 
 ]
-Underfull \hbox (badness 10000) in paragraph at lines 2024--2024
+Underfull \hbox (badness 10000) in paragraph at lines 2035--2035
 []\TU/lmr/m/n/10 Co-Autor, Examinador Ex-
  []
 
 
-Underfull \hbox (badness 10000) in paragraph at lines 2024--2024
+Underfull \hbox (badness 10000) in paragraph at lines 2035--2035
 []\TU/lmr/m/n/10 Co-Autor, Examinador Ex-
  []
 
 
-Underfull \hbox (badness 10000) in paragraph at lines 2024--2024
+Underfull \hbox (badness 10000) in paragraph at lines 2035--2035
 []\TU/lmr/m/n/10 Co-Autor, Examinador Ex-
  []
 
 
-Underfull \hbox (badness 10000) in paragraph at lines 2024--2024
-[]\TU/lmr/m/n/10 Co-Autor, Examinador Ex-
- []
-
-
-
-[59]
-Underfull \hbox (badness 10000) in paragraph at lines 2024--2024
-[]\TU/lmr/m/n/10 Co-Autor, Examinador Ex-
- []
-
-
-Underfull \hbox (badness 10000) in paragraph at lines 2024--2024
-[]\TU/lmr/m/n/10 Co-Autor, Examinador Ex-
- []
-
-
-Underfull \hbox (badness 10000) in paragraph at lines 2024--2024
-[]\TU/lmr/m/n/10 Co-Autor, Examinador Ex-
- []
-
-
-Underfull \hbox (badness 10000) in paragraph at lines 2024--2024
-[]\TU/lmr/m/n/10 Co-Autor, Examinador Ex-
- []
-
-
-Underfull \hbox (badness 10000) in paragraph at lines 2024--2024
-[]\TU/lmr/m/n/10 Co-Autor, Examinador Ex-
- []
-
-
-Underfull \hbox (badness 10000) in paragraph at lines 2024--2024
-[]\TU/lmr/m/n/10 Co-Autor, Examinador Ex-
- []
-
-
-
-[60]
-Underfull \hbox (badness 10000) in paragraph at lines 2024--2024
-[]\TU/lmr/m/n/10 Co-Autor, Examinador Ex-
- []
-
-
-Underfull \hbox (badness 10000) in paragraph at lines 2024--2024
-[]\TU/lmr/m/n/10 Co-Autor, Examinador Ex-
- []
-
-
-Underfull \hbox (badness 10000) in paragraph at lines 2024--2024
-[]\TU/lmr/m/n/10 Co-Autor, Examinador Ex-
- []
-
-
-Underfull \hbox (badness 10000) in paragraph at lines 2024--2024
-[]\TU/lmr/m/n/10 Co-Autor, Examinador Ex-
- []
-
-
-Underfull \hbox (badness 10000) in paragraph at lines 2024--2024
-[]\TU/lmr/m/n/10 Co-Autor, Examinador Ex-
- []
-
-
-Underfull \hbox (badness 10000) in paragraph at lines 2024--2024
-[]\TU/lmr/m/n/10 Co-Autor, Examinador Ex-
- []
-
-
-
-[61]
-Underfull \hbox (badness 10000) in paragraph at lines 2024--2024
+Underfull \hbox (badness 10000) in paragraph at lines 2035--2035
 []\TU/lmr/m/n/10 Co-Autor, Examinador Ex-
  []
 
 
 
 [62]
-Underfull \hbox (badness 1755) in paragraph at lines 2042--2042
-[]\TU/lmr/bx/n/10 JESSICA DANIELLE MEDEI-
+Underfull \hbox (badness 10000) in paragraph at lines 2035--2035
+[]\TU/lmr/m/n/10 Co-Autor, Examinador Ex-
  []
 
 
-Underfull \hbox (badness 1755) in paragraph at lines 2042--2042
-[]\TU/lmr/bx/n/10 JESSICA DANIELLE MEDEI-
+Underfull \hbox (badness 10000) in paragraph at lines 2035--2035
+[]\TU/lmr/m/n/10 Co-Autor, Examinador Ex-
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 2035--2035
+[]\TU/lmr/m/n/10 Co-Autor, Examinador Ex-
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 2035--2035
+[]\TU/lmr/m/n/10 Co-Autor, Examinador Ex-
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 2035--2035
+[]\TU/lmr/m/n/10 Co-Autor, Examinador Ex-
  []
 
 
 
 [63]
-Underfull \hbox (badness 10000) in paragraph at lines 2065--2065
+Underfull \hbox (badness 10000) in paragraph at lines 2035--2035
+[]\TU/lmr/m/n/10 Co-Autor, Examinador Ex-
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 2035--2035
+[]\TU/lmr/m/n/10 Co-Autor, Examinador Ex-
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 2035--2035
+[]\TU/lmr/m/n/10 Co-Autor, Examinador Ex-
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 2035--2035
+[]\TU/lmr/m/n/10 Co-Autor, Examinador Ex-
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 2035--2035
+[]\TU/lmr/m/n/10 Co-Autor, Examinador Ex-
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 2035--2035
+[]\TU/lmr/m/n/10 Co-Autor, Examinador Ex-
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 2035--2035
+[]\TU/lmr/m/n/10 Co-Autor, Examinador Ex-
+ []
+
+
+
+[64]
+Underfull \hbox (badness 10000) in paragraph at lines 2035--2035
+[]\TU/lmr/m/n/10 Co-Autor, Examinador Ex-
+ []
+
+
+
+[65]
+Underfull \hbox (badness 1755) in paragraph at lines 2054--2054
+[]\TU/lmr/bx/n/10 JESSICA DANIELLE MEDEI-
+ []
+
+
+Underfull \hbox (badness 1755) in paragraph at lines 2054--2054
+[]\TU/lmr/bx/n/10 JESSICA DANIELLE MEDEI-
+ []
+
+
+
+[66]
+Underfull \hbox (badness 10000) in paragraph at lines 2078--2078
 []\TU/lmr/bx/n/10 Ano
  []
 
 
-Underfull \hbox (badness 10000) in paragraph at lines 2065--2065
+Underfull \hbox (badness 10000) in paragraph at lines 2078--2078
 \TU/lmr/bx/n/10 (iní-
  []
 
 
-Underfull \hbox (badness 10000) in paragraph at lines 2065--2065
+Underfull \hbox (badness 10000) in paragraph at lines 2078--2078
 []\TU/lmr/bx/n/10 Ano
  []
 
 
-Underfull \hbox (badness 2591) in paragraph at lines 2065--2065
+Underfull \hbox (badness 2591) in paragraph at lines 2078--2078
 []\TU/lmr/m/n/10 International Journal of Environ-
  []
 
 
-Underfull \hbox (badness 1728) in paragraph at lines 2065--2065
+Underfull \hbox (badness 1728) in paragraph at lines 2078--2078
 []\TU/lmr/m/n/10 GIANE AMORIM RIBEIRO SA-
  []
 
 
-Underfull \hbox (badness 10000) in paragraph at lines 2065--2065
+Underfull \hbox (badness 10000) in paragraph at lines 2078--2078
 []\TU/lmr/bx/n/10 Ano
  []
 
 
-Underfull \hbox (badness 10000) in paragraph at lines 2065--2065
+Underfull \hbox (badness 10000) in paragraph at lines 2078--2078
 \TU/lmr/bx/n/10 (iní-
  []
 
 
-Underfull \hbox (badness 10000) in paragraph at lines 2065--2065
+Underfull \hbox (badness 10000) in paragraph at lines 2078--2078
 []\TU/lmr/bx/n/10 Ano
  []
 
 
-Underfull \hbox (badness 2591) in paragraph at lines 2065--2065
+Underfull \hbox (badness 2591) in paragraph at lines 2078--2078
 []\TU/lmr/m/n/10 International Journal of Environ-
  []
 
 
-Underfull \hbox (badness 1728) in paragraph at lines 2065--2065
+Underfull \hbox (badness 1728) in paragraph at lines 2078--2078
 []\TU/lmr/m/n/10 GIANE AMORIM RIBEIRO SA-
  []
 
 
 
-[64] (./autoavaliacao-2021-2024.aux)
+[67] (./autoavaliacao-2021-2024.aux)
  ***********
 LaTeX2e <2025-06-01> patch level 1
-L3 programming layer <2025-05-26>
+L3 programming layer <2025-06-09>
  ***********
 
 LaTeX Warning: There were multiply-defined labels.
 
  ) 
 Here is how much of TeX's memory you used:
- 48490 strings out of 468527
- 1018036 string characters out of 5447700
- 1664636 words of memory out of 5000000
- 76224 multiletter control sequences out of 15000+600000
+ 48489 strings out of 468529
+ 1018022 string characters out of 5447722
+ 1666803 words of memory out of 5000000
+ 76221 multiletter control sequences out of 15000+600000
  665964 words of font info for 117 fonts, out of 8000000 for 9000
  1348 hyphenation exceptions out of 8191
- 99i,19n,114p,1212b,6291s stack positions out of 10000i,1000n,20000p,200000b,200000s
+ 99i,19n,114p,1212b,6293s stack positions out of 10000i,1000n,20000p,200000b,200000s
 
-Output written on autoavaliacao-2021-2024.pdf (67 pages).
+Output written on autoavaliacao-2021-2024.pdf (70 pages).
