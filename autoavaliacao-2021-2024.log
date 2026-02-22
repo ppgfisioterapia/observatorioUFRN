@@ -1,4 +1,4 @@
-This is XeTeX, Version 3.141592653-2.6-0.999997 (TeX Live 2025) (preloaded format=xelatex 2026.2.9)  11 FEB 2026 09:28
+This is XeTeX, Version 3.141592653-2.6-0.999997 (TeX Live 2025) (preloaded format=xelatex 2026.2.16)  22 FEB 2026 16:03
 entering extended mode
  restricted \write18 enabled.
  %&-line parsing enabled.
@@ -597,7 +597,7 @@ Package graphics Info: Driver file: xetex.def on input line 106.
 )
 \pandoc@box=\box64
 (/usr/local/texlive/2025/texmf-dist/tex/generic/babel/babel.sty
-Package: babel 2026/01/26 v26.2 The multilingual framework for LuaLaTeX, pdfLaT
+Package: babel 2026/02/14 v26.3 The multilingual framework for LuaLaTeX, pdfLaT
 eX and XeLaTeX
 \babel@savecnt=\count327
 LaTeX Encoding Info:    Redeclaring text command \ij (encoding OT1) on input li
@@ -1578,6 +1578,15 @@ Package: xurl 2022/01/09 v 0.10 modify URL breaks
 Package babel Info: 'brazilian' activates 'portuges' shorthands.
 (babel)             Reported on input line 8.
 
+LaTeX Warning: Label `tab:2-1-2-list-tables' multiply defined.
+
+
+LaTeX Warning: Label `tab:2-1-2-list-tables' multiply defined.
+
+
+LaTeX Warning: Label `tab:2-1-2-list-tables' multiply defined.
+
+
 LaTeX Warning: Label `tab:2-2-1-list-tables' multiply defined.
 
 
@@ -2445,66 +2454,71 @@ Overfull \hbox (12.4192pt too wide) in paragraph at lines 1073--1073
 []\TU/lmr/bx/n/10 PositiveLRC 
  []
 
-[35] [36
+[35]
+Overfull \hbox (27.08727pt too wide) in paragraph at lines 1146--1146
+[]\TU/lmr/bx/n/10 Quadriênio|  
+ []
+
+[36
 
 ] [37] [38]
-Overfull \hbox (3.09442pt too wide) in paragraph at lines 1227--1243
+Overfull \hbox (3.09442pt too wide) in paragraph at lines 1313--1329
  [][] 
  []
 
 [39] [40] [41] [42] [43
 
 ] [44] [45]
-Overfull \hbox (3.09442pt too wide) in paragraph at lines 1460--1490
+Overfull \hbox (3.09442pt too wide) in paragraph at lines 1546--1576
  [][] 
  []
 
 [46
 
 ]
-Underfull \hbox (badness 7722) in paragraph at lines 1532--1532
+Underfull \hbox (badness 7722) in paragraph at lines 1618--1618
 []\TU/lmr/bx/n/10 Avaliação E Inter-
  []
 
 
-Underfull \hbox (badness 10000) in paragraph at lines 1532--1532
+Underfull \hbox (badness 10000) in paragraph at lines 1618--1618
 \TU/lmr/bx/n/10 Cardiovascular E
  []
 
 
-Underfull \hbox (badness 10000) in paragraph at lines 1532--1532
+Underfull \hbox (badness 10000) in paragraph at lines 1618--1618
 []\TU/lmr/bx/n/10 Maria Thereza Albuquerque
  []
 
 
-Underfull \hbox (badness 1389) in paragraph at lines 1532--1532
+Underfull \hbox (badness 1389) in paragraph at lines 1618--1618
 []\TU/lmr/bx/n/10 Patricia Angelica De Miranda
  []
 
 
-Underfull \hbox (badness 7722) in paragraph at lines 1532--1532
+Underfull \hbox (badness 7722) in paragraph at lines 1618--1618
 []\TU/lmr/bx/n/10 Avaliação E Inter-
  []
 
 
-Underfull \hbox (badness 10000) in paragraph at lines 1532--1532
+Underfull \hbox (badness 10000) in paragraph at lines 1618--1618
 \TU/lmr/bx/n/10 Cardiovascular E
  []
 
 
-Underfull \hbox (badness 10000) in paragraph at lines 1532--1532
+Underfull \hbox (badness 10000) in paragraph at lines 1618--1618
 []\TU/lmr/bx/n/10 Maria Thereza Albuquerque
  []
 
 
-Underfull \hbox (badness 1389) in paragraph at lines 1532--1532
+Underfull \hbox (badness 1389) in paragraph at lines 1618--1618
 []\TU/lmr/bx/n/10 Patricia Angelica De Miranda
  []
 
 [47
 
 ] [48]
-Overfull \hbox (7.1784pt too wide) in paragraph at lines 1545--1578
+Overfull \hbox (7.1784pt too wide) in paragraph at lines 1631--1664
  [][] 
  []
 
@@ -2512,7 +2526,7 @@ Overfull \hbox (7.1784pt too wide) in paragraph at lines 1545--1578
 
 
 ]
-Overfull \hbox (7.1784pt too wide) in paragraph at lines 1590--1624
+Overfull \hbox (7.1784pt too wide) in paragraph at lines 1676--1710
  [][] 
  []
 
@@ -2520,191 +2534,191 @@ Overfull \hbox (7.1784pt too wide) in paragraph at lines 1590--1624
 
 
 ] [52]
-Overfull \hbox (12.64723pt too wide) in paragraph at lines 1723--1755
+Overfull \hbox (12.64723pt too wide) in paragraph at lines 1809--1841
  [][] 
  []
 
 [53] [54
 
 ] [55]
-Overfull \hbox (15.0944pt too wide) in paragraph at lines 1782--1827
+Overfull \hbox (15.0944pt too wide) in paragraph at lines 1868--1913
  [][] 
  []
 
 [56]
-Overfull \hbox (3.09444pt too wide) in paragraph at lines 1840--1890
+Overfull \hbox (3.09444pt too wide) in paragraph at lines 1926--1976
  [][] 
  []
 
 [57]
-Underfull \hbox (badness 5726) in paragraph at lines 1914--1914
+Underfull \hbox (badness 5726) in paragraph at lines 2000--2000
 \TU/lmr/m/n/10 Falls Among Community-Dwelling Older
  []
 
 
-Underfull \hbox (badness 5726) in paragraph at lines 1914--1914
+Underfull \hbox (badness 5726) in paragraph at lines 2000--2000
 \TU/lmr/m/n/10 Falls Among Community-Dwelling Older
  []
 
 [58
 
 ] [59] [60]
-Underfull \hbox (badness 2644) in paragraph at lines 2005--2005
+Underfull \hbox (badness 2644) in paragraph at lines 2091--2091
 []\TU/lmr/m/n/10 Relationship Between Anxiety Symptoms,
  []
 
 
-Underfull \hbox (badness 1132) in paragraph at lines 2005--2005
+Underfull \hbox (badness 1132) in paragraph at lines 2091--2091
 \TU/lmr/m/n/10 xical Motion In Duchenne Muscular Dys-
  []
 
 
-Underfull \hbox (badness 1546) in paragraph at lines 2005--2005
+Underfull \hbox (badness 1546) in paragraph at lines 2091--2091
 []\TU/lmr/m/n/10 Are Biomechanical Strategies To Perform
  []
 
 
-Underfull \hbox (badness 1112) in paragraph at lines 2005--2005
+Underfull \hbox (badness 1112) in paragraph at lines 2091--2091
 []\TU/lmr/m/n/10 Barriers And Facilitators To Populational
  []
 
 
-Underfull \hbox (badness 5726) in paragraph at lines 2005--2005
+Underfull \hbox (badness 5726) in paragraph at lines 2091--2091
 \TU/lmr/m/n/10 Falls Among Community-Dwelling Older
  []
 
 
-Underfull \hbox (badness 2644) in paragraph at lines 2005--2005
+Underfull \hbox (badness 2644) in paragraph at lines 2091--2091
 []\TU/lmr/m/n/10 Relationship Between Anxiety Symptoms,
  []
 
 
-Underfull \hbox (badness 1132) in paragraph at lines 2005--2005
+Underfull \hbox (badness 1132) in paragraph at lines 2091--2091
 \TU/lmr/m/n/10 xical Motion In Duchenne Muscular Dys-
  []
 
 
-Underfull \hbox (badness 1546) in paragraph at lines 2005--2005
+Underfull \hbox (badness 1546) in paragraph at lines 2091--2091
 []\TU/lmr/m/n/10 Are Biomechanical Strategies To Perform
  []
 
 [61]
-Underfull \hbox (badness 1112) in paragraph at lines 2005--2005
+Underfull \hbox (badness 1112) in paragraph at lines 2091--2091
 []\TU/lmr/m/n/10 Barriers And Facilitators To Populational
  []
 
 
-Underfull \hbox (badness 5726) in paragraph at lines 2005--2005
+Underfull \hbox (badness 5726) in paragraph at lines 2091--2091
 \TU/lmr/m/n/10 Falls Among Community-Dwelling Older
  []
 
 [62]
-Overfull \hbox (17.5824pt too wide) in paragraph at lines 2038--2038
+Overfull \hbox (17.5824pt too wide) in paragraph at lines 2124--2124
 []\TU/lmr/bx/n/10 YouTube/Vimeo 
  []
 
 
-Overfull \hbox (17.5824pt too wide) in paragraph at lines 2038--2038
+Overfull \hbox (17.5824pt too wide) in paragraph at lines 2124--2124
 []\TU/lmr/bx/n/10 YouTube/Vimeo 
  []
 
 [63] [64]
-Underfull \hbox (badness 1132) in paragraph at lines 2102--2102
+Underfull \hbox (badness 1132) in paragraph at lines 2188--2188
 \TU/lmr/m/n/10 xical Motion In Duchenne Muscular Dys-
  []
 
 
-Underfull \hbox (badness 2644) in paragraph at lines 2102--2102
+Underfull \hbox (badness 2644) in paragraph at lines 2188--2188
 []\TU/lmr/m/n/10 Relationship Between Anxiety Symptoms,
  []
 
 
-Underfull \hbox (badness 1546) in paragraph at lines 2102--2102
+Underfull \hbox (badness 1546) in paragraph at lines 2188--2188
 []\TU/lmr/m/n/10 Are Biomechanical Strategies To Perform
  []
 
 
-Underfull \hbox (badness 5726) in paragraph at lines 2102--2102
+Underfull \hbox (badness 5726) in paragraph at lines 2188--2188
 \TU/lmr/m/n/10 Falls Among Community-Dwelling Older
  []
 
 
-Underfull \hbox (badness 1112) in paragraph at lines 2102--2102
+Underfull \hbox (badness 1112) in paragraph at lines 2188--2188
 []\TU/lmr/m/n/10 Barriers And Facilitators To Populational
  []
 
 
-Underfull \hbox (badness 1132) in paragraph at lines 2102--2102
+Underfull \hbox (badness 1132) in paragraph at lines 2188--2188
 \TU/lmr/m/n/10 xical Motion In Duchenne Muscular Dys-
  []
 
 
-Underfull \hbox (badness 2644) in paragraph at lines 2102--2102
+Underfull \hbox (badness 2644) in paragraph at lines 2188--2188
 []\TU/lmr/m/n/10 Relationship Between Anxiety Symptoms,
  []
 
 
-Underfull \hbox (badness 1546) in paragraph at lines 2102--2102
+Underfull \hbox (badness 1546) in paragraph at lines 2188--2188
 []\TU/lmr/m/n/10 Are Biomechanical Strategies To Perform
  []
 
 [65]
-Underfull \hbox (badness 5726) in paragraph at lines 2102--2102
+Underfull \hbox (badness 5726) in paragraph at lines 2188--2188
 \TU/lmr/m/n/10 Falls Among Community-Dwelling Older
  []
 
 
-Underfull \hbox (badness 1112) in paragraph at lines 2102--2102
+Underfull \hbox (badness 1112) in paragraph at lines 2188--2188
 []\TU/lmr/m/n/10 Barriers And Facilitators To Populational
  []
 
 [66] [67]
-Underfull \hbox (badness 1112) in paragraph at lines 2142--2142
+Underfull \hbox (badness 1112) in paragraph at lines 2228--2228
 []\TU/lmr/m/n/10 Barriers And Facilitators To Populational
  []
 
 
-Underfull \hbox (badness 2644) in paragraph at lines 2142--2142
+Underfull \hbox (badness 2644) in paragraph at lines 2228--2228
 []\TU/lmr/m/n/10 Relationship Between Anxiety Symptoms,
  []
 
 
-Underfull \hbox (badness 5726) in paragraph at lines 2142--2142
+Underfull \hbox (badness 5726) in paragraph at lines 2228--2228
 \TU/lmr/m/n/10 Falls Among Community-Dwelling Older
  []
 
 
-Underfull \hbox (badness 1132) in paragraph at lines 2142--2142
+Underfull \hbox (badness 1132) in paragraph at lines 2228--2228
 \TU/lmr/m/n/10 xical Motion In Duchenne Muscular Dys-
  []
 
 
-Underfull \hbox (badness 1546) in paragraph at lines 2142--2142
+Underfull \hbox (badness 1546) in paragraph at lines 2228--2228
 []\TU/lmr/m/n/10 Are Biomechanical Strategies To Perform
  []
 
 
-Underfull \hbox (badness 1112) in paragraph at lines 2142--2142
+Underfull \hbox (badness 1112) in paragraph at lines 2228--2228
 []\TU/lmr/m/n/10 Barriers And Facilitators To Populational
  []
 
 [68]
-Underfull \hbox (badness 2644) in paragraph at lines 2142--2142
+Underfull \hbox (badness 2644) in paragraph at lines 2228--2228
 []\TU/lmr/m/n/10 Relationship Between Anxiety Symptoms,
  []
 
 
-Underfull \hbox (badness 5726) in paragraph at lines 2142--2142
+Underfull \hbox (badness 5726) in paragraph at lines 2228--2228
 \TU/lmr/m/n/10 Falls Among Community-Dwelling Older
  []
 
 
-Underfull \hbox (badness 1132) in paragraph at lines 2142--2142
+Underfull \hbox (badness 1132) in paragraph at lines 2228--2228
 \TU/lmr/m/n/10 xical Motion In Duchenne Muscular Dys-
  []
 
 
-Underfull \hbox (badness 1546) in paragraph at lines 2142--2142
+Underfull \hbox (badness 1546) in paragraph at lines 2228--2228
 []\TU/lmr/m/n/10 Are Biomechanical Strategies To Perform
  []
 
@@ -2717,314 +2731,314 @@ File: site.png Graphic file (type bmp)
 File: observatorio.png Graphic file (type bmp)
 <observatorio.png>
 [73]
-Underfull \hbox (badness 10000) in paragraph at lines 2277--2277
+Underfull \hbox (badness 10000) in paragraph at lines 2363--2363
 []\TU/lmr/m/n/10 Co-Autor, Examinador Ex-
  []
 
 
-Underfull \hbox (badness 10000) in paragraph at lines 2277--2277
+Underfull \hbox (badness 10000) in paragraph at lines 2363--2363
 []\TU/lmr/m/n/10 Co-Autor, Examinador Ex-
  []
 
 
-Underfull \hbox (badness 10000) in paragraph at lines 2277--2277
+Underfull \hbox (badness 10000) in paragraph at lines 2363--2363
 []\TU/lmr/m/n/10 Co-Autor, Examinador Ex-
  []
 
 
-Underfull \hbox (badness 8000) in paragraph at lines 2277--2277
+Underfull \hbox (badness 8000) in paragraph at lines 2363--2363
 []\TU/lmr/m/n/10 FUNDAÇÃO UNIVERSIDADE FEDERAL DE MATO
  []
 
 
-Underfull \hbox (badness 10000) in paragraph at lines 2277--2277
+Underfull \hbox (badness 10000) in paragraph at lines 2363--2363
 []\TU/lmr/m/n/10 Co-Autor, Examinador Ex-
  []
 
 
-Underfull \hbox (badness 10000) in paragraph at lines 2277--2277
+Underfull \hbox (badness 10000) in paragraph at lines 2363--2363
 []\TU/lmr/m/n/10 Co-Autor, Examinador Ex-
  []
 
 
-Underfull \hbox (badness 10000) in paragraph at lines 2277--2277
+Underfull \hbox (badness 10000) in paragraph at lines 2363--2363
 []\TU/lmr/m/n/10 Co-Autor, Examinador Ex-
  []
 
 
-Underfull \hbox (badness 10000) in paragraph at lines 2277--2277
+Underfull \hbox (badness 10000) in paragraph at lines 2363--2363
 []\TU/lmr/m/n/10 Co-Autor, Examinador Ex-
  []
 
 
-Underfull \hbox (badness 10000) in paragraph at lines 2277--2277
+Underfull \hbox (badness 10000) in paragraph at lines 2363--2363
 []\TU/lmr/m/n/10 Co-Autor, Examinador Ex-
  []
 
 
-Underfull \hbox (badness 10000) in paragraph at lines 2277--2277
+Underfull \hbox (badness 10000) in paragraph at lines 2363--2363
 []\TU/lmr/m/n/10 Co-Autor, Examinador Ex-
  []
 
 
-Underfull \hbox (badness 10000) in paragraph at lines 2277--2277
+Underfull \hbox (badness 10000) in paragraph at lines 2363--2363
 []\TU/lmr/m/n/10 Co-Autor, Examinador Ex-
  []
 
 
-Underfull \hbox (badness 10000) in paragraph at lines 2277--2277
+Underfull \hbox (badness 10000) in paragraph at lines 2363--2363
 []\TU/lmr/m/n/10 Co-Autor, Examinador Ex-
  []
 
 
-Underfull \hbox (badness 10000) in paragraph at lines 2277--2277
+Underfull \hbox (badness 10000) in paragraph at lines 2363--2363
 []\TU/lmr/m/n/10 Co-Autor, Examinador Ex-
  []
 
 
-Underfull \hbox (badness 10000) in paragraph at lines 2277--2277
+Underfull \hbox (badness 10000) in paragraph at lines 2363--2363
 []\TU/lmr/m/n/10 Co-Autor, Examinador Ex-
  []
 
 
-Underfull \hbox (badness 10000) in paragraph at lines 2277--2277
+Underfull \hbox (badness 10000) in paragraph at lines 2363--2363
 []\TU/lmr/m/n/10 Co-Autor, Examinador Ex-
  []
 
 
-Underfull \hbox (badness 10000) in paragraph at lines 2277--2277
+Underfull \hbox (badness 10000) in paragraph at lines 2363--2363
 []\TU/lmr/m/n/10 Co-Autor, Examinador Ex-
  []
 
 
-Underfull \hbox (badness 10000) in paragraph at lines 2277--2277
+Underfull \hbox (badness 10000) in paragraph at lines 2363--2363
 []\TU/lmr/m/n/10 Co-Autor, Examinador Ex-
  []
 
 
-Underfull \hbox (badness 10000) in paragraph at lines 2277--2277
+Underfull \hbox (badness 10000) in paragraph at lines 2363--2363
 []\TU/lmr/m/n/10 Co-Autor, Examinador Ex-
  []
 
 
-Underfull \hbox (badness 10000) in paragraph at lines 2277--2277
+Underfull \hbox (badness 10000) in paragraph at lines 2363--2363
 []\TU/lmr/m/n/10 Co-Autor, Examinador Ex-
  []
 
 
-Underfull \hbox (badness 10000) in paragraph at lines 2277--2277
+Underfull \hbox (badness 10000) in paragraph at lines 2363--2363
 []\TU/lmr/m/n/10 Co-Autor, Examinador Ex-
  []
 
 
-Underfull \hbox (badness 10000) in paragraph at lines 2277--2277
+Underfull \hbox (badness 10000) in paragraph at lines 2363--2363
 []\TU/lmr/m/n/10 Co-Autor, Examinador Ex-
  []
 
 
-Underfull \hbox (badness 10000) in paragraph at lines 2277--2277
+Underfull \hbox (badness 10000) in paragraph at lines 2363--2363
 []\TU/lmr/m/n/10 Co-Autor, Examinador Ex-
  []
 
 
-Underfull \hbox (badness 10000) in paragraph at lines 2277--2277
+Underfull \hbox (badness 10000) in paragraph at lines 2363--2363
 []\TU/lmr/m/n/10 Co-Autor, Examinador Ex-
  []
 
 
-Underfull \hbox (badness 10000) in paragraph at lines 2277--2277
+Underfull \hbox (badness 10000) in paragraph at lines 2363--2363
 []\TU/lmr/m/n/10 Co-Autor, Examinador Ex-
  []
 
 
-Underfull \hbox (badness 10000) in paragraph at lines 2277--2277
+Underfull \hbox (badness 10000) in paragraph at lines 2363--2363
 []\TU/lmr/m/n/10 Co-Autor, Examinador Ex-
  []
 
 
-Underfull \hbox (badness 10000) in paragraph at lines 2277--2277
+Underfull \hbox (badness 10000) in paragraph at lines 2363--2363
 []\TU/lmr/m/n/10 Co-Autor, Examinador Ex-
  []
 
 
-Underfull \hbox (badness 10000) in paragraph at lines 2277--2277
+Underfull \hbox (badness 10000) in paragraph at lines 2363--2363
 []\TU/lmr/m/n/10 Co-Autor, Examinador Ex-
  []
 
 
-Underfull \hbox (badness 10000) in paragraph at lines 2277--2277
+Underfull \hbox (badness 10000) in paragraph at lines 2363--2363
 []\TU/lmr/m/n/10 Co-Autor, Examinador Ex-
  []
 
 
-Underfull \hbox (badness 8000) in paragraph at lines 2277--2277
+Underfull \hbox (badness 8000) in paragraph at lines 2363--2363
 []\TU/lmr/m/n/10 FUNDAÇÃO UNIVERSIDADE FEDERAL DE MATO
  []
 
 
-Underfull \hbox (badness 10000) in paragraph at lines 2277--2277
+Underfull \hbox (badness 10000) in paragraph at lines 2363--2363
 []\TU/lmr/m/n/10 Co-Autor, Examinador Ex-
  []
 
 
-Underfull \hbox (badness 10000) in paragraph at lines 2277--2277
+Underfull \hbox (badness 10000) in paragraph at lines 2363--2363
 []\TU/lmr/m/n/10 Co-Autor, Examinador Ex-
  []
 
 
-Underfull \hbox (badness 10000) in paragraph at lines 2277--2277
+Underfull \hbox (badness 10000) in paragraph at lines 2363--2363
 []\TU/lmr/m/n/10 Co-Autor, Examinador Ex-
  []
 
 
-Underfull \hbox (badness 10000) in paragraph at lines 2277--2277
+Underfull \hbox (badness 10000) in paragraph at lines 2363--2363
 []\TU/lmr/m/n/10 Co-Autor, Examinador Ex-
  []
 
 [74
 
 ]
-Underfull \hbox (badness 10000) in paragraph at lines 2277--2277
+Underfull \hbox (badness 10000) in paragraph at lines 2363--2363
 []\TU/lmr/m/n/10 Co-Autor, Examinador Ex-
  []
 
 
-Underfull \hbox (badness 10000) in paragraph at lines 2277--2277
+Underfull \hbox (badness 10000) in paragraph at lines 2363--2363
 []\TU/lmr/m/n/10 Co-Autor, Examinador Ex-
  []
 
 
-Underfull \hbox (badness 10000) in paragraph at lines 2277--2277
+Underfull \hbox (badness 10000) in paragraph at lines 2363--2363
 []\TU/lmr/m/n/10 Co-Autor, Examinador Ex-
  []
 
 
-Underfull \hbox (badness 10000) in paragraph at lines 2277--2277
+Underfull \hbox (badness 10000) in paragraph at lines 2363--2363
 []\TU/lmr/m/n/10 Co-Autor, Examinador Ex-
  []
 
 [75]
-Underfull \hbox (badness 10000) in paragraph at lines 2277--2277
+Underfull \hbox (badness 10000) in paragraph at lines 2363--2363
 []\TU/lmr/m/n/10 Co-Autor, Examinador Ex-
  []
 
 
-Underfull \hbox (badness 10000) in paragraph at lines 2277--2277
+Underfull \hbox (badness 10000) in paragraph at lines 2363--2363
 []\TU/lmr/m/n/10 Co-Autor, Examinador Ex-
  []
 
 
-Underfull \hbox (badness 10000) in paragraph at lines 2277--2277
+Underfull \hbox (badness 10000) in paragraph at lines 2363--2363
 []\TU/lmr/m/n/10 Co-Autor, Examinador Ex-
  []
 
 
-Underfull \hbox (badness 10000) in paragraph at lines 2277--2277
+Underfull \hbox (badness 10000) in paragraph at lines 2363--2363
 []\TU/lmr/m/n/10 Co-Autor, Examinador Ex-
  []
 
 
-Underfull \hbox (badness 10000) in paragraph at lines 2277--2277
+Underfull \hbox (badness 10000) in paragraph at lines 2363--2363
 []\TU/lmr/m/n/10 Co-Autor, Examinador Ex-
  []
 
 [76]
-Underfull \hbox (badness 10000) in paragraph at lines 2277--2277
+Underfull \hbox (badness 10000) in paragraph at lines 2363--2363
 []\TU/lmr/m/n/10 Co-Autor, Examinador Ex-
  []
 
 
-Underfull \hbox (badness 10000) in paragraph at lines 2277--2277
+Underfull \hbox (badness 10000) in paragraph at lines 2363--2363
 []\TU/lmr/m/n/10 Co-Autor, Examinador Ex-
  []
 
 
-Underfull \hbox (badness 10000) in paragraph at lines 2277--2277
+Underfull \hbox (badness 10000) in paragraph at lines 2363--2363
 []\TU/lmr/m/n/10 Co-Autor, Examinador Ex-
  []
 
 
-Underfull \hbox (badness 10000) in paragraph at lines 2277--2277
+Underfull \hbox (badness 10000) in paragraph at lines 2363--2363
 []\TU/lmr/m/n/10 Co-Autor, Examinador Ex-
  []
 
 
-Underfull \hbox (badness 10000) in paragraph at lines 2277--2277
+Underfull \hbox (badness 10000) in paragraph at lines 2363--2363
 []\TU/lmr/m/n/10 Co-Autor, Examinador Ex-
  []
 
 
-Underfull \hbox (badness 10000) in paragraph at lines 2277--2277
+Underfull \hbox (badness 10000) in paragraph at lines 2363--2363
 []\TU/lmr/m/n/10 Co-Autor, Examinador Ex-
  []
 
 
-Underfull \hbox (badness 10000) in paragraph at lines 2277--2277
+Underfull \hbox (badness 10000) in paragraph at lines 2363--2363
 []\TU/lmr/m/n/10 Co-Autor, Examinador Ex-
  []
 
 [77]
-Underfull \hbox (badness 10000) in paragraph at lines 2277--2277
+Underfull \hbox (badness 10000) in paragraph at lines 2363--2363
 []\TU/lmr/m/n/10 Co-Autor, Examinador Ex-
  []
 
 [78]
-Underfull \hbox (badness 1755) in paragraph at lines 2297--2297
+Underfull \hbox (badness 1755) in paragraph at lines 2383--2383
 []\TU/lmr/bx/n/10 JESSICA DANIELLE MEDEI-
  []
 
 
-Underfull \hbox (badness 1755) in paragraph at lines 2297--2297
+Underfull \hbox (badness 1755) in paragraph at lines 2383--2383
 []\TU/lmr/bx/n/10 JESSICA DANIELLE MEDEI-
  []
 
 [79]
-Underfull \hbox (badness 10000) in paragraph at lines 2322--2322
+Underfull \hbox (badness 10000) in paragraph at lines 2408--2408
 []\TU/lmr/bx/n/10 Ano
  []
 
 
-Underfull \hbox (badness 10000) in paragraph at lines 2322--2322
+Underfull \hbox (badness 10000) in paragraph at lines 2408--2408
 \TU/lmr/bx/n/10 (iní-
  []
 
 
-Underfull \hbox (badness 10000) in paragraph at lines 2322--2322
+Underfull \hbox (badness 10000) in paragraph at lines 2408--2408
 []\TU/lmr/bx/n/10 Ano
  []
 
 
-Underfull \hbox (badness 2591) in paragraph at lines 2322--2322
+Underfull \hbox (badness 2591) in paragraph at lines 2408--2408
 []\TU/lmr/m/n/10 International Journal of Environ-
  []
 
 
-Underfull \hbox (badness 1728) in paragraph at lines 2322--2322
+Underfull \hbox (badness 1728) in paragraph at lines 2408--2408
 []\TU/lmr/m/n/10 GIANE AMORIM RIBEIRO SA-
  []
 
 
-Underfull \hbox (badness 10000) in paragraph at lines 2322--2322
+Underfull \hbox (badness 10000) in paragraph at lines 2408--2408
 []\TU/lmr/bx/n/10 Ano
  []
 
 
-Underfull \hbox (badness 10000) in paragraph at lines 2322--2322
+Underfull \hbox (badness 10000) in paragraph at lines 2408--2408
 \TU/lmr/bx/n/10 (iní-
  []
 
 
-Underfull \hbox (badness 10000) in paragraph at lines 2322--2322
+Underfull \hbox (badness 10000) in paragraph at lines 2408--2408
 []\TU/lmr/bx/n/10 Ano
  []
 
 
-Underfull \hbox (badness 2591) in paragraph at lines 2322--2322
+Underfull \hbox (badness 2591) in paragraph at lines 2408--2408
 []\TU/lmr/m/n/10 International Journal of Environ-
  []
 
 
-Underfull \hbox (badness 1728) in paragraph at lines 2322--2322
+Underfull \hbox (badness 1728) in paragraph at lines 2408--2408
 []\TU/lmr/m/n/10 GIANE AMORIM RIBEIRO SA-
  []
 
@@ -3038,10 +3052,10 @@ LaTeX Warning: There were multiply-defined labels.
 
  ) 
 Here is how much of TeX's memory you used:
- 48741 strings out of 468174
- 1024692 string characters out of 5433151
- 1680089 words of memory out of 5000000
- 76821 multiletter control sequences out of 15000+600000
+ 48742 strings out of 468174
+ 1024715 string characters out of 5433150
+ 1680181 words of memory out of 5000000
+ 76822 multiletter control sequences out of 15000+600000
  631776 words of font info for 79 fonts, out of 8000000 for 9000
  1348 hyphenation exceptions out of 8191
  99i,19n,126p,1212b,6265s stack positions out of 10000i,1000n,20000p,200000b,200000s
